@@ -1,0 +1,965 @@
+﻿MatchID,Year,Decade,Date,Time,Stage,StageType,Group,Stadium,HostCity,HostCountry,HomeTeam,AwayTeam,HomeGoals,AwayGoals,TotalGoals,GoalDifference,Result,Winner,ExtraTime,PenaltyShootout,HomePenaltyGoals,AwayPenaltyGoals,HighScoringMatch,Scoreline
+M-1930-01,1930,1930s,1930-07-13,15:00,Group Stage,Group Stage,Group 1,Estadio Pocitos,Montevideo,Uruguay,France,Mexico,4,1,5,3,Home Win,France,No,No,0,0,Yes,4–1
+M-1930-02,1930,1930s,1930-07-13,15:00,Group Stage,Group Stage,Group 4,Estadio Gran Parque Central,Montevideo,Uruguay,United States,Belgium,3,0,3,3,Home Win,United States,No,No,0,0,No,3–0
+M-1930-03,1930,1930s,1930-07-14,12:45,Group Stage,Group Stage,Group 2,Estadio Gran Parque Central,Montevideo,Uruguay,Yugoslavia,Brazil,2,1,3,1,Home Win,Yugoslavia,No,No,0,0,No,2–1
+M-1930-04,1930,1930s,1930-07-14,14:50,Group Stage,Group Stage,Group 3,Estadio Pocitos,Montevideo,Uruguay,Romania,Peru,3,1,4,2,Home Win,Romania,No,No,0,0,No,3–1
+M-1930-05,1930,1930s,1930-07-15,16:00,Group Stage,Group Stage,Group 1,Estadio Gran Parque Central,Montevideo,Uruguay,Argentina,France,1,0,1,1,Home Win,Argentina,No,No,0,0,No,1–0
+M-1930-06,1930,1930s,1930-07-16,14:45,Group Stage,Group Stage,Group 1,Estadio Gran Parque Central,Montevideo,Uruguay,Chile,Mexico,3,0,3,3,Home Win,Chile,No,No,0,0,No,3–0
+M-1930-07,1930,1930s,1930-07-17,12:45,Group Stage,Group Stage,Group 2,Estadio Gran Parque Central,Montevideo,Uruguay,Yugoslavia,Bolivia,4,0,4,4,Home Win,Yugoslavia,No,No,0,0,No,4–0
+M-1930-08,1930,1930s,1930-07-17,14:45,Group Stage,Group Stage,Group 4,Estadio Gran Parque Central,Montevideo,Uruguay,United States,Paraguay,3,0,3,3,Home Win,United States,No,No,0,0,No,3–0
+M-1930-09,1930,1930s,1930-07-18,14:30,Group Stage,Group Stage,Group 3,Estadio Centenario,Montevideo,Uruguay,Uruguay,Peru,1,0,1,1,Home Win,Uruguay,No,No,0,0,No,1–0
+M-1930-10,1930,1930s,1930-07-19,12:50,Group Stage,Group Stage,Group 1,Estadio Centenario,Montevideo,Uruguay,Chile,France,1,0,1,1,Home Win,Chile,No,No,0,0,No,1–0
+M-1930-11,1930,1930s,1930-07-19,15:00,Group Stage,Group Stage,Group 1,Estadio Centenario,Montevideo,Uruguay,Argentina,Mexico,6,3,9,3,Home Win,Argentina,No,No,0,0,Yes,6–3
+M-1930-12,1930,1930s,1930-07-20,13:00,Group Stage,Group Stage,Group 2,Estadio Centenario,Montevideo,Uruguay,Brazil,Bolivia,4,0,4,4,Home Win,Brazil,No,No,0,0,No,4–0
+M-1930-13,1930,1930s,1930-07-20,15:00,Group Stage,Group Stage,Group 4,Estadio Centenario,Montevideo,Uruguay,Paraguay,Belgium,1,0,1,1,Home Win,Paraguay,No,No,0,0,No,1–0
+M-1930-14,1930,1930s,1930-07-21,14:50,Group Stage,Group Stage,Group 3,Estadio Centenario,Montevideo,Uruguay,Uruguay,Romania,4,0,4,4,Home Win,Uruguay,No,No,0,0,No,4–0
+M-1930-15,1930,1930s,1930-07-22,14:45,Group Stage,Group Stage,Group 1,Estadio Centenario,Montevideo,Uruguay,Argentina,Chile,3,1,4,2,Home Win,Argentina,No,No,0,0,No,3–1
+M-1930-16,1930,1930s,1930-07-26,14:45,Semi-Finals,Knockout Stage,not applicable,Estadio Centenario,Montevideo,Uruguay,Argentina,United States,6,1,7,5,Home Win,Argentina,No,No,0,0,Yes,6–1
+M-1930-17,1930,1930s,1930-07-27,14:45,Semi-Finals,Knockout Stage,not applicable,Estadio Centenario,Montevideo,Uruguay,Uruguay,Yugoslavia,6,1,7,5,Home Win,Uruguay,No,No,0,0,Yes,6–1
+M-1930-18,1930,1930s,1930-07-30,14:15,Final,Knockout Stage,not applicable,Estadio Centenario,Montevideo,Uruguay,Uruguay,Argentina,4,2,6,2,Home Win,Uruguay,No,No,0,0,Yes,4–2
+M-1934-01,1934,1930s,1934-05-27,16:00,Round Of 16,Knockout Stage,not applicable,Stadio Benito Mussolini,Turin,Italy,Austria,France,3,2,5,1,Home Win,Austria,Yes,No,0,0,Yes,3–2
+M-1934-02,1934,1930s,1934-05-27,16:00,Round Of 16,Knockout Stage,not applicable,Stadio Littorio,Trieste,Italy,Czechoslovakia,Romania,2,1,3,1,Home Win,Czechoslovakia,No,No,0,0,No,2–1
+M-1934-03,1934,1930s,1934-05-27,16:00,Round Of 16,Knockout Stage,not applicable,Stadio Giovanni Berta,Florence,Italy,Germany,Belgium,5,2,7,3,Home Win,Germany,No,No,0,0,Yes,5–2
+M-1934-04,1934,1930s,1934-05-27,16:00,Round Of 16,Knockout Stage,not applicable,Stadio Giorgio Ascarelli,Naples,Italy,Hungary,Egypt,4,2,6,2,Home Win,Hungary,No,No,0,0,Yes,4–2
+M-1934-05,1934,1930s,1934-05-27,16:00,Round Of 16,Knockout Stage,not applicable,Stadio Nazionale PNF,Rome,Italy,Italy,United States,7,1,8,6,Home Win,Italy,No,No,0,0,Yes,7–1
+M-1934-06,1934,1930s,1934-05-27,16:00,Round Of 16,Knockout Stage,not applicable,Stadio Luigi Ferraris,Genoa,Italy,Spain,Brazil,3,1,4,2,Home Win,Spain,No,No,0,0,No,3–1
+M-1934-07,1934,1930s,1934-05-27,16:00,Round Of 16,Knockout Stage,not applicable,Stadio Renato Dall'Ara,Bologna,Italy,Sweden,Argentina,3,2,5,1,Home Win,Sweden,No,No,0,0,Yes,3–2
+M-1934-08,1934,1930s,1934-05-27,16:00,Round Of 16,Knockout Stage,not applicable,San Siro,Milan,Italy,Switzerland,Netherlands,3,2,5,1,Home Win,Switzerland,No,No,0,0,Yes,3–2
+M-1934-09,1934,1930s,1934-05-31,16:30,Quarter-Finals,Knockout Stage,not applicable,Stadio Renato Dall'Ara,Bologna,Italy,Austria,Hungary,2,1,3,1,Home Win,Austria,No,No,0,0,No,2–1
+M-1934-10,1934,1930s,1934-05-31,16:30,Quarter-Finals,Knockout Stage,not applicable,Stadio Benito Mussolini,Turin,Italy,Czechoslovakia,Switzerland,3,2,5,1,Home Win,Czechoslovakia,No,No,0,0,Yes,3–2
+M-1934-11,1934,1930s,1934-05-31,16:30,Quarter-Finals,Knockout Stage,not applicable,San Siro,Milan,Italy,Germany,Sweden,2,1,3,1,Home Win,Germany,No,No,0,0,No,2–1
+M-1934-12,1934,1930s,1934-05-31,16:30,Quarter-Finals,Knockout Stage,not applicable,Stadio Giovanni Berta,Florence,Italy,Italy,Spain,1,1,2,0,Draw,Draw,Yes,No,0,0,No,1–1
+M-1934-13,1934,1930s,1934-06-01,16:30,Quarter-Finals,Knockout Stage,not applicable,Stadio Giovanni Berta,Florence,Italy,Italy,Spain,1,0,1,1,Home Win,Italy,No,No,0,0,No,1–0
+M-1934-14,1934,1930s,1934-06-03,16:30,Semi-Finals,Knockout Stage,not applicable,Stadio Nazionale PNF,Rome,Italy,Czechoslovakia,Germany,3,1,4,2,Home Win,Czechoslovakia,No,No,0,0,No,3–1
+M-1934-15,1934,1930s,1934-06-03,16:30,Semi-Finals,Knockout Stage,not applicable,San Siro,Milan,Italy,Italy,Austria,1,0,1,1,Home Win,Italy,No,No,0,0,No,1–0
+M-1934-16,1934,1930s,1934-06-07,18:00,Third-Place Match,Knockout Stage,not applicable,Stadio Giorgio Ascarelli,Naples,Italy,Germany,Austria,3,2,5,1,Home Win,Germany,No,No,0,0,Yes,3–2
+M-1934-17,1934,1930s,1934-06-10,17:00,Final,Knockout Stage,not applicable,Stadio Nazionale PNF,Rome,Italy,Italy,Czechoslovakia,2,1,3,1,Home Win,Italy,Yes,No,0,0,No,2–1
+M-1938-01,1938,1930s,1938-06-04,17:00,Round Of 16,Knockout Stage,not applicable,Parc des Princes,Paris,France,Switzerland,Germany,1,1,2,0,Draw,Draw,Yes,No,0,0,No,1–1
+M-1938-02,1938,1930s,1938-06-05,17:00,Round Of 16,Knockout Stage,not applicable,Stade du T.O.E.C.,Toulouse,France,Cuba,Romania,3,3,6,0,Draw,Draw,Yes,No,0,0,Yes,3–3
+M-1938-03,1938,1930s,1938-06-05,17:00,Round Of 16,Knockout Stage,not applicable,Stade Olympique de Colombes,Paris,France,France,Belgium,3,1,4,2,Home Win,France,No,No,0,0,No,3–1
+M-1938-04,1938,1930s,1938-06-05,17:00,Round Of 16,Knockout Stage,not applicable,Vélodrome Municipal,Reims,France,Hungary,Dutch East Indies,6,0,6,6,Home Win,Hungary,No,No,0,0,Yes,6–0
+M-1938-05,1938,1930s,1938-06-05,17:00,Round Of 16,Knockout Stage,not applicable,Stade Vélodrome,Marseille,France,Italy,Norway,2,1,3,1,Home Win,Italy,Yes,No,0,0,No,2–1
+M-1938-06,1938,1930s,1938-06-05,17:30,Round Of 16,Knockout Stage,not applicable,Stade de la Meinau,Strasbourg,France,Brazil,Poland,6,5,11,1,Home Win,Brazil,Yes,No,0,0,Yes,6–5
+M-1938-07,1938,1930s,1938-06-05,18:30,Round Of 16,Knockout Stage,not applicable,Stade Jules Deschaseaux,Le Havre,France,Czechoslovakia,Netherlands,3,0,3,3,Home Win,Czechoslovakia,Yes,No,0,0,No,3–0
+M-1938-08,1938,1930s,1938-06-09,18:00,Round Of 16,Knockout Stage,not applicable,Stade du T.O.E.C.,Toulouse,France,Cuba,Romania,2,1,3,1,Home Win,Cuba,No,No,0,0,No,2–1
+M-1938-09,1938,1930s,1938-06-09,18:00,Round Of 16,Knockout Stage,not applicable,Parc des Princes,Paris,France,Switzerland,Germany,4,2,6,2,Home Win,Switzerland,No,No,0,0,Yes,4–2
+M-1938-10,1938,1930s,1938-06-12,17:00,Quarter-Finals,Knockout Stage,not applicable,Stade du Parc Lescure,Bordeaux,France,Brazil,Czechoslovakia,1,1,2,0,Draw,Draw,Yes,No,0,0,No,1–1
+M-1938-11,1938,1930s,1938-06-12,17:00,Quarter-Finals,Knockout Stage,not applicable,Stade Victor Boucquey,Lille,France,Hungary,Switzerland,2,0,2,2,Home Win,Hungary,No,No,0,0,No,2–0
+M-1938-12,1938,1930s,1938-06-12,17:00,Quarter-Finals,Knockout Stage,not applicable,Stade Olympique de Colombes,Paris,France,Italy,France,3,1,4,2,Home Win,Italy,No,No,0,0,No,3–1
+M-1938-13,1938,1930s,1938-06-12,17:00,Quarter-Finals,Knockout Stage,not applicable,Stade du Fort Carré,Antibes,France,Sweden,Cuba,8,0,8,8,Home Win,Sweden,No,No,0,0,Yes,8–0
+M-1938-14,1938,1930s,1938-06-14,18:00,Quarter-Finals,Knockout Stage,not applicable,Stade du Parc Lescure,Bordeaux,France,Brazil,Czechoslovakia,2,1,3,1,Home Win,Brazil,No,No,0,0,No,2–1
+M-1938-15,1938,1930s,1938-06-16,18:00,Semi-Finals,Knockout Stage,not applicable,Parc des Princes,Paris,France,Hungary,Sweden,5,1,6,4,Home Win,Hungary,No,No,0,0,Yes,5–1
+M-1938-16,1938,1930s,1938-06-16,18:00,Semi-Finals,Knockout Stage,not applicable,Stade Vélodrome,Marseille,France,Italy,Brazil,2,1,3,1,Home Win,Italy,No,No,0,0,No,2–1
+M-1938-17,1938,1930s,1938-06-19,17:00,Third-Place Match,Knockout Stage,not applicable,Stade du Parc Lescure,Bordeaux,France,Brazil,Sweden,4,2,6,2,Home Win,Brazil,No,No,0,0,Yes,4–2
+M-1938-18,1938,1930s,1938-06-19,17:00,Final,Knockout Stage,not applicable,Stade Olympique de Colombes,Paris,France,Italy,Hungary,4,2,6,2,Home Win,Italy,No,No,0,0,Yes,4–2
+M-1950-01,1950,1950s,1950-06-24,15:00,Group Stage,Group Stage,Group 1,Estádio do Maracanã,Rio de Janeiro,Brazil,Brazil,Mexico,4,0,4,4,Home Win,Brazil,No,No,0,0,No,4–0
+M-1950-02,1950,1950s,1950-06-25,15:00,Group Stage,Group Stage,Group 1,Estádio Independência,Belo Horizonte,Brazil,Yugoslavia,Switzerland,3,0,3,3,Home Win,Yugoslavia,No,No,0,0,No,3–0
+M-1950-03,1950,1950s,1950-06-25,15:00,Group Stage,Group Stage,Group 2,Estádio do Maracanã,Rio de Janeiro,Brazil,England,Chile,2,0,2,2,Home Win,England,No,No,0,0,No,2–0
+M-1950-04,1950,1950s,1950-06-25,15:00,Group Stage,Group Stage,Group 2,Estádio Vila Capanema,Curitiba,Brazil,Spain,United States,3,1,4,2,Home Win,Spain,No,No,0,0,No,3–1
+M-1950-05,1950,1950s,1950-06-25,15:00,Group Stage,Group Stage,Group 3,Estádio do Pacaembu,São Paulo,Brazil,Sweden,Italy,3,2,5,1,Home Win,Sweden,No,No,0,0,Yes,3–2
+M-1950-06,1950,1950s,1950-06-28,15:00,Group Stage,Group Stage,Group 1,Estádio do Pacaembu,São Paulo,Brazil,Brazil,Switzerland,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1950-07,1950,1950s,1950-06-28,15:00,Group Stage,Group Stage,Group 1,Estádio dos Eucaliptos,Porto Alegre,Brazil,Yugoslavia,Mexico,4,1,5,3,Home Win,Yugoslavia,No,No,0,0,Yes,4–1
+M-1950-08,1950,1950s,1950-06-29,15:00,Group Stage,Group Stage,Group 2,Estádio do Maracanã,Rio de Janeiro,Brazil,Spain,Chile,2,0,2,2,Home Win,Spain,No,No,0,0,No,2–0
+M-1950-09,1950,1950s,1950-06-29,15:00,Group Stage,Group Stage,Group 2,Estádio Independência,Belo Horizonte,Brazil,United States,England,1,0,1,1,Home Win,United States,No,No,0,0,No,1–0
+M-1950-10,1950,1950s,1950-06-29,15:30,Group Stage,Group Stage,Group 3,Estádio Vila Capanema,Curitiba,Brazil,Sweden,Paraguay,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1950-11,1950,1950s,1950-07-01,15:00,Group Stage,Group Stage,Group 1,Estádio do Maracanã,Rio de Janeiro,Brazil,Brazil,Yugoslavia,2,0,2,2,Home Win,Brazil,No,No,0,0,No,2–0
+M-1950-12,1950,1950s,1950-07-02,15:00,Group Stage,Group Stage,Group 2,Estádio Ilha do Retiro,Recife,Brazil,Chile,United States,5,2,7,3,Home Win,Chile,No,No,0,0,Yes,5–2
+M-1950-13,1950,1950s,1950-07-02,15:00,Group Stage,Group Stage,Group 2,Estádio do Maracanã,Rio de Janeiro,Brazil,Spain,England,1,0,1,1,Home Win,Spain,No,No,0,0,No,1–0
+M-1950-14,1950,1950s,1950-07-02,15:00,Group Stage,Group Stage,Group 3,Estádio do Pacaembu,São Paulo,Brazil,Italy,Paraguay,2,0,2,2,Home Win,Italy,No,No,0,0,No,2–0
+M-1950-15,1950,1950s,1950-07-02,15:00,Group Stage,Group Stage,Group 4,Estádio Independência,Belo Horizonte,Brazil,Uruguay,Bolivia,8,0,8,8,Home Win,Uruguay,No,No,0,0,Yes,8–0
+M-1950-16,1950,1950s,1950-07-02,15:40,Group Stage,Group Stage,Group 1,Estádio dos Eucaliptos,Porto Alegre,Brazil,Switzerland,Mexico,2,1,3,1,Home Win,Switzerland,No,No,0,0,No,2–1
+M-1950-17,1950,1950s,1950-07-09,15:00,Final Round,Group Stage,not applicable,Estádio do Maracanã,Rio de Janeiro,Brazil,Brazil,Sweden,7,1,8,6,Home Win,Brazil,No,No,0,0,Yes,7–1
+M-1950-18,1950,1950s,1950-07-09,15:00,Final Round,Group Stage,not applicable,Estádio do Pacaembu,São Paulo,Brazil,Uruguay,Spain,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1950-19,1950,1950s,1950-07-13,15:00,Final Round,Group Stage,not applicable,Estádio do Maracanã,Rio de Janeiro,Brazil,Brazil,Spain,6,1,7,5,Home Win,Brazil,No,No,0,0,Yes,6–1
+M-1950-20,1950,1950s,1950-07-13,15:00,Final Round,Group Stage,not applicable,Estádio do Pacaembu,São Paulo,Brazil,Uruguay,Sweden,3,2,5,1,Home Win,Uruguay,No,No,0,0,Yes,3–2
+M-1950-21,1950,1950s,1950-07-16,15:00,Final Round,Group Stage,not applicable,Estádio do Pacaembu,São Paulo,Brazil,Sweden,Spain,3,1,4,2,Home Win,Sweden,No,No,0,0,No,3–1
+M-1950-22,1950,1950s,1950-07-16,15:00,Final Round,Group Stage,not applicable,Estádio do Maracanã,Rio de Janeiro,Brazil,Uruguay,Brazil,2,1,3,1,Home Win,Uruguay,No,No,0,0,No,2–1
+M-1954-01,1954,1950s,1954-06-16,18:00,Group Stage,Group Stage,Group 1,Charmilles Stadium,Geneva,Switzerland,Brazil,Mexico,5,0,5,5,Home Win,Brazil,No,No,0,0,Yes,5–0
+M-1954-02,1954,1950s,1954-06-16,18:00,Group Stage,Group Stage,Group 1,Stade Olympique de la Pontaise,Lausanne,Switzerland,Yugoslavia,France,1,0,1,1,Home Win,Yugoslavia,No,No,0,0,No,1–0
+M-1954-03,1954,1950s,1954-06-16,18:00,Group Stage,Group Stage,Group 3,Hardturm Stadium,Zürich,Switzerland,Austria,Scotland,1,0,1,1,Home Win,Austria,No,No,0,0,No,1–0
+M-1954-04,1954,1950s,1954-06-16,18:00,Group Stage,Group Stage,Group 3,Wankdorf Stadium,Bern,Switzerland,Uruguay,Czechoslovakia,2,0,2,2,Home Win,Uruguay,No,No,0,0,No,2–0
+M-1954-05,1954,1950s,1954-06-17,17:50,Group Stage,Group Stage,Group 4,Stade Olympique de la Pontaise,Lausanne,Switzerland,Switzerland,Italy,2,1,3,1,Home Win,Switzerland,No,No,0,0,No,2–1
+M-1954-06,1954,1950s,1954-06-17,18:00,Group Stage,Group Stage,Group 2,Hardturm Stadium,Zürich,Switzerland,Hungary,South Korea,9,0,9,9,Home Win,Hungary,No,No,0,0,Yes,9–0
+M-1954-07,1954,1950s,1954-06-17,18:00,Group Stage,Group Stage,Group 2,Wankdorf Stadium,Bern,Switzerland,West Germany,Turkey,4,1,5,3,Home Win,West Germany,No,No,0,0,Yes,4–1
+M-1954-08,1954,1950s,1954-06-17,18:10,Group Stage,Group Stage,Group 4,St. Jakob Stadium,Basel,Switzerland,England,Belgium,4,4,8,0,Draw,Draw,Yes,No,0,0,Yes,4–4
+M-1954-09,1954,1950s,1954-06-19,16:50,Group Stage,Group Stage,Group 3,St. Jakob Stadium,Basel,Switzerland,Uruguay,Scotland,7,0,7,7,Home Win,Uruguay,No,No,0,0,Yes,7–0
+M-1954-10,1954,1950s,1954-06-19,17:00,Group Stage,Group Stage,Group 1,Stade Olympique de la Pontaise,Lausanne,Switzerland,Brazil,Yugoslavia,1,1,2,0,Draw,Draw,Yes,No,0,0,No,1–1
+M-1954-11,1954,1950s,1954-06-19,17:00,Group Stage,Group Stage,Group 3,Hardturm Stadium,Zürich,Switzerland,Austria,Czechoslovakia,5,0,5,5,Home Win,Austria,No,No,0,0,Yes,5–0
+M-1954-12,1954,1950s,1954-06-19,17:10,Group Stage,Group Stage,Group 1,Charmilles Stadium,Geneva,Switzerland,France,Mexico,3,2,5,1,Home Win,France,No,No,0,0,Yes,3–2
+M-1954-13,1954,1950s,1954-06-20,16:50,Group Stage,Group Stage,Group 2,St. Jakob Stadium,Basel,Switzerland,Hungary,West Germany,8,3,11,5,Home Win,Hungary,No,No,0,0,Yes,8–3
+M-1954-14,1954,1950s,1954-06-20,17:00,Group Stage,Group Stage,Group 2,Charmilles Stadium,Geneva,Switzerland,Turkey,South Korea,7,0,7,7,Home Win,Turkey,No,No,0,0,Yes,7–0
+M-1954-15,1954,1950s,1954-06-20,17:00,Group Stage,Group Stage,Group 4,Cornaredo Stadium,Lugano,Switzerland,Italy,Belgium,4,1,5,3,Home Win,Italy,No,No,0,0,Yes,4–1
+M-1954-16,1954,1950s,1954-06-20,17:10,Group Stage,Group Stage,Group 4,Wankdorf Stadium,Bern,Switzerland,England,Switzerland,2,0,2,2,Home Win,England,No,No,0,0,No,2–0
+M-1954-17,1954,1950s,1954-06-23,18:00,Group Stage,Group Stage,Group 2,Hardturm Stadium,Zürich,Switzerland,West Germany,Turkey,7,2,9,5,Home Win,West Germany,No,No,0,0,Yes,7–2
+M-1954-18,1954,1950s,1954-06-23,18:00,Group Stage,Group Stage,Group 4,St. Jakob Stadium,Basel,Switzerland,Switzerland,Italy,4,1,5,3,Home Win,Switzerland,No,No,0,0,Yes,4–1
+M-1954-19,1954,1950s,1954-06-26,17:00,Quarter-Finals,Knockout Stage,not applicable,Stade Olympique de la Pontaise,Lausanne,Switzerland,Austria,Switzerland,7,5,12,2,Home Win,Austria,No,No,0,0,Yes,7–5
+M-1954-20,1954,1950s,1954-06-26,17:00,Quarter-Finals,Knockout Stage,not applicable,St. Jakob Stadium,Basel,Switzerland,Uruguay,England,4,2,6,2,Home Win,Uruguay,No,No,0,0,Yes,4–2
+M-1954-21,1954,1950s,1954-06-27,17:00,Quarter-Finals,Knockout Stage,not applicable,Wankdorf Stadium,Bern,Switzerland,Hungary,Brazil,4,2,6,2,Home Win,Hungary,No,No,0,0,Yes,4–2
+M-1954-22,1954,1950s,1954-06-27,17:00,Quarter-Finals,Knockout Stage,not applicable,Charmilles Stadium,Geneva,Switzerland,West Germany,Yugoslavia,2,0,2,2,Home Win,West Germany,No,No,0,0,No,2–0
+M-1954-23,1954,1950s,1954-06-30,18:00,Semi-Finals,Knockout Stage,not applicable,Stade Olympique de la Pontaise,Lausanne,Switzerland,Hungary,Uruguay,4,2,6,2,Home Win,Hungary,Yes,No,0,0,Yes,4–2
+M-1954-24,1954,1950s,1954-06-30,18:00,Semi-Finals,Knockout Stage,not applicable,St. Jakob Stadium,Basel,Switzerland,West Germany,Austria,6,1,7,5,Home Win,West Germany,No,No,0,0,Yes,6–1
+M-1954-25,1954,1950s,1954-07-03,17:00,Third-Place Match,Knockout Stage,not applicable,Hardturm Stadium,Zürich,Switzerland,Austria,Uruguay,3,1,4,2,Home Win,Austria,No,No,0,0,No,3–1
+M-1954-26,1954,1950s,1954-07-04,17:00,Final,Knockout Stage,not applicable,Wankdorf Stadium,Bern,Switzerland,West Germany,Hungary,3,2,5,1,Home Win,West Germany,No,No,0,0,Yes,3–2
+M-1958-01,1958,1950s,1958-06-08,14:00,Group Stage,Group Stage,Group 3,Råsunda Stadium,Solna,Sweden,Sweden,Mexico,3,0,3,3,Home Win,Sweden,No,No,0,0,No,3–0
+M-1958-02,1958,1950s,1958-06-08,19:00,Group Stage,Group Stage,Group 1,Malmö Stadion,Malmö,Sweden,Argentina,West Germany,1,3,4,2,Away Win,West Germany,No,No,0,0,No,1–3
+M-1958-03,1958,1950s,1958-06-08,19:00,Group Stage,Group Stage,Group 1,Örjans Vall,Halmstad,Sweden,Northern Ireland,Czechoslovakia,1,0,1,1,Home Win,Northern Ireland,No,No,0,0,No,1–0
+M-1958-04,1958,1950s,1958-06-08,19:00,Group Stage,Group Stage,Group 2,Idrottsparken,Norrköping,Sweden,France,Paraguay,7,3,10,4,Home Win,France,No,No,0,0,Yes,7–3
+M-1958-05,1958,1950s,1958-06-08,19:00,Group Stage,Group Stage,Group 2,Arosvallen,Västerås,Sweden,Yugoslavia,Scotland,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1958-06,1958,1950s,1958-06-08,19:00,Group Stage,Group Stage,Group 3,Jernvallen,Sandviken,Sweden,Hungary,Wales,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1958-07,1958,1950s,1958-06-08,19:00,Group Stage,Group Stage,Group 4,Rimnersvallen,Uddevalla,Sweden,Brazil,Austria,3,0,3,3,Home Win,Brazil,No,No,0,0,No,3–0
+M-1958-08,1958,1950s,1958-06-08,19:00,Group Stage,Group Stage,Group 4,Ullevi,Gothenburg,Sweden,Soviet Union,England,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1958-09,1958,1950s,1958-06-11,19:00,Group Stage,Group Stage,Group 1,Örjans Vall,Halmstad,Sweden,Argentina,Northern Ireland,3,1,4,2,Home Win,Argentina,No,No,0,0,No,3–1
+M-1958-10,1958,1950s,1958-06-11,19:00,Group Stage,Group Stage,Group 1,Olympia,Helsingborg,Sweden,West Germany,Czechoslovakia,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1958-11,1958,1950s,1958-06-11,19:00,Group Stage,Group Stage,Group 2,Idrottsparken,Norrköping,Sweden,Paraguay,Scotland,3,2,5,1,Home Win,Paraguay,No,No,0,0,Yes,3–2
+M-1958-12,1958,1950s,1958-06-11,19:00,Group Stage,Group Stage,Group 2,Arosvallen,Västerås,Sweden,Yugoslavia,France,3,2,5,1,Home Win,Yugoslavia,No,No,0,0,Yes,3–2
+M-1958-13,1958,1950s,1958-06-11,19:00,Group Stage,Group Stage,Group 3,Råsunda Stadium,Solna,Sweden,Mexico,Wales,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1958-14,1958,1950s,1958-06-11,19:00,Group Stage,Group Stage,Group 4,Ullevi,Gothenburg,Sweden,Brazil,England,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1958-15,1958,1950s,1958-06-11,19:00,Group Stage,Group Stage,Group 4,Ryavallen,Borås,Sweden,Soviet Union,Austria,2,0,2,2,Home Win,Soviet Union,No,No,0,0,No,2–0
+M-1958-16,1958,1950s,1958-06-12,19:00,Group Stage,Group Stage,Group 3,Råsunda Stadium,Solna,Sweden,Sweden,Hungary,2,1,3,1,Home Win,Sweden,No,No,0,0,No,2–1
+M-1958-17,1958,1950s,1958-06-15,14:00,Group Stage,Group Stage,Group 3,Råsunda Stadium,Solna,Sweden,Sweden,Wales,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1958-18,1958,1950s,1958-06-15,19:00,Group Stage,Group Stage,Group 1,Olympia,Helsingborg,Sweden,Czechoslovakia,Argentina,6,1,7,5,Home Win,Czechoslovakia,No,No,0,0,Yes,6–1
+M-1958-19,1958,1950s,1958-06-15,19:00,Group Stage,Group Stage,Group 1,Malmö Stadion,Malmö,Sweden,West Germany,Northern Ireland,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1958-20,1958,1950s,1958-06-15,19:00,Group Stage,Group Stage,Group 2,Eyravallen,Örebro,Sweden,France,Scotland,2,1,3,1,Home Win,France,No,No,0,0,No,2–1
+M-1958-21,1958,1950s,1958-06-15,19:00,Group Stage,Group Stage,Group 2,Tunavallen,Eskilstuna,Sweden,Paraguay,Yugoslavia,3,3,6,0,Draw,Draw,No,No,0,0,Yes,3–3
+M-1958-22,1958,1950s,1958-06-15,19:00,Group Stage,Group Stage,Group 3,Jernvallen,Sandviken,Sweden,Hungary,Mexico,4,0,4,4,Home Win,Hungary,No,No,0,0,No,4–0
+M-1958-23,1958,1950s,1958-06-15,19:00,Group Stage,Group Stage,Group 4,Ullevi,Gothenburg,Sweden,Brazil,Soviet Union,2,0,2,2,Home Win,Brazil,No,No,0,0,No,2–0
+M-1958-24,1958,1950s,1958-06-15,19:00,Group Stage,Group Stage,Group 4,Ryavallen,Borås,Sweden,England,Austria,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1958-25,1958,1950s,1958-06-17,19:00,Group Stage,Group Stage,Group 1,Malmö Stadion,Malmö,Sweden,Northern Ireland,Czechoslovakia,2,1,3,1,Home Win,Northern Ireland,Yes,No,0,0,No,2–1
+M-1958-26,1958,1950s,1958-06-17,19:00,Group Stage,Group Stage,Group 3,Råsunda Stadium,Solna,Sweden,Wales,Hungary,2,1,3,1,Home Win,Wales,No,No,0,0,No,2–1
+M-1958-27,1958,1950s,1958-06-17,19:00,Group Stage,Group Stage,Group 4,Ullevi,Gothenburg,Sweden,Soviet Union,England,1,0,1,1,Home Win,Soviet Union,No,No,0,0,No,1–0
+M-1958-28,1958,1950s,1958-06-19,19:00,Quarter-Finals,Knockout Stage,not applicable,Ullevi,Gothenburg,Sweden,Brazil,Wales,1,0,1,1,Home Win,Brazil,No,No,0,0,No,1–0
+M-1958-29,1958,1950s,1958-06-19,19:00,Quarter-Finals,Knockout Stage,not applicable,Idrottsparken,Norrköping,Sweden,France,Northern Ireland,4,0,4,4,Home Win,France,No,No,0,0,No,4–0
+M-1958-30,1958,1950s,1958-06-19,19:00,Quarter-Finals,Knockout Stage,not applicable,Råsunda Stadium,Solna,Sweden,Sweden,Soviet Union,2,0,2,2,Home Win,Sweden,No,No,0,0,No,2–0
+M-1958-31,1958,1950s,1958-06-19,19:00,Quarter-Finals,Knockout Stage,not applicable,Malmö Stadion,Malmö,Sweden,West Germany,Yugoslavia,1,0,1,1,Home Win,West Germany,No,No,0,0,No,1–0
+M-1958-32,1958,1950s,1958-06-24,19:00,Semi-Finals,Knockout Stage,not applicable,Råsunda Stadium,Solna,Sweden,Brazil,France,5,2,7,3,Home Win,Brazil,No,No,0,0,Yes,5–2
+M-1958-33,1958,1950s,1958-06-24,19:00,Semi-Finals,Knockout Stage,not applicable,Ullevi,Gothenburg,Sweden,Sweden,West Germany,3,1,4,2,Home Win,Sweden,No,No,0,0,No,3–1
+M-1958-34,1958,1950s,1958-06-28,17:00,Third-Place Match,Knockout Stage,not applicable,Ullevi,Gothenburg,Sweden,France,West Germany,6,3,9,3,Home Win,France,No,No,0,0,Yes,6–3
+M-1958-35,1958,1950s,1958-06-29,15:00,Final,Knockout Stage,not applicable,Råsunda Stadium,Solna,Sweden,Brazil,Sweden,5,2,7,3,Home Win,Brazil,No,No,0,0,Yes,5–2
+M-1962-01,1962,1960s,1962-05-30,15:00,Group Stage,Group Stage,Group 1,Estadio Carlos Dittborn,Arica,Chile,Uruguay,Colombia,2,1,3,1,Home Win,Uruguay,No,No,0,0,No,2–1
+M-1962-02,1962,1960s,1962-05-30,15:00,Group Stage,Group Stage,Group 2,Estadio Nacional,Santiago,Chile,Chile,Switzerland,3,1,4,2,Home Win,Chile,No,No,0,0,No,3–1
+M-1962-03,1962,1960s,1962-05-30,15:00,Group Stage,Group Stage,Group 3,Estadio Sausalito,Viña del Mar,Chile,Brazil,Mexico,2,0,2,2,Home Win,Brazil,No,No,0,0,No,2–0
+M-1962-04,1962,1960s,1962-05-30,15:00,Group Stage,Group Stage,Group 4,Estadio El Teniente,Rancagua,Chile,Argentina,Bulgaria,1,0,1,1,Home Win,Argentina,No,No,0,0,No,1–0
+M-1962-05,1962,1960s,1962-05-31,15:00,Group Stage,Group Stage,Group 1,Estadio Carlos Dittborn,Arica,Chile,Soviet Union,Yugoslavia,2,0,2,2,Home Win,Soviet Union,No,No,0,0,No,2–0
+M-1962-06,1962,1960s,1962-05-31,15:00,Group Stage,Group Stage,Group 2,Estadio Nacional,Santiago,Chile,West Germany,Italy,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1962-07,1962,1960s,1962-05-31,15:00,Group Stage,Group Stage,Group 3,Estadio Sausalito,Viña del Mar,Chile,Czechoslovakia,Spain,1,0,1,1,Home Win,Czechoslovakia,No,No,0,0,No,1–0
+M-1962-08,1962,1960s,1962-05-31,15:00,Group Stage,Group Stage,Group 4,Estadio El Teniente,Rancagua,Chile,Hungary,England,2,1,3,1,Home Win,Hungary,No,No,0,0,No,2–1
+M-1962-09,1962,1960s,1962-06-02,15:00,Group Stage,Group Stage,Group 1,Estadio Carlos Dittborn,Arica,Chile,Yugoslavia,Uruguay,3,1,4,2,Home Win,Yugoslavia,No,No,0,0,No,3–1
+M-1962-10,1962,1960s,1962-06-02,15:00,Group Stage,Group Stage,Group 2,Estadio Nacional,Santiago,Chile,Chile,Italy,2,0,2,2,Home Win,Chile,No,No,0,0,No,2–0
+M-1962-11,1962,1960s,1962-06-02,15:00,Group Stage,Group Stage,Group 3,Estadio Sausalito,Viña del Mar,Chile,Brazil,Czechoslovakia,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1962-12,1962,1960s,1962-06-02,15:00,Group Stage,Group Stage,Group 4,Estadio El Teniente,Rancagua,Chile,England,Argentina,3,1,4,2,Home Win,England,No,No,0,0,No,3–1
+M-1962-13,1962,1960s,1962-06-03,15:00,Group Stage,Group Stage,Group 1,Estadio Carlos Dittborn,Arica,Chile,Soviet Union,Colombia,4,4,8,0,Draw,Draw,No,No,0,0,Yes,4–4
+M-1962-14,1962,1960s,1962-06-03,15:00,Group Stage,Group Stage,Group 2,Estadio Nacional,Santiago,Chile,West Germany,Switzerland,2,1,3,1,Home Win,West Germany,No,No,0,0,No,2–1
+M-1962-15,1962,1960s,1962-06-03,15:00,Group Stage,Group Stage,Group 3,Estadio Sausalito,Viña del Mar,Chile,Spain,Mexico,1,0,1,1,Home Win,Spain,No,No,0,0,No,1–0
+M-1962-16,1962,1960s,1962-06-03,15:00,Group Stage,Group Stage,Group 4,Estadio El Teniente,Rancagua,Chile,Hungary,Bulgaria,6,1,7,5,Home Win,Hungary,No,No,0,0,Yes,6–1
+M-1962-17,1962,1960s,1962-06-06,15:00,Group Stage,Group Stage,Group 1,Estadio Carlos Dittborn,Arica,Chile,Soviet Union,Uruguay,2,1,3,1,Home Win,Soviet Union,No,No,0,0,No,2–1
+M-1962-18,1962,1960s,1962-06-06,15:00,Group Stage,Group Stage,Group 2,Estadio Nacional,Santiago,Chile,West Germany,Chile,2,0,2,2,Home Win,West Germany,No,No,0,0,No,2–0
+M-1962-19,1962,1960s,1962-06-06,15:00,Group Stage,Group Stage,Group 3,Estadio Sausalito,Viña del Mar,Chile,Brazil,Spain,2,1,3,1,Home Win,Brazil,No,No,0,0,No,2–1
+M-1962-20,1962,1960s,1962-06-06,15:00,Group Stage,Group Stage,Group 4,Estadio El Teniente,Rancagua,Chile,Hungary,Argentina,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1962-21,1962,1960s,1962-06-07,15:00,Group Stage,Group Stage,Group 1,Estadio Carlos Dittborn,Arica,Chile,Yugoslavia,Colombia,5,0,5,5,Home Win,Yugoslavia,No,No,0,0,Yes,5–0
+M-1962-22,1962,1960s,1962-06-07,15:00,Group Stage,Group Stage,Group 2,Estadio Nacional,Santiago,Chile,Italy,Switzerland,3,0,3,3,Home Win,Italy,No,No,0,0,No,3–0
+M-1962-23,1962,1960s,1962-06-07,15:00,Group Stage,Group Stage,Group 3,Estadio Sausalito,Viña del Mar,Chile,Mexico,Czechoslovakia,3,1,4,2,Home Win,Mexico,No,No,0,0,No,3–1
+M-1962-24,1962,1960s,1962-06-07,15:00,Group Stage,Group Stage,Group 4,Estadio El Teniente,Rancagua,Chile,England,Bulgaria,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1962-25,1962,1960s,1962-06-10,14:30,Quarter-Finals,Knockout Stage,not applicable,Estadio Sausalito,Viña del Mar,Chile,Brazil,England,3,1,4,2,Home Win,Brazil,No,No,0,0,No,3–1
+M-1962-26,1962,1960s,1962-06-10,14:30,Quarter-Finals,Knockout Stage,not applicable,Estadio Carlos Dittborn,Arica,Chile,Chile,Soviet Union,2,1,3,1,Home Win,Chile,No,No,0,0,No,2–1
+M-1962-27,1962,1960s,1962-06-10,14:30,Quarter-Finals,Knockout Stage,not applicable,Estadio El Teniente,Rancagua,Chile,Czechoslovakia,Hungary,1,0,1,1,Home Win,Czechoslovakia,No,No,0,0,No,1–0
+M-1962-28,1962,1960s,1962-06-10,14:30,Quarter-Finals,Knockout Stage,not applicable,Estadio Nacional,Santiago,Chile,Yugoslavia,West Germany,1,0,1,1,Home Win,Yugoslavia,No,No,0,0,No,1–0
+M-1962-29,1962,1960s,1962-06-13,14:30,Semi-Finals,Knockout Stage,not applicable,Estadio Nacional,Santiago,Chile,Brazil,Chile,4,2,6,2,Home Win,Brazil,No,No,0,0,Yes,4–2
+M-1962-30,1962,1960s,1962-06-13,14:30,Semi-Finals,Knockout Stage,not applicable,Estadio Sausalito,Viña del Mar,Chile,Czechoslovakia,Yugoslavia,3,1,4,2,Home Win,Czechoslovakia,No,No,0,0,No,3–1
+M-1962-31,1962,1960s,1962-06-16,14:30,Third-Place Match,Knockout Stage,not applicable,Estadio Nacional,Santiago,Chile,Chile,Yugoslavia,1,0,1,1,Home Win,Chile,No,No,0,0,No,1–0
+M-1962-32,1962,1960s,1962-06-17,14:30,Final,Knockout Stage,not applicable,Estadio Nacional,Santiago,Chile,Brazil,Czechoslovakia,3,1,4,2,Home Win,Brazil,No,No,0,0,No,3–1
+M-1966-01,1966,1960s,1966-07-11,19:30,Group Stage,Group Stage,Group 1,Wembley Stadium,London,England,England,Uruguay,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1966-02,1966,1960s,1966-07-12,19:30,Group Stage,Group Stage,Group 2,Hillsborough Stadium,Sheffield,England,West Germany,Switzerland,5,0,5,5,Home Win,West Germany,No,No,0,0,Yes,5–0
+M-1966-03,1966,1960s,1966-07-12,19:30,Group Stage,Group Stage,Group 3,Goodison Park,Liverpool,England,Brazil,Bulgaria,2,0,2,2,Home Win,Brazil,No,No,0,0,No,2–0
+M-1966-04,1966,1960s,1966-07-12,19:30,Group Stage,Group Stage,Group 4,Ayresome Park,Middlesbrough,England,Soviet Union,North Korea,3,0,3,3,Home Win,Soviet Union,No,No,0,0,No,3–0
+M-1966-05,1966,1960s,1966-07-13,19:30,Group Stage,Group Stage,Group 1,Wembley Stadium,London,England,France,Mexico,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1966-06,1966,1960s,1966-07-13,19:30,Group Stage,Group Stage,Group 2,Villa Park,Birmingham,England,Argentina,Spain,2,1,3,1,Home Win,Argentina,No,No,0,0,No,2–1
+M-1966-07,1966,1960s,1966-07-13,19:30,Group Stage,Group Stage,Group 3,Old Trafford,Manchester,England,Portugal,Hungary,3,1,4,2,Home Win,Portugal,No,No,0,0,No,3–1
+M-1966-08,1966,1960s,1966-07-13,19:30,Group Stage,Group Stage,Group 4,Roker Park,Sunderland,England,Italy,Chile,2,0,2,2,Home Win,Italy,No,No,0,0,No,2–0
+M-1966-09,1966,1960s,1966-07-15,19:30,Group Stage,Group Stage,Group 1,White City Stadium,London,England,Uruguay,France,2,1,3,1,Home Win,Uruguay,No,No,0,0,No,2–1
+M-1966-10,1966,1960s,1966-07-15,19:30,Group Stage,Group Stage,Group 2,Hillsborough Stadium,Sheffield,England,Spain,Switzerland,2,1,3,1,Home Win,Spain,No,No,0,0,No,2–1
+M-1966-11,1966,1960s,1966-07-15,19:30,Group Stage,Group Stage,Group 3,Goodison Park,Liverpool,England,Hungary,Brazil,3,1,4,2,Home Win,Hungary,No,No,0,0,No,3–1
+M-1966-12,1966,1960s,1966-07-15,19:30,Group Stage,Group Stage,Group 4,Ayresome Park,Middlesbrough,England,Chile,North Korea,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1966-13,1966,1960s,1966-07-16,15:00,Group Stage,Group Stage,Group 2,Villa Park,Birmingham,England,Argentina,West Germany,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1966-14,1966,1960s,1966-07-16,15:00,Group Stage,Group Stage,Group 3,Old Trafford,Manchester,England,Portugal,Bulgaria,3,0,3,3,Home Win,Portugal,No,No,0,0,No,3–0
+M-1966-15,1966,1960s,1966-07-16,15:00,Group Stage,Group Stage,Group 4,Roker Park,Sunderland,England,Soviet Union,Italy,1,0,1,1,Home Win,Soviet Union,No,No,0,0,No,1–0
+M-1966-16,1966,1960s,1966-07-16,19:30,Group Stage,Group Stage,Group 1,Wembley Stadium,London,England,England,Mexico,2,0,2,2,Home Win,England,No,No,0,0,No,2–0
+M-1966-17,1966,1960s,1966-07-19,16:30,Group Stage,Group Stage,Group 1,Wembley Stadium,London,England,Mexico,Uruguay,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1966-18,1966,1960s,1966-07-19,19:30,Group Stage,Group Stage,Group 2,Hillsborough Stadium,Sheffield,England,Argentina,Switzerland,2,0,2,2,Home Win,Argentina,No,No,0,0,No,2–0
+M-1966-19,1966,1960s,1966-07-19,19:30,Group Stage,Group Stage,Group 3,Goodison Park,Liverpool,England,Portugal,Brazil,3,1,4,2,Home Win,Portugal,No,No,0,0,No,3–1
+M-1966-20,1966,1960s,1966-07-19,19:30,Group Stage,Group Stage,Group 4,Ayresome Park,Middlesbrough,England,North Korea,Italy,1,0,1,1,Home Win,North Korea,No,No,0,0,No,1–0
+M-1966-21,1966,1960s,1966-07-20,19:30,Group Stage,Group Stage,Group 1,Wembley Stadium,London,England,England,France,2,0,2,2,Home Win,England,No,No,0,0,No,2–0
+M-1966-22,1966,1960s,1966-07-20,19:30,Group Stage,Group Stage,Group 2,Villa Park,Birmingham,England,West Germany,Spain,2,1,3,1,Home Win,West Germany,No,No,0,0,No,2–1
+M-1966-23,1966,1960s,1966-07-20,19:30,Group Stage,Group Stage,Group 3,Old Trafford,Manchester,England,Hungary,Bulgaria,3,1,4,2,Home Win,Hungary,No,No,0,0,No,3–1
+M-1966-24,1966,1960s,1966-07-20,19:30,Group Stage,Group Stage,Group 4,Roker Park,Sunderland,England,Soviet Union,Chile,2,1,3,1,Home Win,Soviet Union,No,No,0,0,No,2–1
+M-1966-25,1966,1960s,1966-07-23,15:00,Quarter-Finals,Knockout Stage,not applicable,Wembley Stadium,London,England,England,Argentina,1,0,1,1,Home Win,England,No,No,0,0,No,1–0
+M-1966-26,1966,1960s,1966-07-23,15:00,Quarter-Finals,Knockout Stage,not applicable,Goodison Park,Liverpool,England,Portugal,North Korea,5,3,8,2,Home Win,Portugal,No,No,0,0,Yes,5–3
+M-1966-27,1966,1960s,1966-07-23,15:00,Quarter-Finals,Knockout Stage,not applicable,Roker Park,Sunderland,England,Soviet Union,Hungary,2,1,3,1,Home Win,Soviet Union,No,No,0,0,No,2–1
+M-1966-28,1966,1960s,1966-07-23,15:00,Quarter-Finals,Knockout Stage,not applicable,Hillsborough Stadium,Sheffield,England,West Germany,Uruguay,4,0,4,4,Home Win,West Germany,No,No,0,0,No,4–0
+M-1966-29,1966,1960s,1966-07-25,19:30,Semi-Finals,Knockout Stage,not applicable,Goodison Park,Liverpool,England,West Germany,Soviet Union,2,1,3,1,Home Win,West Germany,No,No,0,0,No,2–1
+M-1966-30,1966,1960s,1966-07-26,19:30,Semi-Finals,Knockout Stage,not applicable,Wembley Stadium,London,England,England,Portugal,2,1,3,1,Home Win,England,No,No,0,0,No,2–1
+M-1966-31,1966,1960s,1966-07-28,19:30,Third-Place Match,Knockout Stage,not applicable,Wembley Stadium,London,England,Portugal,Soviet Union,2,1,3,1,Home Win,Portugal,No,No,0,0,No,2–1
+M-1966-32,1966,1960s,1966-07-30,15:00,Final,Knockout Stage,not applicable,Wembley Stadium,London,England,England,West Germany,4,2,6,2,Home Win,England,Yes,No,0,0,Yes,4–2
+M-1970-01,1970,1970s,1970-05-31,12:00,Group Stage,Group Stage,Group 1,Estadio Azteca,Mexico City,Mexico,Mexico,Soviet Union,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1970-02,1970,1970s,1970-06-02,16:00,Group Stage,Group Stage,Group 2,Estadio Cuauhtémoc,Puebla,Mexico,Uruguay,Israel,2,0,2,2,Home Win,Uruguay,No,No,0,0,No,2–0
+M-1970-03,1970,1970s,1970-06-02,16:00,Group Stage,Group Stage,Group 3,Estadio Jalisco,Guadalajara,Mexico,England,Romania,1,0,1,1,Home Win,England,No,No,0,0,No,1–0
+M-1970-04,1970,1970s,1970-06-02,16:00,Group Stage,Group Stage,Group 4,Estadio Nou Camp,León,Mexico,Peru,Bulgaria,3,2,5,1,Home Win,Peru,No,No,0,0,Yes,3–2
+M-1970-05,1970,1970s,1970-06-03,16:00,Group Stage,Group Stage,Group 1,Estadio Azteca,Mexico City,Mexico,Belgium,El Salvador,3,0,3,3,Home Win,Belgium,No,No,0,0,No,3–0
+M-1970-06,1970,1970s,1970-06-03,16:00,Group Stage,Group Stage,Group 2,La Bombonera,Toluca,Mexico,Italy,Sweden,1,0,1,1,Home Win,Italy,No,No,0,0,No,1–0
+M-1970-07,1970,1970s,1970-06-03,16:00,Group Stage,Group Stage,Group 3,Estadio Jalisco,Guadalajara,Mexico,Brazil,Czechoslovakia,4,1,5,3,Home Win,Brazil,No,No,0,0,Yes,4–1
+M-1970-08,1970,1970s,1970-06-03,16:00,Group Stage,Group Stage,Group 4,Estadio Nou Camp,León,Mexico,West Germany,Morocco,2,1,3,1,Home Win,West Germany,No,No,0,0,No,2–1
+M-1970-09,1970,1970s,1970-06-06,16:00,Group Stage,Group Stage,Group 1,Estadio Azteca,Mexico City,Mexico,Soviet Union,Belgium,4,1,5,3,Home Win,Soviet Union,No,No,0,0,Yes,4–1
+M-1970-10,1970,1970s,1970-06-06,16:00,Group Stage,Group Stage,Group 2,Estadio Cuauhtémoc,Puebla,Mexico,Uruguay,Italy,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1970-11,1970,1970s,1970-06-06,16:00,Group Stage,Group Stage,Group 3,Estadio Jalisco,Guadalajara,Mexico,Romania,Czechoslovakia,2,1,3,1,Home Win,Romania,No,No,0,0,No,2–1
+M-1970-12,1970,1970s,1970-06-06,16:00,Group Stage,Group Stage,Group 4,Estadio Nou Camp,León,Mexico,Peru,Morocco,3,0,3,3,Home Win,Peru,No,No,0,0,No,3–0
+M-1970-13,1970,1970s,1970-06-07,12:00,Group Stage,Group Stage,Group 1,Estadio Azteca,Mexico City,Mexico,Mexico,El Salvador,4,0,4,4,Home Win,Mexico,No,No,0,0,No,4–0
+M-1970-14,1970,1970s,1970-06-07,12:00,Group Stage,Group Stage,Group 2,La Bombonera,Toluca,Mexico,Sweden,Israel,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1970-15,1970,1970s,1970-06-07,12:00,Group Stage,Group Stage,Group 3,Estadio Jalisco,Guadalajara,Mexico,Brazil,England,1,0,1,1,Home Win,Brazil,No,No,0,0,No,1–0
+M-1970-16,1970,1970s,1970-06-07,12:00,Group Stage,Group Stage,Group 4,Estadio Nou Camp,León,Mexico,West Germany,Bulgaria,5,2,7,3,Home Win,West Germany,No,No,0,0,Yes,5–2
+M-1970-17,1970,1970s,1970-06-10,16:00,Group Stage,Group Stage,Group 1,Estadio Azteca,Mexico City,Mexico,Soviet Union,El Salvador,2,0,2,2,Home Win,Soviet Union,No,No,0,0,No,2–0
+M-1970-18,1970,1970s,1970-06-10,16:00,Group Stage,Group Stage,Group 2,Estadio Cuauhtémoc,Puebla,Mexico,Sweden,Uruguay,1,0,1,1,Home Win,Sweden,No,No,0,0,No,1-0
+M-1970-19,1970,1970s,1970-06-10,16:00,Group Stage,Group Stage,Group 3,Estadio Jalisco,Guadalajara,Mexico,Brazil,Romania,3,2,5,1,Home Win,Brazil,No,No,0,0,Yes,3–2
+M-1970-20,1970,1970s,1970-06-10,16:00,Group Stage,Group Stage,Group 4,Estadio Nou Camp,León,Mexico,West Germany,Peru,3,1,4,2,Home Win,West Germany,No,No,0,0,No,3–1
+M-1970-21,1970,1970s,1970-06-11,16:00,Group Stage,Group Stage,Group 1,Estadio Azteca,Mexico City,Mexico,Mexico,Belgium,1,0,1,1,Home Win,Mexico,No,No,0,0,No,1–0
+M-1970-22,1970,1970s,1970-06-11,16:00,Group Stage,Group Stage,Group 2,La Bombonera,Toluca,Mexico,Italy,Israel,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1970-23,1970,1970s,1970-06-11,16:00,Group Stage,Group Stage,Group 3,Estadio Jalisco,Guadalajara,Mexico,England,Czechoslovakia,1,0,1,1,Home Win,England,No,No,0,0,No,1–0
+M-1970-24,1970,1970s,1970-06-11,16:00,Group Stage,Group Stage,Group 4,Estadio Nou Camp,León,Mexico,Bulgaria,Morocco,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1970-25,1970,1970s,1970-06-14,12:00,Quarter-Finals,Knockout Stage,not applicable,Estadio Jalisco,Guadalajara,Mexico,Brazil,Peru,4,2,6,2,Home Win,Brazil,No,No,0,0,Yes,4–2
+M-1970-26,1970,1970s,1970-06-14,12:00,Quarter-Finals,Knockout Stage,not applicable,La Bombonera,Toluca,Mexico,Italy,Mexico,4,1,5,3,Home Win,Italy,No,No,0,0,Yes,4–1
+M-1970-27,1970,1970s,1970-06-14,12:00,Quarter-Finals,Knockout Stage,not applicable,Estadio Azteca,Mexico City,Mexico,Soviet Union,Uruguay,0,1,1,1,Away Win,Uruguay,Yes,No,0,0,No,0–1
+M-1970-28,1970,1970s,1970-06-14,12:00,Quarter-Finals,Knockout Stage,not applicable,Estadio Nou Camp,León,Mexico,West Germany,England,3,2,5,1,Home Win,West Germany,Yes,No,0,0,Yes,3–2
+M-1970-29,1970,1970s,1970-06-17,16:00,Semi-Finals,Knockout Stage,not applicable,Estadio Jalisco,Guadalajara,Mexico,Brazil,Uruguay,3,1,4,2,Home Win,Brazil,No,No,0,0,No,3–1
+M-1970-30,1970,1970s,1970-06-17,16:00,Semi-Finals,Knockout Stage,not applicable,Estadio Azteca,Mexico City,Mexico,Italy,West Germany,4,3,7,1,Home Win,Italy,Yes,No,0,0,Yes,4–3
+M-1970-31,1970,1970s,1970-06-20,16:00,Third-Place Match,Knockout Stage,not applicable,Estadio Azteca,Mexico City,Mexico,West Germany,Uruguay,1,0,1,1,Home Win,West Germany,No,No,0,0,No,1–0
+M-1970-32,1970,1970s,1970-06-21,12:00,Final,Knockout Stage,not applicable,Estadio Azteca,Mexico City,Mexico,Brazil,Italy,4,1,5,3,Home Win,Brazil,No,No,0,0,Yes,4–1
+M-1974-01,1974,1970s,1974-06-13,17:00,Group Stage,Group Stage,Group 2,Waldstadion,Frankfurt,Germany,Brazil,Yugoslavia,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1974-02,1974,1970s,1974-06-14,16:00,Group Stage,Group Stage,Group 1,Olympiastadion,Berlin,Germany,West Germany,Chile,1,0,1,1,Home Win,West Germany,No,No,0,0,No,1–0
+M-1974-03,1974,1970s,1974-06-14,19:30,Group Stage,Group Stage,Group 1,Volksparkstadion,Hamburg,Germany,East Germany,Australia,2,0,2,2,Home Win,East Germany,No,No,0,0,No,2–0
+M-1974-04,1974,1970s,1974-06-14,19:30,Group Stage,Group Stage,Group 2,Westfalenstadion,Dortmund,Germany,Zaire,Scotland,0,2,2,2,Away Win,Scotland,No,No,0,0,No,0–2
+M-1974-05,1974,1970s,1974-06-15,16:00,Group Stage,Group Stage,Group 3,Rheinstadion,Düsseldorf,Germany,Sweden,Bulgaria,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1974-06,1974,1970s,1974-06-15,16:00,Group Stage,Group Stage,Group 3,Niedersachsenstadion,Hanover,Germany,Uruguay,Netherlands,0,2,2,2,Away Win,Netherlands,No,No,0,0,No,0–2
+M-1974-07,1974,1970s,1974-06-15,18:00,Group Stage,Group Stage,Group 4,Olympiastadion,Munich,Germany,Italy,Haiti,3,1,4,2,Home Win,Italy,No,No,0,0,No,3–1
+M-1974-08,1974,1970s,1974-06-15,18:00,Group Stage,Group Stage,Group 4,Neckarstadion,Stuttgart,Germany,Poland,Argentina,3,2,5,1,Home Win,Poland,No,No,0,0,Yes,3–2
+M-1974-09,1974,1970s,1974-06-18,16:00,Group Stage,Group Stage,Group 1,Volksparkstadion,Hamburg,Germany,Australia,West Germany,0,3,3,3,Away Win,West Germany,No,No,0,0,No,0–3
+M-1974-10,1974,1970s,1974-06-18,19:00,Group Stage,Group Stage,Group 1,Olympiastadion,Berlin,Germany,Chile,East Germany,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1974-11,1974,1970s,1974-06-18,19:30,Group Stage,Group Stage,Group 2,Waldstadion,Frankfurt,Germany,Scotland,Brazil,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1974-12,1974,1970s,1974-06-18,19:30,Group Stage,Group Stage,Group 2,Parkstadion,Gelsenkirchen,Germany,Yugoslavia,Zaire,9,0,9,9,Home Win,Yugoslavia,No,No,0,0,Yes,9–0
+M-1974-13,1974,1970s,1974-06-19,19:30,Group Stage,Group Stage,Group 3,Niedersachsenstadion,Hanover,Germany,Bulgaria,Uruguay,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1974-14,1974,1970s,1974-06-19,19:30,Group Stage,Group Stage,Group 3,Westfalenstadion,Dortmund,Germany,Netherlands,Sweden,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1974-15,1974,1970s,1974-06-19,19:30,Group Stage,Group Stage,Group 4,Neckarstadion,Stuttgart,Germany,Argentina,Italy,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1974-16,1974,1970s,1974-06-19,19:30,Group Stage,Group Stage,Group 4,Olympiastadion,Munich,Germany,Haiti,Poland,0,7,7,7,Away Win,Poland,No,No,0,0,Yes,0–7
+M-1974-17,1974,1970s,1974-06-22,16:00,Group Stage,Group Stage,Group 1,Olympiastadion,Berlin,Germany,Australia,Chile,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1974-18,1974,1970s,1974-06-22,16:00,Group Stage,Group Stage,Group 2,Waldstadion,Frankfurt,Germany,Scotland,Yugoslavia,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1974-19,1974,1970s,1974-06-22,16:00,Group Stage,Group Stage,Group 2,Parkstadion,Gelsenkirchen,Germany,Zaire,Brazil,0,3,3,3,Away Win,Brazil,No,No,0,0,No,0–3
+M-1974-20,1974,1970s,1974-06-22,19:30,Group Stage,Group Stage,Group 1,Volksparkstadion,Hamburg,Germany,East Germany,West Germany,1,0,1,1,Home Win,East Germany,No,No,0,0,No,1–0
+M-1974-21,1974,1970s,1974-06-23,16:00,Group Stage,Group Stage,Group 3,Westfalenstadion,Dortmund,Germany,Bulgaria,Netherlands,1,4,5,3,Away Win,Netherlands,No,No,0,0,Yes,1–4
+M-1974-22,1974,1970s,1974-06-23,16:00,Group Stage,Group Stage,Group 3,Rheinstadion,Düsseldorf,Germany,Sweden,Uruguay,3,0,3,3,Home Win,Sweden,No,No,0,0,No,3–0
+M-1974-23,1974,1970s,1974-06-23,16:00,Group Stage,Group Stage,Group 4,Olympiastadion,Munich,Germany,Argentina,Haiti,4,1,5,3,Home Win,Argentina,No,No,0,0,Yes,4–1
+M-1974-24,1974,1970s,1974-06-23,16:00,Group Stage,Group Stage,Group 4,Neckarstadion,Stuttgart,Germany,Poland,Italy,2,1,3,1,Home Win,Poland,No,No,0,0,No,2–1
+M-1974-25,1974,1970s,1974-06-26,16:00,Second Group Stage,Group Stage,Group B,Rheinstadion,Düsseldorf,Germany,Yugoslavia,West Germany,0,2,2,2,Away Win,West Germany,No,No,0,0,No,0–2
+M-1974-26,1974,1970s,1974-06-26,19:30,Second Group Stage,Group Stage,Group A,Niedersachsenstadion,Hanover,Germany,Brazil,East Germany,1,0,1,1,Home Win,Brazil,No,No,0,0,No,1–0
+M-1974-27,1974,1970s,1974-06-26,19:30,Second Group Stage,Group Stage,Group A,Parkstadion,Gelsenkirchen,Germany,Netherlands,Argentina,4,0,4,4,Home Win,Netherlands,No,No,0,0,No,4–0
+M-1974-28,1974,1970s,1974-06-26,19:30,Second Group Stage,Group Stage,Group B,Neckarstadion,Stuttgart,Germany,Sweden,Poland,0,1,1,1,Away Win,Poland,No,No,0,0,No,0–1
+M-1974-29,1974,1970s,1974-06-30,16:00,Second Group Stage,Group Stage,Group A,Niedersachsenstadion,Hanover,Germany,Argentina,Brazil,1,2,3,1,Away Win,Brazil,No,No,0,0,No,1–2
+M-1974-30,1974,1970s,1974-06-30,16:00,Second Group Stage,Group Stage,Group A,Parkstadion,Gelsenkirchen,Germany,East Germany,Netherlands,0,2,2,2,Away Win,Netherlands,No,No,0,0,No,0–2
+M-1974-31,1974,1970s,1974-06-30,16:00,Second Group Stage,Group Stage,Group B,Waldstadion,Frankfurt,Germany,Poland,Yugoslavia,2,1,3,1,Home Win,Poland,No,No,0,0,No,2–1
+M-1974-32,1974,1970s,1974-06-30,19:30,Second Group Stage,Group Stage,Group B,Rheinstadion,Düsseldorf,Germany,West Germany,Sweden,4,2,6,2,Home Win,West Germany,No,No,0,0,Yes,4–2
+M-1974-33,1974,1970s,1974-07-03,16:30,Second Group Stage,Group Stage,Group B,Waldstadion,Frankfurt,Germany,Poland,West Germany,0,1,1,1,Away Win,West Germany,No,No,0,0,No,0–1
+M-1974-34,1974,1970s,1974-07-03,19:30,Second Group Stage,Group Stage,Group A,Parkstadion,Gelsenkirchen,Germany,Argentina,East Germany,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1974-35,1974,1970s,1974-07-03,19:30,Second Group Stage,Group Stage,Group A,Westfalenstadion,Dortmund,Germany,Netherlands,Brazil,2,0,2,2,Home Win,Netherlands,No,No,0,0,No,2–0
+M-1974-36,1974,1970s,1974-07-03,19:30,Second Group Stage,Group Stage,Group B,Rheinstadion,Düsseldorf,Germany,Sweden,Yugoslavia,2,1,3,1,Home Win,Sweden,No,No,0,0,No,2–1
+M-1974-37,1974,1970s,1974-07-06,16:00,Third-Place Match,Knockout Stage,not applicable,Olympiastadion,Munich,Germany,Brazil,Poland,0,1,1,1,Away Win,Poland,No,No,0,0,No,0–1
+M-1974-38,1974,1970s,1974-07-07,16:00,Final,Knockout Stage,not applicable,Olympiastadion,Munich,Germany,Netherlands,West Germany,1,2,3,1,Away Win,West Germany,No,No,0,0,No,1–2
+M-1978-01,1978,1970s,1978-06-01,15:00,Group Stage,Group Stage,Group 2,Estadio Monumental,Buenos Aires,Argentina,West Germany,Poland,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1978-02,1978,1970s,1978-06-02,13:45,Group Stage,Group Stage,Group 1,Estadio José María Minella,Mar del Plata,Argentina,Italy,France,2,1,3,1,Home Win,Italy,No,No,0,0,No,2–1
+M-1978-03,1978,1970s,1978-06-02,16:45,Group Stage,Group Stage,Group 2,Estadio Gigante de Arroyito,Rosario,Argentina,Tunisia,Mexico,3,1,4,2,Home Win,Tunisia,No,No,0,0,No,3–1
+M-1978-04,1978,1970s,1978-06-02,19:15,Group Stage,Group Stage,Group 1,Estadio Monumental,Buenos Aires,Argentina,Argentina,Hungary,2,1,3,1,Home Win,Argentina,No,No,0,0,No,2–1
+M-1978-05,1978,1970s,1978-06-03,13:45,Group Stage,Group Stage,Group 3,Estadio José Amalfitani,Buenos Aires,Argentina,Austria,Spain,2,1,3,1,Home Win,Austria,No,No,0,0,No,2–1
+M-1978-06,1978,1970s,1978-06-03,13:45,Group Stage,Group Stage,Group 3,Estadio José María Minella,Mar del Plata,Argentina,Brazil,Sweden,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1978-07,1978,1970s,1978-06-03,16:45,Group Stage,Group Stage,Group 4,Estadio Ciudad de Mendoza,Mendoza,Argentina,Netherlands,Iran,3,0,3,3,Home Win,Netherlands,No,No,0,0,No,3–0
+M-1978-08,1978,1970s,1978-06-03,16:45,Group Stage,Group Stage,Group 4,Estadio Chateau Carreras,Córdoba,Argentina,Peru,Scotland,3,1,4,2,Home Win,Peru,No,No,0,0,No,3–1
+M-1978-09,1978,1970s,1978-06-06,13:45,Group Stage,Group Stage,Group 1,Estadio José María Minella,Mar del Plata,Argentina,Italy,Hungary,3,1,4,2,Home Win,Italy,No,No,0,0,No,3–1
+M-1978-10,1978,1970s,1978-06-06,16:45,Group Stage,Group Stage,Group 2,Estadio Gigante de Arroyito,Rosario,Argentina,Poland,Tunisia,1,0,1,1,Home Win,Poland,No,No,0,0,No,1–0
+M-1978-11,1978,1970s,1978-06-06,16:45,Group Stage,Group Stage,Group 2,Estadio Chateau Carreras,Córdoba,Argentina,West Germany,Mexico,6,0,6,6,Home Win,West Germany,No,No,0,0,Yes,6–0
+M-1978-12,1978,1970s,1978-06-06,19:15,Group Stage,Group Stage,Group 1,Estadio Monumental,Buenos Aires,Argentina,Argentina,France,2,1,3,1,Home Win,Argentina,No,No,0,0,No,2–1
+M-1978-13,1978,1970s,1978-06-07,13:45,Group Stage,Group Stage,Group 3,Estadio José Amalfitani,Buenos Aires,Argentina,Austria,Sweden,1,0,1,1,Home Win,Austria,No,No,0,0,No,1–0
+M-1978-14,1978,1970s,1978-06-07,13:45,Group Stage,Group Stage,Group 3,Estadio José María Minella,Mar del Plata,Argentina,Brazil,Spain,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1978-15,1978,1970s,1978-06-07,16:45,Group Stage,Group Stage,Group 4,Estadio Ciudad de Mendoza,Mendoza,Argentina,Netherlands,Peru,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1978-16,1978,1970s,1978-06-07,16:45,Group Stage,Group Stage,Group 4,Estadio Chateau Carreras,Córdoba,Argentina,Scotland,Iran,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1978-17,1978,1970s,1978-06-10,14:30,Group Stage,Group Stage,Group 1,Estadio José María Minella,Mar del Plata,Argentina,France,Hungary,3,1,4,2,Home Win,France,No,No,0,0,No,3–1
+M-1978-18,1978,1970s,1978-06-10,16:45,Group Stage,Group Stage,Group 2,Estadio Gigante de Arroyito,Rosario,Argentina,Poland,Mexico,3,1,4,2,Home Win,Poland,No,No,0,0,No,3–1
+M-1978-19,1978,1970s,1978-06-10,16:45,Group Stage,Group Stage,Group 2,Estadio Chateau Carreras,Córdoba,Argentina,West Germany,Tunisia,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1978-20,1978,1970s,1978-06-10,19:15,Group Stage,Group Stage,Group 1,Estadio Monumental,Buenos Aires,Argentina,Argentina,Italy,0,1,1,1,Away Win,Italy,No,No,0,0,No,0–1
+M-1978-21,1978,1970s,1978-06-11,13:45,Group Stage,Group Stage,Group 3,Estadio José María Minella,Mar del Plata,Argentina,Brazil,Austria,1,0,1,1,Home Win,Brazil,No,No,0,0,No,1–0
+M-1978-22,1978,1970s,1978-06-11,13:45,Group Stage,Group Stage,Group 3,Estadio José Amalfitani,Buenos Aires,Argentina,Spain,Sweden,1,0,1,1,Home Win,Spain,No,No,0,0,No,1–0
+M-1978-23,1978,1970s,1978-06-11,16:45,Group Stage,Group Stage,Group 4,Estadio Chateau Carreras,Córdoba,Argentina,Peru,Iran,4,1,5,3,Home Win,Peru,No,No,0,0,Yes,4–1
+M-1978-24,1978,1970s,1978-06-11,16:45,Group Stage,Group Stage,Group 4,Estadio Ciudad de Mendoza,Mendoza,Argentina,Scotland,Netherlands,3,2,5,1,Home Win,Scotland,No,No,0,0,Yes,3–2
+M-1978-25,1978,1970s,1978-06-14,13:45,Second Group Stage,Group Stage,Group A,Estadio Chateau Carreras,Córdoba,Argentina,Austria,Netherlands,1,5,6,4,Away Win,Netherlands,No,No,0,0,Yes,1–5
+M-1978-26,1978,1970s,1978-06-14,13:45,Second Group Stage,Group Stage,Group A,Estadio Monumental,Buenos Aires,Argentina,Italy,West Germany,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1978-27,1978,1970s,1978-06-14,16:45,Second Group Stage,Group Stage,Group B,Estadio Ciudad de Mendoza,Mendoza,Argentina,Brazil,Peru,3,0,3,3,Home Win,Brazil,No,No,0,0,No,3–0
+M-1978-28,1978,1970s,1978-06-14,19:15,Second Group Stage,Group Stage,Group B,Estadio Gigante de Arroyito,Rosario,Argentina,Argentina,Poland,2,0,2,2,Home Win,Argentina,No,No,0,0,No,2–0
+M-1978-29,1978,1970s,1978-06-18,13:45,Second Group Stage,Group Stage,Group B,Estadio Ciudad de Mendoza,Mendoza,Argentina,Peru,Poland,0,1,1,1,Away Win,Poland,No,No,0,0,No,0–1
+M-1978-30,1978,1970s,1978-06-18,16:45,Second Group Stage,Group Stage,Group A,Estadio Monumental,Buenos Aires,Argentina,Italy,Austria,1,0,1,1,Home Win,Italy,No,No,0,0,No,1–0
+M-1978-31,1978,1970s,1978-06-18,16:45,Second Group Stage,Group Stage,Group A,Estadio Chateau Carreras,Córdoba,Argentina,Netherlands,West Germany,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1978-32,1978,1970s,1978-06-18,19:15,Second Group Stage,Group Stage,Group B,Estadio Gigante de Arroyito,Rosario,Argentina,Argentina,Brazil,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1978-33,1978,1970s,1978-06-21,13:45,Second Group Stage,Group Stage,Group A,Estadio Chateau Carreras,Córdoba,Argentina,Austria,West Germany,3,2,5,1,Home Win,Austria,No,No,0,0,Yes,3–2
+M-1978-34,1978,1970s,1978-06-21,13:45,Second Group Stage,Group Stage,Group A,Estadio Monumental,Buenos Aires,Argentina,Italy,Netherlands,1,2,3,1,Away Win,Netherlands,No,No,0,0,No,1–2
+M-1978-35,1978,1970s,1978-06-21,16:45,Second Group Stage,Group Stage,Group B,Estadio Ciudad de Mendoza,Mendoza,Argentina,Brazil,Poland,3,1,4,2,Home Win,Brazil,No,No,0,0,No,3–1
+M-1978-36,1978,1970s,1978-06-21,19:15,Second Group Stage,Group Stage,Group B,Estadio Gigante de Arroyito,Rosario,Argentina,Argentina,Peru,6,0,6,6,Home Win,Argentina,No,No,0,0,Yes,6–0
+M-1978-37,1978,1970s,1978-06-24,15:00,Third-Place Match,Knockout Stage,not applicable,Estadio Monumental,Buenos Aires,Argentina,Brazil,Italy,2,1,3,1,Home Win,Brazil,No,No,0,0,No,2–1
+M-1978-38,1978,1970s,1978-06-25,15:00,Final,Knockout Stage,not applicable,Estadio Monumental,Buenos Aires,Argentina,Argentina,Netherlands,3,1,4,2,Home Win,Argentina,Yes,No,0,0,No,3–1
+M-1982-01,1982,1980s,1982-06-13,20:00,Group Stage,Group Stage,Group 3,Camp Nou,Barcelona,Spain,Argentina,Belgium,0,1,1,1,Away Win,Belgium,No,No,0,0,No,0–1
+M-1982-02,1982,1980s,1982-06-14,17:15,Group Stage,Group Stage,Group 1,Balaídos,Vigo,Spain,Italy,Poland,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1982-03,1982,1980s,1982-06-14,21:00,Group Stage,Group Stage,Group 6,Estadio Ramón Sánchez Pizjuán,Seville,Spain,Brazil,Soviet Union,2,1,3,1,Home Win,Brazil,No,No,0,0,No,2–1
+M-1982-04,1982,1980s,1982-06-15,17:15,Group Stage,Group Stage,Group 1,Estadio Riazor,A Coruña,Spain,Peru,Cameroon,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1982-05,1982,1980s,1982-06-15,21:00,Group Stage,Group Stage,Group 3,Nuevo Estadio,Elche,Spain,Hungary,El Salvador,10,1,11,9,Home Win,Hungary,No,No,0,0,Yes,10–1
+M-1982-06,1982,1980s,1982-06-15,21:00,Group Stage,Group Stage,Group 6,Estadio La Rosaleda,Málaga,Spain,Scotland,New Zealand,5,2,7,3,Home Win,Scotland,No,No,0,0,Yes,5–2
+M-1982-07,1982,1980s,1982-06-16,17:15,Group Stage,Group Stage,Group 2,Estadio El Molinón,Gijón,Spain,West Germany,Algeria,1,2,3,1,Away Win,Algeria,No,No,0,0,No,1–2
+M-1982-08,1982,1980s,1982-06-16,17:15,Group Stage,Group Stage,Group 4,Estadio San Mamés,Bilbao,Spain,England,France,3,1,4,2,Home Win,England,No,No,0,0,No,3–1
+M-1982-09,1982,1980s,1982-06-16,21:00,Group Stage,Group Stage,Group 5,Estadio Luis Casanova,Valencia,Spain,Spain,Honduras,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1982-10,1982,1980s,1982-06-17,17:15,Group Stage,Group Stage,Group 2,Estadio Carlos Tartiere,Oviedo,Spain,Chile,Austria,0,1,1,1,Away Win,Austria,No,No,0,0,No,0–1
+M-1982-11,1982,1980s,1982-06-17,17:15,Group Stage,Group Stage,Group 4,Estadio José Zorrilla,Valladolid,Spain,Czechoslovakia,Kuwait,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1982-12,1982,1980s,1982-06-17,21:00,Group Stage,Group Stage,Group 5,Estadio La Romareda,Zaragoza,Spain,Yugoslavia,Northern Ireland,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1982-13,1982,1980s,1982-06-18,17:15,Group Stage,Group Stage,Group 1,Balaídos,Vigo,Spain,Italy,Peru,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1982-14,1982,1980s,1982-06-18,21:00,Group Stage,Group Stage,Group 3,Estadio José Rico Pérez,Alicante,Spain,Argentina,Hungary,4,1,5,3,Home Win,Argentina,No,No,0,0,Yes,4–1
+M-1982-15,1982,1980s,1982-06-18,21:00,Group Stage,Group Stage,Group 6,Estadio Benito Villamarín,Seville,Spain,Brazil,Scotland,4,1,5,3,Home Win,Brazil,No,No,0,0,Yes,4–1
+M-1982-16,1982,1980s,1982-06-19,17:15,Group Stage,Group Stage,Group 1,Estadio Riazor,A Coruña,Spain,Poland,Cameroon,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1982-17,1982,1980s,1982-06-19,21:00,Group Stage,Group Stage,Group 3,Nuevo Estadio,Elche,Spain,Belgium,El Salvador,1,0,1,1,Home Win,Belgium,No,No,0,0,No,1–0
+M-1982-18,1982,1980s,1982-06-19,21:00,Group Stage,Group Stage,Group 6,Estadio La Rosaleda,Málaga,Spain,Soviet Union,New Zealand,3,0,3,3,Home Win,Soviet Union,No,No,0,0,No,3–0
+M-1982-19,1982,1980s,1982-06-20,17:15,Group Stage,Group Stage,Group 2,Estadio El Molinón,Gijón,Spain,West Germany,Chile,4,1,5,3,Home Win,West Germany,No,No,0,0,Yes,4–1
+M-1982-20,1982,1980s,1982-06-20,17:15,Group Stage,Group Stage,Group 4,Estadio San Mamés,Bilbao,Spain,England,Czechoslovakia,2,0,2,2,Home Win,England,No,No,0,0,No,2–0
+M-1982-21,1982,1980s,1982-06-20,21:00,Group Stage,Group Stage,Group 5,Estadio Luis Casanova,Valencia,Spain,Spain,Yugoslavia,2,1,3,1,Home Win,Spain,No,No,0,0,No,2–1
+M-1982-22,1982,1980s,1982-06-21,17:15,Group Stage,Group Stage,Group 2,Estadio Carlos Tartiere,Oviedo,Spain,Algeria,Austria,0,2,2,2,Away Win,Austria,No,No,0,0,No,0–2
+M-1982-23,1982,1980s,1982-06-21,17:15,Group Stage,Group Stage,Group 4,Estadio José Zorrilla,Valladolid,Spain,France,Kuwait,4,1,5,3,Home Win,France,No,No,0,0,Yes,4–1
+M-1982-24,1982,1980s,1982-06-21,21:00,Group Stage,Group Stage,Group 5,Estadio La Romareda,Zaragoza,Spain,Honduras,Northern Ireland,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1982-25,1982,1980s,1982-06-22,17:15,Group Stage,Group Stage,Group 1,Estadio Riazor,A Coruña,Spain,Poland,Peru,5,1,6,4,Home Win,Poland,No,No,0,0,Yes,5–1
+M-1982-26,1982,1980s,1982-06-22,21:00,Group Stage,Group Stage,Group 3,Nuevo Estadio,Elche,Spain,Belgium,Hungary,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1982-27,1982,1980s,1982-06-22,21:00,Group Stage,Group Stage,Group 6,Estadio La Rosaleda,Málaga,Spain,Soviet Union,Scotland,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1982-28,1982,1980s,1982-06-23,17:15,Group Stage,Group Stage,Group 1,Balaídos,Vigo,Spain,Italy,Cameroon,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1982-29,1982,1980s,1982-06-23,21:00,Group Stage,Group Stage,Group 3,Estadio José Rico Pérez,Alicante,Spain,Argentina,El Salvador,2,0,2,2,Home Win,Argentina,No,No,0,0,No,2–0
+M-1982-30,1982,1980s,1982-06-23,21:00,Group Stage,Group Stage,Group 6,Estadio Benito Villamarín,Seville,Spain,Brazil,New Zealand,4,0,4,4,Home Win,Brazil,No,No,0,0,No,4–0
+M-1982-31,1982,1980s,1982-06-24,17:15,Group Stage,Group Stage,Group 2,Estadio Carlos Tartiere,Oviedo,Spain,Algeria,Chile,3,2,5,1,Home Win,Algeria,No,No,0,0,Yes,3–2
+M-1982-32,1982,1980s,1982-06-24,17:15,Group Stage,Group Stage,Group 4,Estadio José Zorrilla,Valladolid,Spain,France,Czechoslovakia,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1982-33,1982,1980s,1982-06-24,21:00,Group Stage,Group Stage,Group 5,Estadio La Romareda,Zaragoza,Spain,Honduras,Yugoslavia,0,1,1,1,Away Win,Yugoslavia,No,No,0,0,No,0–1
+M-1982-34,1982,1980s,1982-06-25,17:15,Group Stage,Group Stage,Group 2,Estadio El Molinón,Gijón,Spain,West Germany,Austria,1,0,1,1,Home Win,West Germany,No,No,0,0,No,1–0
+M-1982-35,1982,1980s,1982-06-25,17:15,Group Stage,Group Stage,Group 4,Estadio San Mamés,Bilbao,Spain,England,Kuwait,1,0,1,1,Home Win,England,No,No,0,0,No,1–0
+M-1982-36,1982,1980s,1982-06-25,21:00,Group Stage,Group Stage,Group 5,Estadio Luis Casanova,Valencia,Spain,Spain,Northern Ireland,0,1,1,1,Away Win,Northern Ireland,No,No,0,0,No,0–1
+M-1982-37,1982,1980s,1982-06-28,17:15,Second Group Stage,Group Stage,Group 4,Vicente Calderón,Madrid,Spain,Austria,France,0,1,1,1,Away Win,France,No,No,0,0,No,0–1
+M-1982-38,1982,1980s,1982-06-28,21:00,Second Group Stage,Group Stage,Group 1,Camp Nou,Barcelona,Spain,Poland,Belgium,3,0,3,3,Home Win,Poland,No,No,0,0,No,3–0
+M-1982-39,1982,1980s,1982-06-29,17:15,Second Group Stage,Group Stage,Group 3,Estadi de Sarrià,Barcelona,Spain,Italy,Argentina,2,1,3,1,Home Win,Italy,No,No,0,0,No,2–1
+M-1982-40,1982,1980s,1982-06-29,21:00,Second Group Stage,Group Stage,Group 2,Estadio Santiago Bernabéu,Madrid,Spain,West Germany,England,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1982-41,1982,1980s,1982-07-01,17:15,Second Group Stage,Group Stage,Group 4,Vicente Calderón,Madrid,Spain,Austria,Northern Ireland,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1982-42,1982,1980s,1982-07-01,21:00,Second Group Stage,Group Stage,Group 1,Camp Nou,Barcelona,Spain,Belgium,Soviet Union,0,1,1,1,Away Win,Soviet Union,No,No,0,0,No,0–1
+M-1982-43,1982,1980s,1982-07-02,17:15,Second Group Stage,Group Stage,Group 3,Estadi de Sarrià,Barcelona,Spain,Argentina,Brazil,1,3,4,2,Away Win,Brazil,No,No,0,0,No,1–3
+M-1982-44,1982,1980s,1982-07-02,21:00,Second Group Stage,Group Stage,Group 2,Estadio Santiago Bernabéu,Madrid,Spain,West Germany,Spain,2,1,3,1,Home Win,West Germany,No,No,0,0,No,2–1
+M-1982-45,1982,1980s,1982-07-04,17:15,Second Group Stage,Group Stage,Group 4,Vicente Calderón,Madrid,Spain,France,Northern Ireland,4,1,5,3,Home Win,France,No,No,0,0,Yes,4–1
+M-1982-46,1982,1980s,1982-07-04,21:00,Second Group Stage,Group Stage,Group 1,Camp Nou,Barcelona,Spain,Soviet Union,Poland,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1982-47,1982,1980s,1982-07-05,17:15,Second Group Stage,Group Stage,Group 3,Estadi de Sarrià,Barcelona,Spain,Italy,Brazil,3,2,5,1,Home Win,Italy,No,No,0,0,Yes,3–2
+M-1982-48,1982,1980s,1982-07-05,21:00,Second Group Stage,Group Stage,Group 2,Estadio Santiago Bernabéu,Madrid,Spain,Spain,England,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1982-49,1982,1980s,1982-07-08,17:15,Semi-Finals,Knockout Stage,not applicable,Camp Nou,Barcelona,Spain,Poland,Italy,0,2,2,2,Away Win,Italy,No,No,0,0,No,0–2
+M-1982-50,1982,1980s,1982-07-08,21:00,Semi-Finals,Knockout Stage,not applicable,Estadio Ramón Sánchez Pizjuán,Seville,Spain,West Germany,France,3,3,6,0,Draw,West Germany,Yes,Yes,5,4,Yes,3–3
+M-1982-51,1982,1980s,1982-07-10,20:00,Third-Place Match,Knockout Stage,not applicable,Estadio José Rico Pérez,Alicante,Spain,Poland,France,3,2,5,1,Home Win,Poland,No,No,0,0,Yes,3–2
+M-1982-52,1982,1980s,1982-07-11,20:00,Final,Knockout Stage,not applicable,Estadio Santiago Bernabéu,Madrid,Spain,Italy,West Germany,3,1,4,2,Home Win,Italy,No,No,0,0,No,3–1
+M-1986-01,1986,1980s,1986-05-31,12:00,Group Stage,Group Stage,Group A,Estadio Azteca,Mexico City,Mexico,Bulgaria,Italy,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1986-02,1986,1980s,1986-06-01,12:00,Group Stage,Group Stage,Group D,Estadio Jalisco,Guadalajara,Mexico,Spain,Brazil,0,1,1,1,Away Win,Brazil,No,No,0,0,No,0–1
+M-1986-03,1986,1980s,1986-06-01,16:00,Group Stage,Group Stage,Group C,Estadio Nou Camp,León,Mexico,Canada,France,0,1,1,1,Away Win,France,No,No,0,0,No,0–1
+M-1986-04,1986,1980s,1986-06-02,12:00,Group Stage,Group Stage,Group A,Estadio Olímpico Universitario,Mexico City,Mexico,Argentina,South Korea,3,1,4,2,Home Win,Argentina,No,No,0,0,No,3–1
+M-1986-05,1986,1980s,1986-06-02,12:00,Group Stage,Group Stage,Group C,Estadio Sergio León Chavez,Irapuato,Mexico,Soviet Union,Hungary,6,0,6,6,Home Win,Soviet Union,No,No,0,0,Yes,6–0
+M-1986-06,1986,1980s,1986-06-02,16:00,Group Stage,Group Stage,Group F,Estadio Universitario,Monterrey,Mexico,Morocco,Poland,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1986-07,1986,1980s,1986-06-03,12:00,Group Stage,Group Stage,Group B,Estadio Azteca,Mexico City,Mexico,Belgium,Mexico,1,2,3,1,Away Win,Mexico,No,No,0,0,No,1–2
+M-1986-08,1986,1980s,1986-06-03,12:00,Group Stage,Group Stage,Group D,Estadio Tres de Marzo,Guadalajara,Mexico,Algeria,Northern Ireland,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1986-09,1986,1980s,1986-06-03,16:00,Group Stage,Group Stage,Group F,Estadio Tecnológico,Monterrey,Mexico,Portugal,England,1,0,1,1,Home Win,Portugal,No,No,0,0,No,1–0
+M-1986-10,1986,1980s,1986-06-04,12:00,Group Stage,Group Stage,Group B,La Bombonera,Toluca,Mexico,Paraguay,Iraq,1,0,1,1,Home Win,Paraguay,No,No,0,0,No,1–0
+M-1986-11,1986,1980s,1986-06-04,12:00,Group Stage,Group Stage,Group E,Estadio La Corregidora,Querétaro,Mexico,Uruguay,West Germany,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1986-12,1986,1980s,1986-06-04,16:00,Group Stage,Group Stage,Group E,Estadio Neza 86,Nezahualcóyotl,Mexico,Scotland,Denmark,0,1,1,1,Away Win,Denmark,No,No,0,0,No,0–1
+M-1986-13,1986,1980s,1986-06-05,12:00,Group Stage,Group Stage,Group A,Estadio Cuauhtémoc,Puebla,Mexico,Italy,Argentina,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1986-14,1986,1980s,1986-06-05,12:00,Group Stage,Group Stage,Group C,Estadio Nou Camp,León,Mexico,France,Soviet Union,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1986-15,1986,1980s,1986-06-05,16:00,Group Stage,Group Stage,Group A,Estadio Olímpico Universitario,Mexico City,Mexico,South Korea,Bulgaria,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1986-16,1986,1980s,1986-06-06,12:00,Group Stage,Group Stage,Group C,Estadio Sergio León Chavez,Irapuato,Mexico,Hungary,Canada,2,0,2,2,Home Win,Hungary,No,No,0,0,No,2–0
+M-1986-17,1986,1980s,1986-06-06,12:00,Group Stage,Group Stage,Group D,Estadio Jalisco,Guadalajara,Mexico,Brazil,Algeria,1,0,1,1,Home Win,Brazil,No,No,0,0,No,1–0
+M-1986-18,1986,1980s,1986-06-06,16:00,Group Stage,Group Stage,Group F,Estadio Tecnológico,Monterrey,Mexico,England,Morocco,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1986-19,1986,1980s,1986-06-07,12:00,Group Stage,Group Stage,Group B,Estadio Azteca,Mexico City,Mexico,Mexico,Paraguay,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1986-20,1986,1980s,1986-06-07,12:00,Group Stage,Group Stage,Group D,Estadio Tres de Marzo,Guadalajara,Mexico,Northern Ireland,Spain,1,2,3,1,Away Win,Spain,No,No,0,0,No,1–2
+M-1986-21,1986,1980s,1986-06-07,16:00,Group Stage,Group Stage,Group F,Estadio Universitario,Monterrey,Mexico,Poland,Portugal,1,0,1,1,Home Win,Poland,No,No,0,0,No,1–0
+M-1986-22,1986,1980s,1986-06-08,12:00,Group Stage,Group Stage,Group B,La Bombonera,Toluca,Mexico,Iraq,Belgium,1,2,3,1,Away Win,Belgium,No,No,0,0,No,1–2
+M-1986-23,1986,1980s,1986-06-08,12:00,Group Stage,Group Stage,Group E,Estadio La Corregidora,Querétaro,Mexico,West Germany,Scotland,2,1,3,1,Home Win,West Germany,No,No,0,0,No,2–1
+M-1986-24,1986,1980s,1986-06-08,16:00,Group Stage,Group Stage,Group E,Estadio Neza 86,Nezahualcóyotl,Mexico,Denmark,Uruguay,6,1,7,5,Home Win,Denmark,No,No,0,0,Yes,6–1
+M-1986-25,1986,1980s,1986-06-09,12:00,Group Stage,Group Stage,Group C,Estadio Nou Camp,León,Mexico,Hungary,France,0,3,3,3,Away Win,France,No,No,0,0,No,0–3
+M-1986-26,1986,1980s,1986-06-09,12:00,Group Stage,Group Stage,Group C,Estadio Sergio León Chavez,Irapuato,Mexico,Soviet Union,Canada,2,0,2,2,Home Win,Soviet Union,No,No,0,0,No,2–0
+M-1986-27,1986,1980s,1986-06-10,12:00,Group Stage,Group Stage,Group A,Estadio Olímpico Universitario,Mexico City,Mexico,Argentina,Bulgaria,2,0,2,2,Home Win,Argentina,No,No,0,0,No,2–0
+M-1986-28,1986,1980s,1986-06-10,12:00,Group Stage,Group Stage,Group A,Estadio Cuauhtémoc,Puebla,Mexico,South Korea,Italy,2,3,5,1,Away Win,Italy,No,No,0,0,Yes,2–3
+M-1986-29,1986,1980s,1986-06-11,12:00,Group Stage,Group Stage,Group B,Estadio Azteca,Mexico City,Mexico,Iraq,Mexico,0,1,1,1,Away Win,Mexico,No,No,0,0,No,0–1
+M-1986-30,1986,1980s,1986-06-11,12:00,Group Stage,Group Stage,Group B,La Bombonera,Toluca,Mexico,Paraguay,Belgium,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1986-31,1986,1980s,1986-06-11,16:00,Group Stage,Group Stage,Group F,Estadio Universitario,Monterrey,Mexico,England,Poland,3,0,3,3,Home Win,England,No,No,0,0,No,3–0
+M-1986-32,1986,1980s,1986-06-11,16:00,Group Stage,Group Stage,Group F,Estadio Tres de Marzo,Guadalajara,Mexico,Portugal,Morocco,1,3,4,2,Away Win,Morocco,No,No,0,0,No,1–3
+M-1986-33,1986,1980s,1986-06-12,12:00,Group Stage,Group Stage,Group D,Estadio Tecnológico,Monterrey,Mexico,Algeria,Spain,0,3,3,3,Away Win,Spain,No,No,0,0,No,0–3
+M-1986-34,1986,1980s,1986-06-12,12:00,Group Stage,Group Stage,Group D,Estadio Jalisco,Guadalajara,Mexico,Northern Ireland,Brazil,0,3,3,3,Away Win,Brazil,No,No,0,0,No,0–3
+M-1986-35,1986,1980s,1986-06-13,12:00,Group Stage,Group Stage,Group E,Estadio La Corregidora,Querétaro,Mexico,Denmark,West Germany,2,0,2,2,Home Win,Denmark,No,No,0,0,No,2–0
+M-1986-36,1986,1980s,1986-06-13,12:00,Group Stage,Group Stage,Group E,Estadio Neza 86,Nezahualcóyotl,Mexico,Scotland,Uruguay,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1986-37,1986,1980s,1986-06-15,12:00,Round Of 16,Knockout Stage,not applicable,Estadio Azteca,Mexico City,Mexico,Mexico,Bulgaria,2,0,2,2,Home Win,Mexico,No,No,0,0,No,2–0
+M-1986-38,1986,1980s,1986-06-15,16:00,Round Of 16,Knockout Stage,not applicable,Estadio Nou Camp,León,Mexico,Soviet Union,Belgium,3,4,7,1,Away Win,Belgium,Yes,No,0,0,Yes,3–4
+M-1986-39,1986,1980s,1986-06-16,12:00,Round Of 16,Knockout Stage,not applicable,Estadio Jalisco,Guadalajara,Mexico,Brazil,Poland,4,0,4,4,Home Win,Brazil,No,No,0,0,No,4–0
+M-1986-40,1986,1980s,1986-06-16,16:00,Round Of 16,Knockout Stage,not applicable,Estadio Cuauhtémoc,Puebla,Mexico,Argentina,Uruguay,1,0,1,1,Home Win,Argentina,No,No,0,0,No,1–0
+M-1986-41,1986,1980s,1986-06-17,12:00,Round Of 16,Knockout Stage,not applicable,Estadio Olímpico Universitario,Mexico City,Mexico,Italy,France,0,2,2,2,Away Win,France,No,No,0,0,No,0–2
+M-1986-42,1986,1980s,1986-06-17,16:00,Round Of 16,Knockout Stage,not applicable,Estadio Universitario,Monterrey,Mexico,Morocco,West Germany,0,1,1,1,Away Win,West Germany,No,No,0,0,No,0–1
+M-1986-43,1986,1980s,1986-06-18,12:00,Round Of 16,Knockout Stage,not applicable,Estadio Azteca,Mexico City,Mexico,England,Paraguay,3,0,3,3,Home Win,England,No,No,0,0,No,3–0
+M-1986-44,1986,1980s,1986-06-18,16:00,Round Of 16,Knockout Stage,not applicable,Estadio La Corregidora,Querétaro,Mexico,Denmark,Spain,1,5,6,4,Away Win,Spain,No,No,0,0,Yes,1–5
+M-1986-45,1986,1980s,1986-06-21,12:00,Quarter-Finals,Knockout Stage,not applicable,Estadio Jalisco,Guadalajara,Mexico,Brazil,France,1,1,2,0,Draw,France,Yes,Yes,3,4,No,1–1
+M-1986-46,1986,1980s,1986-06-21,16:00,Quarter-Finals,Knockout Stage,not applicable,Estadio Universitario,Monterrey,Mexico,West Germany,Mexico,0,0,0,0,Draw,West Germany,Yes,Yes,4,1,No,0–0
+M-1986-47,1986,1980s,1986-06-22,12:00,Quarter-Finals,Knockout Stage,not applicable,Estadio Azteca,Mexico City,Mexico,Argentina,England,2,1,3,1,Home Win,Argentina,No,No,0,0,No,2–1
+M-1986-48,1986,1980s,1986-06-22,16:00,Quarter-Finals,Knockout Stage,not applicable,Estadio Cuauhtémoc,Puebla,Mexico,Spain,Belgium,1,1,2,0,Draw,Belgium,Yes,Yes,4,5,No,1–1
+M-1986-49,1986,1980s,1986-06-25,12:00,Semi-Finals,Knockout Stage,not applicable,Estadio Jalisco,Guadalajara,Mexico,France,West Germany,0,2,2,2,Away Win,West Germany,No,No,0,0,No,0–2
+M-1986-50,1986,1980s,1986-06-25,16:00,Semi-Finals,Knockout Stage,not applicable,Estadio Azteca,Mexico City,Mexico,Argentina,Belgium,2,0,2,2,Home Win,Argentina,No,No,0,0,No,2–0
+M-1986-51,1986,1980s,1986-06-28,12:00,Third-Place Match,Knockout Stage,not applicable,Estadio Cuauhtémoc,Puebla,Mexico,Belgium,France,2,4,6,2,Away Win,France,Yes,No,0,0,Yes,2–4
+M-1986-52,1986,1980s,1986-06-29,12:00,Final,Knockout Stage,not applicable,Estadio Azteca,Mexico City,Mexico,Argentina,West Germany,3,2,5,1,Home Win,Argentina,No,No,0,0,Yes,3–2
+M-1990-01,1990,1990s,1990-06-08,18:00,Group Stage,Group Stage,Group B,San Siro,Milan,Italy,Argentina,Cameroon,0,1,1,1,Away Win,Cameroon,No,No,0,0,No,0–1
+M-1990-02,1990,1990s,1990-06-09,17:00,Group Stage,Group Stage,Group B,Stadio San Nicola,Bari,Italy,Soviet Union,Romania,0,2,2,2,Away Win,Romania,No,No,0,0,No,0–2
+M-1990-03,1990,1990s,1990-06-09,17:00,Group Stage,Group Stage,Group D,Stadio Renato Dall'Ara,Bologna,Italy,United Arab Emirates,Colombia,0,2,2,2,Away Win,Colombia,No,No,0,0,No,0–2
+M-1990-04,1990,1990s,1990-06-09,21:00,Group Stage,Group Stage,Group A,Stadio Olimpico,Rome,Italy,Italy,Austria,1,0,1,1,Home Win,Italy,No,No,0,0,No,1–0
+M-1990-05,1990,1990s,1990-06-10,17:00,Group Stage,Group Stage,Group A,Stadio Comunale,Florence,Italy,United States,Czechoslovakia,1,5,6,4,Away Win,Czechoslovakia,No,No,0,0,Yes,1–5
+M-1990-06,1990,1990s,1990-06-10,21:00,Group Stage,Group Stage,Group C,Stadio delle Alpi,Turin,Italy,Brazil,Sweden,2,1,3,1,Home Win,Brazil,No,No,0,0,No,2–1
+M-1990-07,1990,1990s,1990-06-10,21:00,Group Stage,Group Stage,Group D,San Siro,Milan,Italy,West Germany,Yugoslavia,4,1,5,3,Home Win,West Germany,No,No,0,0,Yes,4–1
+M-1990-08,1990,1990s,1990-06-11,17:00,Group Stage,Group Stage,Group C,Stadio Luigi Ferraris,Genoa,Italy,Costa Rica,Scotland,1,0,1,1,Home Win,Costa Rica,No,No,0,0,No,1–0
+M-1990-09,1990,1990s,1990-06-11,21:00,Group Stage,Group Stage,Group F,Stadio Sant'Elia,Cagliari,Italy,England,Republic of Ireland,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1990-10,1990,1990s,1990-06-12,17:00,Group Stage,Group Stage,Group E,Stadio Marc'Antonio Bentegodi,Verona,Italy,Belgium,South Korea,2,0,2,2,Home Win,Belgium,No,No,0,0,No,2–0
+M-1990-11,1990,1990s,1990-06-12,21:00,Group Stage,Group Stage,Group F,Stadio La Favorita,Palermo,Italy,Netherlands,Egypt,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1990-12,1990,1990s,1990-06-13,17:00,Group Stage,Group Stage,Group E,Stadio Friuli,Udine,Italy,Uruguay,Spain,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1990-13,1990,1990s,1990-06-13,21:00,Group Stage,Group Stage,Group B,Stadio San Paolo,Naples,Italy,Argentina,Soviet Union,2,0,2,2,Home Win,Argentina,No,No,0,0,No,2–0
+M-1990-14,1990,1990s,1990-06-14,17:00,Group Stage,Group Stage,Group B,Stadio San Nicola,Bari,Italy,Cameroon,Romania,2,1,3,1,Home Win,Cameroon,No,No,0,0,No,2–1
+M-1990-15,1990,1990s,1990-06-14,17:00,Group Stage,Group Stage,Group D,Stadio Renato Dall'Ara,Bologna,Italy,Yugoslavia,Colombia,1,0,1,1,Home Win,Yugoslavia,No,No,0,0,No,1–0
+M-1990-16,1990,1990s,1990-06-14,21:00,Group Stage,Group Stage,Group A,Stadio Olimpico,Rome,Italy,Italy,United States,1,0,1,1,Home Win,Italy,No,No,0,0,No,1–0
+M-1990-17,1990,1990s,1990-06-15,17:00,Group Stage,Group Stage,Group A,Stadio Comunale,Florence,Italy,Austria,Czechoslovakia,0,1,1,1,Away Win,Czechoslovakia,No,No,0,0,No,0–1
+M-1990-18,1990,1990s,1990-06-15,21:00,Group Stage,Group Stage,Group D,San Siro,Milan,Italy,West Germany,United Arab Emirates,5,1,6,4,Home Win,West Germany,No,No,0,0,Yes,5–1
+M-1990-19,1990,1990s,1990-06-16,17:00,Group Stage,Group Stage,Group C,Stadio delle Alpi,Turin,Italy,Brazil,Costa Rica,1,0,1,1,Home Win,Brazil,No,No,0,0,No,1–0
+M-1990-20,1990,1990s,1990-06-16,21:00,Group Stage,Group Stage,Group C,Stadio Luigi Ferraris,Genoa,Italy,Sweden,Scotland,1,2,3,1,Away Win,Scotland,No,No,0,0,No,1–2
+M-1990-21,1990,1990s,1990-06-16,21:00,Group Stage,Group Stage,Group F,Stadio Sant'Elia,Cagliari,Italy,England,Netherlands,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1990-22,1990,1990s,1990-06-17,17:00,Group Stage,Group Stage,Group F,Stadio La Favorita,Palermo,Italy,Republic of Ireland,Egypt,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1990-23,1990,1990s,1990-06-17,21:00,Group Stage,Group Stage,Group E,Stadio Marc'Antonio Bentegodi,Verona,Italy,Belgium,Uruguay,3,1,4,2,Home Win,Belgium,No,No,0,0,No,3–1
+M-1990-24,1990,1990s,1990-06-17,21:00,Group Stage,Group Stage,Group E,Stadio Friuli,Udine,Italy,South Korea,Spain,1,3,4,2,Away Win,Spain,No,No,0,0,No,1–3
+M-1990-25,1990,1990s,1990-06-18,21:00,Group Stage,Group Stage,Group B,Stadio San Paolo,Naples,Italy,Argentina,Romania,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1990-26,1990,1990s,1990-06-18,21:00,Group Stage,Group Stage,Group B,Stadio San Nicola,Bari,Italy,Cameroon,Soviet Union,0,4,4,4,Away Win,Soviet Union,No,No,0,0,No,0–4
+M-1990-27,1990,1990s,1990-06-19,17:00,Group Stage,Group Stage,Group D,San Siro,Milan,Italy,West Germany,Colombia,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1990-28,1990,1990s,1990-06-19,17:00,Group Stage,Group Stage,Group D,Stadio Renato Dall'Ara,Bologna,Italy,Yugoslavia,United Arab Emirates,4,1,5,3,Home Win,Yugoslavia,No,No,0,0,Yes,4–1
+M-1990-29,1990,1990s,1990-06-19,21:00,Group Stage,Group Stage,Group A,Stadio Comunale,Florence,Italy,Austria,United States,2,1,3,1,Home Win,Austria,No,No,0,0,No,2–1
+M-1990-30,1990,1990s,1990-06-19,21:00,Group Stage,Group Stage,Group A,Stadio Olimpico,Rome,Italy,Italy,Czechoslovakia,2,0,2,2,Home Win,Italy,No,No,0,0,No,2–0
+M-1990-31,1990,1990s,1990-06-20,21:00,Group Stage,Group Stage,Group C,Stadio delle Alpi,Turin,Italy,Brazil,Scotland,1,0,1,1,Home Win,Brazil,No,No,0,0,No,1–0
+M-1990-32,1990,1990s,1990-06-20,21:00,Group Stage,Group Stage,Group C,Stadio Luigi Ferraris,Genoa,Italy,Sweden,Costa Rica,1,2,3,1,Away Win,Costa Rica,No,No,0,0,No,1–2
+M-1990-33,1990,1990s,1990-06-21,17:00,Group Stage,Group Stage,Group E,Stadio Marc'Antonio Bentegodi,Verona,Italy,Belgium,Spain,1,2,3,1,Away Win,Spain,No,No,0,0,No,1–2
+M-1990-34,1990,1990s,1990-06-21,17:00,Group Stage,Group Stage,Group E,Stadio Friuli,Udine,Italy,South Korea,Uruguay,0,1,1,1,Away Win,Uruguay,No,No,0,0,No,0–1
+M-1990-35,1990,1990s,1990-06-21,21:00,Group Stage,Group Stage,Group F,Stadio Sant'Elia,Cagliari,Italy,England,Egypt,1,0,1,1,Home Win,England,No,No,0,0,No,1–0
+M-1990-36,1990,1990s,1990-06-21,21:00,Group Stage,Group Stage,Group F,Stadio La Favorita,Palermo,Italy,Republic of Ireland,Netherlands,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1990-37,1990,1990s,1990-06-23,17:00,Round Of 16,Knockout Stage,not applicable,Stadio San Paolo,Naples,Italy,Cameroon,Colombia,2,1,3,1,Home Win,Cameroon,Yes,No,0,0,No,2–1
+M-1990-38,1990,1990s,1990-06-23,21:00,Round Of 16,Knockout Stage,not applicable,Stadio San Nicola,Bari,Italy,Czechoslovakia,Costa Rica,4,1,5,3,Home Win,Czechoslovakia,No,No,0,0,Yes,4–1
+M-1990-39,1990,1990s,1990-06-24,17:00,Round Of 16,Knockout Stage,not applicable,Stadio delle Alpi,Turin,Italy,Brazil,Argentina,0,1,1,1,Away Win,Argentina,No,No,0,0,No,0–1
+M-1990-40,1990,1990s,1990-06-24,21:00,Round Of 16,Knockout Stage,not applicable,San Siro,Milan,Italy,West Germany,Netherlands,2,1,3,1,Home Win,West Germany,No,No,0,0,No,2–1
+M-1990-41,1990,1990s,1990-06-25,17:00,Round Of 16,Knockout Stage,not applicable,Stadio Luigi Ferraris,Genoa,Italy,Republic of Ireland,Romania,0,0,0,0,Draw,Republic of Ireland,Yes,Yes,5,4,No,0–0
+M-1990-42,1990,1990s,1990-06-25,21:00,Round Of 16,Knockout Stage,not applicable,Stadio Olimpico,Rome,Italy,Italy,Uruguay,2,0,2,2,Home Win,Italy,No,No,0,0,No,2–0
+M-1990-43,1990,1990s,1990-06-26,17:00,Round Of 16,Knockout Stage,not applicable,Stadio Marc'Antonio Bentegodi,Verona,Italy,Spain,Yugoslavia,1,2,3,1,Away Win,Yugoslavia,Yes,No,0,0,No,1–2
+M-1990-44,1990,1990s,1990-06-26,21:00,Round Of 16,Knockout Stage,not applicable,Stadio Renato Dall'Ara,Bologna,Italy,England,Belgium,1,0,1,1,Home Win,England,Yes,No,0,0,No,1–0
+M-1990-45,1990,1990s,1990-06-30,17:00,Quarter-Finals,Knockout Stage,not applicable,Stadio Comunale,Florence,Italy,Argentina,Yugoslavia,0,0,0,0,Draw,Argentina,Yes,Yes,3,2,No,0–0
+M-1990-46,1990,1990s,1990-06-30,21:00,Quarter-Finals,Knockout Stage,not applicable,Stadio Olimpico,Rome,Italy,Republic of Ireland,Italy,0,1,1,1,Away Win,Italy,No,No,0,0,No,0–1
+M-1990-47,1990,1990s,1990-07-01,17:00,Quarter-Finals,Knockout Stage,not applicable,San Siro,Milan,Italy,Czechoslovakia,West Germany,0,1,1,1,Away Win,West Germany,No,No,0,0,No,0–1
+M-1990-48,1990,1990s,1990-07-01,21:00,Quarter-Finals,Knockout Stage,not applicable,Stadio San Paolo,Naples,Italy,Cameroon,England,2,3,5,1,Away Win,England,Yes,No,0,0,Yes,2–3
+M-1990-49,1990,1990s,1990-07-03,20:00,Semi-Finals,Knockout Stage,not applicable,Stadio San Paolo,Naples,Italy,Argentina,Italy,1,1,2,0,Draw,Argentina,Yes,Yes,4,3,No,1–1
+M-1990-50,1990,1990s,1990-07-04,20:00,Semi-Finals,Knockout Stage,not applicable,Stadio delle Alpi,Turin,Italy,West Germany,England,1,1,2,0,Draw,West Germany,Yes,Yes,4,3,No,1–1
+M-1990-51,1990,1990s,1990-07-07,20:00,Third-Place Match,Knockout Stage,not applicable,Stadio San Nicola,Bari,Italy,Italy,England,2,1,3,1,Home Win,Italy,No,No,0,0,No,2–1
+M-1990-52,1990,1990s,1990-07-08,20:00,Final,Knockout Stage,not applicable,Stadio Olimpico,Rome,Italy,West Germany,Argentina,1,0,1,1,Home Win,West Germany,No,No,0,0,No,1–0
+M-1994-01,1994,1990s,1994-06-17,14:00,Group Stage,Group Stage,Group C,Soldier Field,Chicago,United States,Germany,Bolivia,1,0,1,1,Home Win,Germany,No,No,0,0,No,1–0
+M-1994-02,1994,1990s,1994-06-17,18:30,Group Stage,Group Stage,Group C,Cotton Bowl,Dallas,United States,Spain,South Korea,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1994-03,1994,1990s,1994-06-18,11:30,Group Stage,Group Stage,Group A,Pontiac Silverdome,Pontiac,United States,United States,Switzerland,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1994-04,1994,1990s,1994-06-18,16:00,Group Stage,Group Stage,Group E,Giants Stadium,East Rutherford,United States,Italy,Republic of Ireland,0,1,1,1,Away Win,Republic of Ireland,No,No,0,0,No,0–1
+M-1994-05,1994,1990s,1994-06-18,16:30,Group Stage,Group Stage,Group A,Rose Bowl,Pasadena,United States,Colombia,Romania,1,3,4,2,Away Win,Romania,No,No,0,0,No,1–3
+M-1994-06,1994,1990s,1994-06-19,12:30,Group Stage,Group Stage,Group F,Citrus Bowl,Orlando,United States,Belgium,Morocco,1,0,1,1,Home Win,Belgium,No,No,0,0,No,1–0
+M-1994-07,1994,1990s,1994-06-19,16:00,Group Stage,Group Stage,Group E,RFK Stadium,"Washington, D.C.",United States,Norway,Mexico,1,0,1,1,Home Win,Norway,No,No,0,0,No,1–0
+M-1994-08,1994,1990s,1994-06-19,16:30,Group Stage,Group Stage,Group B,Rose Bowl,Pasadena,United States,Cameroon,Sweden,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1994-09,1994,1990s,1994-06-20,13:00,Group Stage,Group Stage,Group B,Stanford Stadium,Stanford,United States,Brazil,Russia,2,0,2,2,Home Win,Brazil,No,No,0,0,No,2–0
+M-1994-10,1994,1990s,1994-06-20,19:30,Group Stage,Group Stage,Group F,RFK Stadium,"Washington, D.C.",United States,Netherlands,Saudi Arabia,2,1,3,1,Home Win,Netherlands,No,No,0,0,No,2–1
+M-1994-11,1994,1990s,1994-06-21,12:30,Group Stage,Group Stage,Group D,Foxboro Stadium,Foxborough,United States,Argentina,Greece,4,0,4,4,Home Win,Argentina,No,No,0,0,No,4–0
+M-1994-12,1994,1990s,1994-06-21,15:00,Group Stage,Group Stage,Group C,Soldier Field,Chicago,United States,Germany,Spain,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1994-13,1994,1990s,1994-06-21,18:30,Group Stage,Group Stage,Group D,Cotton Bowl,Dallas,United States,Nigeria,Bulgaria,3,0,3,3,Home Win,Nigeria,No,No,0,0,No,3–0
+M-1994-14,1994,1990s,1994-06-22,16:00,Group Stage,Group Stage,Group A,Pontiac Silverdome,Pontiac,United States,Romania,Switzerland,1,4,5,3,Away Win,Switzerland,No,No,0,0,Yes,1–4
+M-1994-15,1994,1990s,1994-06-22,16:30,Group Stage,Group Stage,Group A,Rose Bowl,Pasadena,United States,United States,Colombia,2,1,3,1,Home Win,United States,No,No,0,0,No,2–1
+M-1994-16,1994,1990s,1994-06-23,16:00,Group Stage,Group Stage,Group E,Giants Stadium,East Rutherford,United States,Italy,Norway,1,0,1,1,Home Win,Italy,No,No,0,0,No,1–0
+M-1994-17,1994,1990s,1994-06-23,19:30,Group Stage,Group Stage,Group C,Foxboro Stadium,Foxborough,United States,South Korea,Bolivia,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1994-18,1994,1990s,1994-06-24,12:30,Group Stage,Group Stage,Group E,Citrus Bowl,Orlando,United States,Mexico,Republic of Ireland,2,1,3,1,Home Win,Mexico,No,No,0,0,No,2–1
+M-1994-19,1994,1990s,1994-06-24,13:00,Group Stage,Group Stage,Group B,Stanford Stadium,Stanford,United States,Brazil,Cameroon,3,0,3,3,Home Win,Brazil,No,No,0,0,No,3–0
+M-1994-20,1994,1990s,1994-06-24,19:30,Group Stage,Group Stage,Group B,Pontiac Silverdome,Pontiac,United States,Sweden,Russia,3,1,4,2,Home Win,Sweden,No,No,0,0,No,3–1
+M-1994-21,1994,1990s,1994-06-25,12:30,Group Stage,Group Stage,Group F,Citrus Bowl,Orlando,United States,Belgium,Netherlands,1,0,1,1,Home Win,Belgium,No,No,0,0,No,1–0
+M-1994-22,1994,1990s,1994-06-25,12:30,Group Stage,Group Stage,Group F,Giants Stadium,East Rutherford,United States,Saudi Arabia,Morocco,2,1,3,1,Home Win,Saudi Arabia,No,No,0,0,No,2–1
+M-1994-23,1994,1990s,1994-06-25,16:00,Group Stage,Group Stage,Group D,Foxboro Stadium,Foxborough,United States,Argentina,Nigeria,2,1,3,1,Home Win,Argentina,No,No,0,0,No,2–1
+M-1994-24,1994,1990s,1994-06-26,11:30,Group Stage,Group Stage,Group D,Soldier Field,Chicago,United States,Bulgaria,Greece,4,0,4,4,Home Win,Bulgaria,No,No,0,0,No,4–0
+M-1994-25,1994,1990s,1994-06-26,13:00,Group Stage,Group Stage,Group A,Stanford Stadium,Stanford,United States,Switzerland,Colombia,0,2,2,2,Away Win,Colombia,No,No,0,0,No,0–2
+M-1994-26,1994,1990s,1994-06-26,13:00,Group Stage,Group Stage,Group A,Rose Bowl,Pasadena,United States,United States,Romania,0,1,1,1,Away Win,Romania,No,No,0,0,No,0–1
+M-1994-27,1994,1990s,1994-06-27,15:00,Group Stage,Group Stage,Group C,Soldier Field,Chicago,United States,Bolivia,Spain,1,3,4,2,Away Win,Spain,No,No,0,0,No,1–3
+M-1994-28,1994,1990s,1994-06-27,15:00,Group Stage,Group Stage,Group C,Cotton Bowl,Dallas,United States,Germany,South Korea,3,2,5,1,Home Win,Germany,No,No,0,0,Yes,3–2
+M-1994-29,1994,1990s,1994-06-28,12:30,Group Stage,Group Stage,Group E,RFK Stadium,"Washington, D.C.",United States,Italy,Mexico,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1994-30,1994,1990s,1994-06-28,12:30,Group Stage,Group Stage,Group E,Giants Stadium,East Rutherford,United States,Republic of Ireland,Norway,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1994-31,1994,1990s,1994-06-28,13:00,Group Stage,Group Stage,Group B,Stanford Stadium,Stanford,United States,Russia,Cameroon,6,1,7,5,Home Win,Russia,No,No,0,0,Yes,6–1
+M-1994-32,1994,1990s,1994-06-28,16:00,Group Stage,Group Stage,Group B,Pontiac Silverdome,Pontiac,United States,Brazil,Sweden,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1994-33,1994,1990s,1994-06-29,12:30,Group Stage,Group Stage,Group F,RFK Stadium,"Washington, D.C.",United States,Belgium,Saudi Arabia,0,1,1,1,Away Win,Saudi Arabia,No,No,0,0,No,0–1
+M-1994-34,1994,1990s,1994-06-29,12:30,Group Stage,Group Stage,Group F,Citrus Bowl,Orlando,United States,Morocco,Netherlands,1,2,3,1,Away Win,Netherlands,No,No,0,0,No,1–2
+M-1994-35,1994,1990s,1994-06-30,18:30,Group Stage,Group Stage,Group D,Cotton Bowl,Dallas,United States,Argentina,Bulgaria,0,2,2,2,Away Win,Bulgaria,No,No,0,0,No,0–2
+M-1994-36,1994,1990s,1994-06-30,19:30,Group Stage,Group Stage,Group D,Foxboro Stadium,Foxborough,United States,Greece,Nigeria,0,2,2,2,Away Win,Nigeria,No,No,0,0,No,0–2
+M-1994-37,1994,1990s,1994-07-02,12:00,Round Of 16,Knockout Stage,not applicable,Soldier Field,Chicago,United States,Germany,Belgium,3,2,5,1,Home Win,Germany,No,No,0,0,Yes,3–2
+M-1994-38,1994,1990s,1994-07-02,16:30,Round Of 16,Knockout Stage,not applicable,RFK Stadium,"Washington, D.C.",United States,Spain,Switzerland,3,0,3,3,Home Win,Spain,No,No,0,0,No,3–0
+M-1994-39,1994,1990s,1994-07-03,12:00,Round Of 16,Knockout Stage,not applicable,Cotton Bowl,Dallas,United States,Saudi Arabia,Sweden,1,3,4,2,Away Win,Sweden,No,No,0,0,No,1–3
+M-1994-40,1994,1990s,1994-07-03,13:30,Round Of 16,Knockout Stage,not applicable,Rose Bowl,Pasadena,United States,Romania,Argentina,3,2,5,1,Home Win,Romania,No,No,0,0,Yes,3–2
+M-1994-41,1994,1990s,1994-07-04,12:00,Round Of 16,Knockout Stage,not applicable,Citrus Bowl,Orlando,United States,Netherlands,Republic of Ireland,2,0,2,2,Home Win,Netherlands,No,No,0,0,No,2–0
+M-1994-42,1994,1990s,1994-07-04,12:30,Round Of 16,Knockout Stage,not applicable,Stanford Stadium,Stanford,United States,Brazil,United States,1,0,1,1,Home Win,Brazil,No,No,0,0,No,1–0
+M-1994-43,1994,1990s,1994-07-05,13:00,Round Of 16,Knockout Stage,not applicable,Foxboro Stadium,Foxborough,United States,Nigeria,Italy,1,2,3,1,Away Win,Italy,Yes,No,0,0,No,1–2
+M-1994-44,1994,1990s,1994-07-05,16:30,Round Of 16,Knockout Stage,not applicable,Giants Stadium,East Rutherford,United States,Mexico,Bulgaria,1,1,2,0,Draw,Bulgaria,Yes,Yes,1,3,No,1–1
+M-1994-45,1994,1990s,1994-07-09,12:00,Quarter-Finals,Knockout Stage,not applicable,Foxboro Stadium,Foxborough,United States,Italy,Spain,2,1,3,1,Home Win,Italy,No,No,0,0,No,2–1
+M-1994-46,1994,1990s,1994-07-09,14:30,Quarter-Finals,Knockout Stage,not applicable,Cotton Bowl,Dallas,United States,Netherlands,Brazil,2,3,5,1,Away Win,Brazil,No,No,0,0,Yes,2–3
+M-1994-47,1994,1990s,1994-07-10,12:00,Quarter-Finals,Knockout Stage,not applicable,Giants Stadium,East Rutherford,United States,Bulgaria,Germany,2,1,3,1,Home Win,Bulgaria,No,No,0,0,No,2–1
+M-1994-48,1994,1990s,1994-07-10,12:30,Quarter-Finals,Knockout Stage,not applicable,Stanford Stadium,Stanford,United States,Romania,Sweden,2,2,4,0,Draw,Sweden,Yes,Yes,4,5,No,2–2
+M-1994-49,1994,1990s,1994-07-13,16:00,Semi-Finals,Knockout Stage,not applicable,Giants Stadium,East Rutherford,United States,Bulgaria,Italy,1,2,3,1,Away Win,Italy,No,No,0,0,No,1–2
+M-1994-50,1994,1990s,1994-07-13,16:30,Semi-Finals,Knockout Stage,not applicable,Rose Bowl,Pasadena,United States,Sweden,Brazil,0,1,1,1,Away Win,Brazil,No,No,0,0,No,0–1
+M-1994-51,1994,1990s,1994-07-16,12:30,Third-Place Match,Knockout Stage,not applicable,Rose Bowl,Pasadena,United States,Sweden,Bulgaria,4,0,4,4,Home Win,Sweden,No,No,0,0,No,4–0
+M-1994-52,1994,1990s,1994-07-17,12:30,Final,Knockout Stage,not applicable,Rose Bowl,Pasadena,United States,Brazil,Italy,0,0,0,0,Draw,Brazil,Yes,Yes,3,2,No,0–0
+M-1998-01,1998,1990s,1998-06-10,17:30,Group Stage,Group Stage,Group A,Stade de France,Saint-Denis,France,Brazil,Scotland,2,1,3,1,Home Win,Brazil,No,No,0,0,No,2–1
+M-1998-02,1998,1990s,1998-06-10,21:00,Group Stage,Group Stage,Group A,Stade de la Mosson,Montpellier,France,Morocco,Norway,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1998-03,1998,1990s,1998-06-11,17:30,Group Stage,Group Stage,Group B,Stade du Parc Lescure,Bordeaux,France,Italy,Chile,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1998-04,1998,1990s,1998-06-11,21:00,Group Stage,Group Stage,Group B,Stade de Toulouse,Toulouse,France,Cameroon,Austria,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1998-05,1998,1990s,1998-06-12,14:30,Group Stage,Group Stage,Group D,Stade de la Mosson,Montpellier,France,Paraguay,Bulgaria,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1998-06,1998,1990s,1998-06-12,17:30,Group Stage,Group Stage,Group C,Stade Félix-Bollaert,Lens,France,Saudi Arabia,Denmark,0,1,1,1,Away Win,Denmark,No,No,0,0,No,0–1
+M-1998-07,1998,1990s,1998-06-12,21:00,Group Stage,Group Stage,Group C,Stade Vélodrome,Marseille,France,France,South Africa,3,0,3,3,Home Win,France,No,No,0,0,No,3–0
+M-1998-08,1998,1990s,1998-06-13,14:30,Group Stage,Group Stage,Group D,Stade de la Beaujoire,Nantes,France,Spain,Nigeria,2,3,5,1,Away Win,Nigeria,No,No,0,0,Yes,2–3
+M-1998-09,1998,1990s,1998-06-13,17:30,Group Stage,Group Stage,Group E,Stade de Gerland,Lyon,France,South Korea,Mexico,1,3,4,2,Away Win,Mexico,No,No,0,0,No,1–3
+M-1998-10,1998,1990s,1998-06-13,21:00,Group Stage,Group Stage,Group E,Stade de France,Saint-Denis,France,Netherlands,Belgium,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1998-11,1998,1990s,1998-06-14,14:30,Group Stage,Group Stage,Group H,Stade de Toulouse,Toulouse,France,Argentina,Japan,1,0,1,1,Home Win,Argentina,No,No,0,0,No,1–0
+M-1998-12,1998,1990s,1998-06-14,17:30,Group Stage,Group Stage,Group F,Stade Geoffroy-Guichard,Saint-Étienne,France,Yugoslavia,Iran,1,0,1,1,Home Win,Yugoslavia,No,No,0,0,No,1–0
+M-1998-13,1998,1990s,1998-06-14,21:00,Group Stage,Group Stage,Group H,Stade Félix-Bollaert,Lens,France,Jamaica,Croatia,1,3,4,2,Away Win,Croatia,No,No,0,0,No,1–3
+M-1998-14,1998,1990s,1998-06-15,14:30,Group Stage,Group Stage,Group G,Stade Vélodrome,Marseille,France,England,Tunisia,2,0,2,2,Home Win,England,No,No,0,0,No,2–0
+M-1998-15,1998,1990s,1998-06-15,17:30,Group Stage,Group Stage,Group G,Stade de Gerland,Lyon,France,Romania,Colombia,1,0,1,1,Home Win,Romania,No,No,0,0,No,1–0
+M-1998-16,1998,1990s,1998-06-15,21:00,Group Stage,Group Stage,Group F,Parc des Princes,Paris,France,Germany,United States,2,0,2,2,Home Win,Germany,No,No,0,0,No,2–0
+M-1998-17,1998,1990s,1998-06-16,17:30,Group Stage,Group Stage,Group A,Stade du Parc Lescure,Bordeaux,France,Scotland,Norway,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1998-18,1998,1990s,1998-06-16,21:00,Group Stage,Group Stage,Group A,Stade de la Beaujoire,Nantes,France,Brazil,Morocco,3,0,3,3,Home Win,Brazil,No,No,0,0,No,3–0
+M-1998-19,1998,1990s,1998-06-17,17:30,Group Stage,Group Stage,Group B,Stade Geoffroy-Guichard,Saint-Étienne,France,Chile,Austria,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1998-20,1998,1990s,1998-06-17,21:00,Group Stage,Group Stage,Group B,Stade de la Mosson,Montpellier,France,Italy,Cameroon,3,0,3,3,Home Win,Italy,No,No,0,0,No,3–0
+M-1998-21,1998,1990s,1998-06-18,17:30,Group Stage,Group Stage,Group C,Stade de Toulouse,Toulouse,France,South Africa,Denmark,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1998-22,1998,1990s,1998-06-18,21:00,Group Stage,Group Stage,Group C,Stade de France,Saint-Denis,France,France,Saudi Arabia,4,0,4,4,Home Win,France,No,No,0,0,No,4–0
+M-1998-23,1998,1990s,1998-06-19,17:30,Group Stage,Group Stage,Group D,Parc des Princes,Paris,France,Nigeria,Bulgaria,1,0,1,1,Home Win,Nigeria,No,No,0,0,No,1–0
+M-1998-24,1998,1990s,1998-06-19,21:00,Group Stage,Group Stage,Group D,Stade Geoffroy-Guichard,Saint-Étienne,France,Spain,Paraguay,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-1998-25,1998,1990s,1998-06-20,14:30,Group Stage,Group Stage,Group H,Stade de la Beaujoire,Nantes,France,Japan,Croatia,0,1,1,1,Away Win,Croatia,No,No,0,0,No,0–1
+M-1998-26,1998,1990s,1998-06-20,17:30,Group Stage,Group Stage,Group E,Stade du Parc Lescure,Bordeaux,France,Belgium,Mexico,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1998-27,1998,1990s,1998-06-20,21:00,Group Stage,Group Stage,Group E,Stade Vélodrome,Marseille,France,Netherlands,South Korea,5,0,5,5,Home Win,Netherlands,No,No,0,0,Yes,5–0
+M-1998-28,1998,1990s,1998-06-21,14:30,Group Stage,Group Stage,Group F,Stade Félix-Bollaert,Lens,France,Germany,Yugoslavia,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1998-29,1998,1990s,1998-06-21,17:30,Group Stage,Group Stage,Group H,Parc des Princes,Paris,France,Argentina,Jamaica,5,0,5,5,Home Win,Argentina,No,No,0,0,Yes,5–0
+M-1998-30,1998,1990s,1998-06-21,21:00,Group Stage,Group Stage,Group F,Stade de Gerland,Lyon,France,United States,Iran,1,2,3,1,Away Win,Iran,No,No,0,0,No,1–2
+M-1998-31,1998,1990s,1998-06-22,17:30,Group Stage,Group Stage,Group G,Stade de la Mosson,Montpellier,France,Colombia,Tunisia,1,0,1,1,Home Win,Colombia,No,No,0,0,No,1–0
+M-1998-32,1998,1990s,1998-06-22,21:00,Group Stage,Group Stage,Group G,Stade de Toulouse,Toulouse,France,Romania,England,2,1,3,1,Home Win,Romania,No,No,0,0,No,2–1
+M-1998-33,1998,1990s,1998-06-23,16:00,Group Stage,Group Stage,Group B,Stade de la Beaujoire,Nantes,France,Chile,Cameroon,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1998-34,1998,1990s,1998-06-23,16:00,Group Stage,Group Stage,Group B,Stade de France,Saint-Denis,France,Italy,Austria,2,1,3,1,Home Win,Italy,No,No,0,0,No,2–1
+M-1998-35,1998,1990s,1998-06-23,21:00,Group Stage,Group Stage,Group A,Stade Vélodrome,Marseille,France,Brazil,Norway,1,2,3,1,Away Win,Norway,No,No,0,0,No,1–2
+M-1998-36,1998,1990s,1998-06-23,21:00,Group Stage,Group Stage,Group A,Stade Geoffroy-Guichard,Saint-Étienne,France,Scotland,Morocco,0,3,3,3,Away Win,Morocco,No,No,0,0,No,0–3
+M-1998-37,1998,1990s,1998-06-24,16:00,Group Stage,Group Stage,Group C,Stade de Gerland,Lyon,France,France,Denmark,2,1,3,1,Home Win,France,No,No,0,0,No,2–1
+M-1998-38,1998,1990s,1998-06-24,16:00,Group Stage,Group Stage,Group C,Stade du Parc Lescure,Bordeaux,France,South Africa,Saudi Arabia,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1998-39,1998,1990s,1998-06-24,21:00,Group Stage,Group Stage,Group D,Stade de Toulouse,Toulouse,France,Nigeria,Paraguay,1,3,4,2,Away Win,Paraguay,No,No,0,0,No,1–3
+M-1998-40,1998,1990s,1998-06-24,21:00,Group Stage,Group Stage,Group D,Stade Félix-Bollaert,Lens,France,Spain,Bulgaria,6,1,7,5,Home Win,Spain,No,No,0,0,Yes,6–1
+M-1998-41,1998,1990s,1998-06-25,16:00,Group Stage,Group Stage,Group E,Parc des Princes,Paris,France,Belgium,South Korea,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1998-42,1998,1990s,1998-06-25,16:00,Group Stage,Group Stage,Group E,Stade Geoffroy-Guichard,Saint-Étienne,France,Netherlands,Mexico,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-1998-43,1998,1990s,1998-06-25,21:00,Group Stage,Group Stage,Group F,Stade de la Mosson,Montpellier,France,Germany,Iran,2,0,2,2,Home Win,Germany,No,No,0,0,No,2–0
+M-1998-44,1998,1990s,1998-06-25,21:00,Group Stage,Group Stage,Group F,Stade de la Beaujoire,Nantes,France,United States,Yugoslavia,0,1,1,1,Away Win,Yugoslavia,No,No,0,0,No,0–1
+M-1998-45,1998,1990s,1998-06-26,16:00,Group Stage,Group Stage,Group H,Stade du Parc Lescure,Bordeaux,France,Argentina,Croatia,1,0,1,1,Home Win,Argentina,No,No,0,0,No,1–0
+M-1998-46,1998,1990s,1998-06-26,16:00,Group Stage,Group Stage,Group H,Stade de Gerland,Lyon,France,Japan,Jamaica,1,2,3,1,Away Win,Jamaica,No,No,0,0,No,1–2
+M-1998-47,1998,1990s,1998-06-26,21:00,Group Stage,Group Stage,Group G,Stade Félix-Bollaert,Lens,France,Colombia,England,0,2,2,2,Away Win,England,No,No,0,0,No,0–2
+M-1998-48,1998,1990s,1998-06-26,21:00,Group Stage,Group Stage,Group G,Stade de France,Saint-Denis,France,Romania,Tunisia,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-1998-49,1998,1990s,1998-06-27,16:30,Round Of 16,Knockout Stage,not applicable,Stade Vélodrome,Marseille,France,Italy,Norway,1,0,1,1,Home Win,Italy,No,No,0,0,No,1–0
+M-1998-50,1998,1990s,1998-06-27,21:00,Round Of 16,Knockout Stage,not applicable,Parc des Princes,Paris,France,Brazil,Chile,4,1,5,3,Home Win,Brazil,No,No,0,0,Yes,4–1
+M-1998-51,1998,1990s,1998-06-28,16:30,Round Of 16,Knockout Stage,not applicable,Stade Félix-Bollaert,Lens,France,France,Paraguay,1,0,1,1,Home Win,France,Yes,No,0,0,No,1–0
+M-1998-52,1998,1990s,1998-06-28,21:00,Round Of 16,Knockout Stage,not applicable,Stade de France,Saint-Denis,France,Nigeria,Denmark,1,4,5,3,Away Win,Denmark,No,No,0,0,Yes,1–4
+M-1998-53,1998,1990s,1998-06-29,16:30,Round Of 16,Knockout Stage,not applicable,Stade de la Mosson,Montpellier,France,Germany,Mexico,2,1,3,1,Home Win,Germany,No,No,0,0,No,2–1
+M-1998-54,1998,1990s,1998-06-29,21:00,Round Of 16,Knockout Stage,not applicable,Stade de Toulouse,Toulouse,France,Netherlands,Yugoslavia,2,1,3,1,Home Win,Netherlands,No,No,0,0,No,2–1
+M-1998-55,1998,1990s,1998-06-30,16:30,Round Of 16,Knockout Stage,not applicable,Stade du Parc Lescure,Bordeaux,France,Romania,Croatia,0,1,1,1,Away Win,Croatia,No,No,0,0,No,0–1
+M-1998-56,1998,1990s,1998-06-30,21:00,Round Of 16,Knockout Stage,not applicable,Stade Geoffroy-Guichard,Saint-Étienne,France,Argentina,England,2,2,4,0,Draw,Argentina,Yes,Yes,4,3,No,2–2
+M-1998-57,1998,1990s,1998-07-03,16:30,Quarter-Finals,Knockout Stage,not applicable,Stade de France,Saint-Denis,France,Italy,France,0,0,0,0,Draw,France,Yes,Yes,3,4,No,0–0
+M-1998-58,1998,1990s,1998-07-03,21:00,Quarter-Finals,Knockout Stage,not applicable,Stade de la Beaujoire,Nantes,France,Brazil,Denmark,3,2,5,1,Home Win,Brazil,No,No,0,0,Yes,3–2
+M-1998-59,1998,1990s,1998-07-04,16:30,Quarter-Finals,Knockout Stage,not applicable,Stade Vélodrome,Marseille,France,Netherlands,Argentina,2,1,3,1,Home Win,Netherlands,No,No,0,0,No,2–1
+M-1998-60,1998,1990s,1998-07-04,21:00,Quarter-Finals,Knockout Stage,not applicable,Stade de Gerland,Lyon,France,Germany,Croatia,0,3,3,3,Away Win,Croatia,No,No,0,0,No,0–3
+M-1998-61,1998,1990s,1998-07-07,21:00,Semi-Finals,Knockout Stage,not applicable,Stade Vélodrome,Marseille,France,Brazil,Netherlands,1,1,2,0,Draw,Brazil,Yes,Yes,4,2,No,1–1
+M-1998-62,1998,1990s,1998-07-08,21:00,Semi-Finals,Knockout Stage,not applicable,Stade de France,Saint-Denis,France,France,Croatia,2,1,3,1,Home Win,France,No,No,0,0,No,2–1
+M-1998-63,1998,1990s,1998-07-11,21:00,Third-Place Match,Knockout Stage,not applicable,Parc des Princes,Paris,France,Netherlands,Croatia,1,2,3,1,Away Win,Croatia,No,No,0,0,No,1–2
+M-1998-64,1998,1990s,1998-07-12,21:00,Final,Knockout Stage,not applicable,Stade de France,Saint-Denis,France,Brazil,France,0,3,3,3,Away Win,France,No,No,0,0,No,0–3
+M-2002-01,2002,2000s,2002-05-31,20:30,Group Stage,Group Stage,Group A,Seoul World Cup Stadium,Seoul,South Korea,France,Senegal,0,1,1,1,Away Win,Senegal,No,No,0,0,No,0–1
+M-2002-02,2002,2000s,2002-06-01,15:30,Group Stage,Group Stage,Group E,Niigata Stadium,Niigata,Japan,Republic of Ireland,Cameroon,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2002-03,2002,2000s,2002-06-01,18:00,Group Stage,Group Stage,Group A,Ulsan Munsu Football Stadium,Ulsan,South Korea,Uruguay,Denmark,1,2,3,1,Away Win,Denmark,No,No,0,0,No,1–2
+M-2002-04,2002,2000s,2002-06-01,20:30,Group Stage,Group Stage,Group E,Sapporo Dome,Sapporo,Japan,Germany,Saudi Arabia,8,0,8,8,Home Win,Germany,No,No,0,0,Yes,8–0
+M-2002-05,2002,2000s,2002-06-02,14:30,Group Stage,Group Stage,Group F,Kashima Stadium,Ibaraki,Japan,Argentina,Nigeria,1,0,1,1,Home Win,Argentina,No,No,0,0,No,1–0
+M-2002-06,2002,2000s,2002-06-02,16:30,Group Stage,Group Stage,Group B,Busan Asiad Stadium,Busan,South Korea,Paraguay,South Africa,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-2002-07,2002,2000s,2002-06-02,18:30,Group Stage,Group Stage,Group F,Saitama Stadium,Saitama,Japan,England,Sweden,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2002-08,2002,2000s,2002-06-02,20:30,Group Stage,Group Stage,Group B,Gwangju World Cup Stadium,Gwangju,South Korea,Spain,Slovenia,3,1,4,2,Home Win,Spain,No,No,0,0,No,3–1
+M-2002-09,2002,2000s,2002-06-03,15:30,Group Stage,Group Stage,Group G,Niigata Stadium,Niigata,Japan,Croatia,Mexico,0,1,1,1,Away Win,Mexico,No,No,0,0,No,0–1
+M-2002-10,2002,2000s,2002-06-03,18:00,Group Stage,Group Stage,Group C,Ulsan Munsu Football Stadium,Ulsan,South Korea,Brazil,Turkey,2,1,3,1,Home Win,Brazil,No,No,0,0,No,2–1
+M-2002-11,2002,2000s,2002-06-03,20:30,Group Stage,Group Stage,Group G,Sapporo Dome,Sapporo,Japan,Italy,Ecuador,2,0,2,2,Home Win,Italy,No,No,0,0,No,2–0
+M-2002-12,2002,2000s,2002-06-04,15:30,Group Stage,Group Stage,Group C,Gwangju World Cup Stadium,Gwangju,South Korea,China,Costa Rica,0,2,2,2,Away Win,Costa Rica,No,No,0,0,No,0–2
+M-2002-13,2002,2000s,2002-06-04,18:00,Group Stage,Group Stage,Group H,Saitama Stadium,Saitama,Japan,Japan,Belgium,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-2002-14,2002,2000s,2002-06-04,20:30,Group Stage,Group Stage,Group D,Busan Asiad Stadium,Busan,South Korea,South Korea,Poland,2,0,2,2,Home Win,South Korea,No,No,0,0,No,2–0
+M-2002-15,2002,2000s,2002-06-05,15:30,Group Stage,Group Stage,Group H,Kobe Wing Stadium,Kobe,Japan,Russia,Tunisia,2,0,2,2,Home Win,Russia,No,No,0,0,No,2–0
+M-2002-16,2002,2000s,2002-06-05,18:00,Group Stage,Group Stage,Group D,Suwon World Cup Stadium,Suwon,South Korea,United States,Portugal,3,2,5,1,Home Win,United States,No,No,0,0,Yes,3–2
+M-2002-17,2002,2000s,2002-06-05,20:30,Group Stage,Group Stage,Group E,Kashima Stadium,Ibaraki,Japan,Germany,Republic of Ireland,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2002-18,2002,2000s,2002-06-06,15:30,Group Stage,Group Stage,Group A,Daegu World Cup Stadium,Daegu,South Korea,Denmark,Senegal,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2002-19,2002,2000s,2002-06-06,18:00,Group Stage,Group Stage,Group E,Saitama Stadium,Saitama,Japan,Cameroon,Saudi Arabia,1,0,1,1,Home Win,Cameroon,No,No,0,0,No,1–0
+M-2002-20,2002,2000s,2002-06-06,20:30,Group Stage,Group Stage,Group A,Busan Asiad Stadium,Busan,South Korea,France,Uruguay,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2002-21,2002,2000s,2002-06-07,15:30,Group Stage,Group Stage,Group F,Kobe Wing Stadium,Kobe,Japan,Sweden,Nigeria,2,1,3,1,Home Win,Sweden,No,No,0,0,No,2–1
+M-2002-22,2002,2000s,2002-06-07,18:00,Group Stage,Group Stage,Group B,Jeonju World Cup Stadium,Jeonju,South Korea,Spain,Paraguay,3,1,4,2,Home Win,Spain,No,No,0,0,No,3–1
+M-2002-23,2002,2000s,2002-06-07,20:30,Group Stage,Group Stage,Group F,Sapporo Dome,Sapporo,Japan,Argentina,England,0,1,1,1,Away Win,England,No,No,0,0,No,0–1
+M-2002-24,2002,2000s,2002-06-08,15:30,Group Stage,Group Stage,Group B,Daegu World Cup Stadium,Daegu,South Korea,South Africa,Slovenia,1,0,1,1,Home Win,South Africa,No,No,0,0,No,1–0
+M-2002-25,2002,2000s,2002-06-08,18:00,Group Stage,Group Stage,Group G,Kashima Stadium,Ibaraki,Japan,Italy,Croatia,1,2,3,1,Away Win,Croatia,No,No,0,0,No,1–2
+M-2002-26,2002,2000s,2002-06-08,20:30,Group Stage,Group Stage,Group C,Jeju World Cup Stadium,Seogwipo,South Korea,Brazil,China,4,0,4,4,Home Win,Brazil,No,No,0,0,No,4–0
+M-2002-27,2002,2000s,2002-06-09,15:30,Group Stage,Group Stage,Group G,Miyagi Stadium,Miyagi,Japan,Mexico,Ecuador,2,1,3,1,Home Win,Mexico,No,No,0,0,No,2–1
+M-2002-28,2002,2000s,2002-06-09,18:00,Group Stage,Group Stage,Group C,Incheon Munhak Stadium,Incheon,South Korea,Costa Rica,Turkey,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2002-29,2002,2000s,2002-06-09,20:30,Group Stage,Group Stage,Group H,International Stadium Yokohama,Yokohama,Japan,Japan,Russia,1,0,1,1,Home Win,Japan,No,No,0,0,No,1–0
+M-2002-30,2002,2000s,2002-06-10,15:30,Group Stage,Group Stage,Group D,Daegu World Cup Stadium,Daegu,South Korea,South Korea,United States,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2002-31,2002,2000s,2002-06-10,18:00,Group Stage,Group Stage,Group H,Ōita Stadium,Ōita,Japan,Tunisia,Belgium,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2002-32,2002,2000s,2002-06-10,20:30,Group Stage,Group Stage,Group D,Jeonju World Cup Stadium,Jeonju,South Korea,Portugal,Poland,4,0,4,4,Home Win,Portugal,No,No,0,0,No,4–0
+M-2002-33,2002,2000s,2002-06-11,15:30,Group Stage,Group Stage,Group A,Incheon Munhak Stadium,Incheon,South Korea,Denmark,France,2,0,2,2,Home Win,Denmark,No,No,0,0,No,2–0
+M-2002-34,2002,2000s,2002-06-11,15:30,Group Stage,Group Stage,Group A,Suwon World Cup Stadium,Suwon,South Korea,Senegal,Uruguay,3,3,6,0,Draw,Draw,No,No,0,0,Yes,3–3
+M-2002-35,2002,2000s,2002-06-11,20:30,Group Stage,Group Stage,Group E,Shizuoka Stadium ECOPA,Shizuoka,Japan,Cameroon,Germany,0,2,2,2,Away Win,Germany,No,No,0,0,No,0–2
+M-2002-36,2002,2000s,2002-06-11,20:30,Group Stage,Group Stage,Group E,International Stadium Yokohama,Yokohama,Japan,Saudi Arabia,Republic of Ireland,0,3,3,3,Away Win,Republic of Ireland,No,No,0,0,No,0–3
+M-2002-37,2002,2000s,2002-06-12,15:30,Group Stage,Group Stage,Group F,Nagai Stadium,Osaka,Japan,Nigeria,England,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2002-38,2002,2000s,2002-06-12,15:30,Group Stage,Group Stage,Group F,Miyagi Stadium,Miyagi,Japan,Sweden,Argentina,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2002-39,2002,2000s,2002-06-12,20:30,Group Stage,Group Stage,Group B,Jeju World Cup Stadium,Seogwipo,South Korea,Slovenia,Paraguay,1,3,4,2,Away Win,Paraguay,No,No,0,0,No,1–3
+M-2002-40,2002,2000s,2002-06-12,20:30,Group Stage,Group Stage,Group B,Daejeon World Cup Stadium,Daejeon,South Korea,South Africa,Spain,2,3,5,1,Away Win,Spain,No,No,0,0,Yes,2–3
+M-2002-41,2002,2000s,2002-06-13,15:30,Group Stage,Group Stage,Group C,Suwon World Cup Stadium,Suwon,South Korea,Costa Rica,Brazil,2,5,7,3,Away Win,Brazil,No,No,0,0,Yes,2–5
+M-2002-42,2002,2000s,2002-06-13,15:30,Group Stage,Group Stage,Group C,Seoul World Cup Stadium,Seoul,South Korea,Turkey,China,3,0,3,3,Home Win,Turkey,No,No,0,0,No,3–0
+M-2002-43,2002,2000s,2002-06-13,20:30,Group Stage,Group Stage,Group G,International Stadium Yokohama,Yokohama,Japan,Ecuador,Croatia,1,0,1,1,Home Win,Ecuador,No,No,0,0,No,1–0
+M-2002-44,2002,2000s,2002-06-13,20:30,Group Stage,Group Stage,Group G,Ōita Stadium,Ōita,Japan,Mexico,Italy,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2002-45,2002,2000s,2002-06-14,15:30,Group Stage,Group Stage,Group H,Shizuoka Stadium ECOPA,Shizuoka,Japan,Belgium,Russia,3,2,5,1,Home Win,Belgium,No,No,0,0,Yes,3–2
+M-2002-46,2002,2000s,2002-06-14,15:30,Group Stage,Group Stage,Group H,Nagai Stadium,Osaka,Japan,Tunisia,Japan,0,2,2,2,Away Win,Japan,No,No,0,0,No,0–2
+M-2002-47,2002,2000s,2002-06-14,20:30,Group Stage,Group Stage,Group D,Daejeon World Cup Stadium,Daejeon,South Korea,Poland,United States,3,1,4,2,Home Win,Poland,No,No,0,0,No,3–1
+M-2002-48,2002,2000s,2002-06-14,20:30,Group Stage,Group Stage,Group D,Incheon Munhak Stadium,Incheon,South Korea,Portugal,South Korea,0,1,1,1,Away Win,South Korea,No,No,0,0,No,0–1
+M-2002-49,2002,2000s,2002-06-15,15:30,Round Of 16,Knockout Stage,not applicable,Jeju World Cup Stadium,Seogwipo,South Korea,Germany,Paraguay,1,0,1,1,Home Win,Germany,No,No,0,0,No,1–0
+M-2002-50,2002,2000s,2002-06-15,20:30,Round Of 16,Knockout Stage,not applicable,Niigata Stadium,Niigata,Japan,Denmark,England,0,3,3,3,Away Win,England,No,No,0,0,No,0–3
+M-2002-51,2002,2000s,2002-06-16,15:30,Round Of 16,Knockout Stage,not applicable,Ōita Stadium,Ōita,Japan,Sweden,Senegal,1,2,3,1,Away Win,Senegal,Yes,No,0,0,No,1–2
+M-2002-52,2002,2000s,2002-06-16,20:30,Round Of 16,Knockout Stage,not applicable,Suwon World Cup Stadium,Suwon,South Korea,Spain,Republic of Ireland,1,1,2,0,Draw,Spain,Yes,Yes,3,2,No,1–1
+M-2002-53,2002,2000s,2002-06-17,15:30,Round Of 16,Knockout Stage,not applicable,Jeonju World Cup Stadium,Jeonju,South Korea,Mexico,United States,0,2,2,2,Away Win,United States,No,No,0,0,No,0–2
+M-2002-54,2002,2000s,2002-06-17,20:30,Round Of 16,Knockout Stage,not applicable,Kobe Wing Stadium,Kobe,Japan,Brazil,Belgium,2,0,2,2,Home Win,Brazil,No,No,0,0,No,2–0
+M-2002-55,2002,2000s,2002-06-18,15:30,Round Of 16,Knockout Stage,not applicable,Miyagi Stadium,Miyagi,Japan,Japan,Turkey,0,1,1,1,Away Win,Turkey,No,No,0,0,No,0–1
+M-2002-56,2002,2000s,2002-06-18,20:30,Round Of 16,Knockout Stage,not applicable,Daejeon World Cup Stadium,Daejeon,South Korea,South Korea,Italy,2,1,3,1,Home Win,South Korea,Yes,No,0,0,No,2–1
+M-2002-57,2002,2000s,2002-06-21,15:30,Quarter-Finals,Knockout Stage,not applicable,Shizuoka Stadium ECOPA,Shizuoka,Japan,England,Brazil,1,2,3,1,Away Win,Brazil,No,No,0,0,No,1–2
+M-2002-58,2002,2000s,2002-06-21,20:30,Quarter-Finals,Knockout Stage,not applicable,Ulsan Munsu Football Stadium,Ulsan,South Korea,Germany,United States,1,0,1,1,Home Win,Germany,No,No,0,0,No,1–0
+M-2002-59,2002,2000s,2002-06-22,15:30,Quarter-Finals,Knockout Stage,not applicable,Gwangju World Cup Stadium,Gwangju,South Korea,Spain,South Korea,0,0,0,0,Draw,South Korea,Yes,Yes,3,5,No,0–0
+M-2002-60,2002,2000s,2002-06-22,20:30,Quarter-Finals,Knockout Stage,not applicable,Nagai Stadium,Osaka,Japan,Senegal,Turkey,0,1,1,1,Away Win,Turkey,Yes,No,0,0,No,0–1
+M-2002-61,2002,2000s,2002-06-25,20:30,Semi-Finals,Knockout Stage,not applicable,Seoul World Cup Stadium,Seoul,South Korea,Germany,South Korea,1,0,1,1,Home Win,Germany,No,No,0,0,No,1–0
+M-2002-62,2002,2000s,2002-06-26,20:30,Semi-Finals,Knockout Stage,not applicable,Saitama Stadium,Saitama,Japan,Brazil,Turkey,1,0,1,1,Home Win,Brazil,No,No,0,0,No,1–0
+M-2002-63,2002,2000s,2002-06-29,20:00,Third-Place Match,Knockout Stage,not applicable,Daegu World Cup Stadium,Daegu,South Korea,South Korea,Turkey,2,3,5,1,Away Win,Turkey,No,No,0,0,Yes,2–3
+M-2002-64,2002,2000s,2002-06-30,20:00,Final,Knockout Stage,not applicable,International Stadium Yokohama,Yokohama,Japan,Germany,Brazil,0,2,2,2,Away Win,Brazil,No,No,0,0,No,0–2
+M-2006-01,2006,2000s,2006-06-09,18:00,Group Stage,Group Stage,Group A,Allianz Arena,Munich,Germany,Germany,Costa Rica,4,2,6,2,Home Win,Germany,No,No,0,0,Yes,4–2
+M-2006-02,2006,2000s,2006-06-09,21:00,Group Stage,Group Stage,Group A,Arena AufShalke,Gelsenkirchen,Germany,Poland,Ecuador,0,2,2,2,Away Win,Ecuador,No,No,0,0,No,0–2
+M-2006-03,2006,2000s,2006-06-10,15:00,Group Stage,Group Stage,Group B,Waldstadion,Frankfurt,Germany,England,Paraguay,1,0,1,1,Home Win,England,No,No,0,0,No,1–0
+M-2006-04,2006,2000s,2006-06-10,18:00,Group Stage,Group Stage,Group B,Westfalenstadion,Dortmund,Germany,Trinidad and Tobago,Sweden,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2006-05,2006,2000s,2006-06-10,21:00,Group Stage,Group Stage,Group C,Volksparkstadion,Hamburg,Germany,Argentina,Ivory Coast,2,1,3,1,Home Win,Argentina,No,No,0,0,No,2–1
+M-2006-06,2006,2000s,2006-06-11,15:00,Group Stage,Group Stage,Group C,Zentralstadion,Leipzig,Germany,Serbia and Montenegro,Netherlands,0,1,1,1,Away Win,Netherlands,No,No,0,0,No,0–1
+M-2006-07,2006,2000s,2006-06-11,18:00,Group Stage,Group Stage,Group D,Frankenstadion,Nuremberg,Germany,Mexico,Iran,3,1,4,2,Home Win,Mexico,No,No,0,0,No,3–1
+M-2006-08,2006,2000s,2006-06-11,21:00,Group Stage,Group Stage,Group D,RheinEnergieStadion,Cologne,Germany,Angola,Portugal,0,1,1,1,Away Win,Portugal,No,No,0,0,No,0–1
+M-2006-09,2006,2000s,2006-06-12,15:00,Group Stage,Group Stage,Group F,Fritz-Walter-Stadion,Kaiserslautern,Germany,Australia,Japan,3,1,4,2,Home Win,Australia,No,No,0,0,No,3–1
+M-2006-10,2006,2000s,2006-06-12,18:00,Group Stage,Group Stage,Group E,Arena AufShalke,Gelsenkirchen,Germany,United States,Czech Republic,0,3,3,3,Away Win,Czech Republic,No,No,0,0,No,0–3
+M-2006-11,2006,2000s,2006-06-12,21:00,Group Stage,Group Stage,Group E,Niedersachsenstadion,Hanover,Germany,Italy,Ghana,2,0,2,2,Home Win,Italy,No,No,0,0,No,2–0
+M-2006-12,2006,2000s,2006-06-13,15:00,Group Stage,Group Stage,Group G,Waldstadion,Frankfurt,Germany,South Korea,Togo,2,1,3,1,Home Win,South Korea,No,No,0,0,No,2–1
+M-2006-13,2006,2000s,2006-06-13,18:00,Group Stage,Group Stage,Group G,Neckarstadion,Stuttgart,Germany,France,Switzerland,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2006-14,2006,2000s,2006-06-13,21:00,Group Stage,Group Stage,Group F,Olympiastadion,Berlin,Germany,Brazil,Croatia,1,0,1,1,Home Win,Brazil,No,No,0,0,No,1–0
+M-2006-15,2006,2000s,2006-06-14,15:00,Group Stage,Group Stage,Group H,Zentralstadion,Leipzig,Germany,Spain,Ukraine,4,0,4,4,Home Win,Spain,No,No,0,0,No,4–0
+M-2006-16,2006,2000s,2006-06-14,18:00,Group Stage,Group Stage,Group H,Allianz Arena,Munich,Germany,Tunisia,Saudi Arabia,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-2006-17,2006,2000s,2006-06-14,21:00,Group Stage,Group Stage,Group A,Westfalenstadion,Dortmund,Germany,Germany,Poland,1,0,1,1,Home Win,Germany,No,No,0,0,No,1–0
+M-2006-18,2006,2000s,2006-06-15,15:00,Group Stage,Group Stage,Group A,Volksparkstadion,Hamburg,Germany,Ecuador,Costa Rica,3,0,3,3,Home Win,Ecuador,No,No,0,0,No,3–0
+M-2006-19,2006,2000s,2006-06-15,18:00,Group Stage,Group Stage,Group B,Frankenstadion,Nuremberg,Germany,England,Trinidad and Tobago,2,0,2,2,Home Win,England,No,No,0,0,No,2–0
+M-2006-20,2006,2000s,2006-06-15,21:00,Group Stage,Group Stage,Group B,Olympiastadion,Berlin,Germany,Sweden,Paraguay,1,0,1,1,Home Win,Sweden,No,No,0,0,No,1–0
+M-2006-21,2006,2000s,2006-06-16,15:00,Group Stage,Group Stage,Group C,Arena AufShalke,Gelsenkirchen,Germany,Argentina,Serbia and Montenegro,6,0,6,6,Home Win,Argentina,No,No,0,0,Yes,6–0
+M-2006-22,2006,2000s,2006-06-16,18:00,Group Stage,Group Stage,Group C,Neckarstadion,Stuttgart,Germany,Netherlands,Ivory Coast,2,1,3,1,Home Win,Netherlands,No,No,0,0,No,2–1
+M-2006-23,2006,2000s,2006-06-16,21:00,Group Stage,Group Stage,Group D,Niedersachsenstadion,Hanover,Germany,Mexico,Angola,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2006-24,2006,2000s,2006-06-17,15:00,Group Stage,Group Stage,Group D,Waldstadion,Frankfurt,Germany,Portugal,Iran,2,0,2,2,Home Win,Portugal,No,No,0,0,No,2–0
+M-2006-25,2006,2000s,2006-06-17,18:00,Group Stage,Group Stage,Group E,RheinEnergieStadion,Cologne,Germany,Czech Republic,Ghana,0,2,2,2,Away Win,Ghana,No,No,0,0,No,0–2
+M-2006-26,2006,2000s,2006-06-17,21:00,Group Stage,Group Stage,Group E,Fritz-Walter-Stadion,Kaiserslautern,Germany,Italy,United States,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2006-27,2006,2000s,2006-06-18,15:00,Group Stage,Group Stage,Group F,Frankenstadion,Nuremberg,Germany,Japan,Croatia,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2006-28,2006,2000s,2006-06-18,18:00,Group Stage,Group Stage,Group F,Allianz Arena,Munich,Germany,Brazil,Australia,2,0,2,2,Home Win,Brazil,No,No,0,0,No,2–0
+M-2006-29,2006,2000s,2006-06-18,21:00,Group Stage,Group Stage,Group G,Zentralstadion,Leipzig,Germany,France,South Korea,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2006-30,2006,2000s,2006-06-19,15:00,Group Stage,Group Stage,Group G,Westfalenstadion,Dortmund,Germany,Togo,Switzerland,0,2,2,2,Away Win,Switzerland,No,No,0,0,No,0–2
+M-2006-31,2006,2000s,2006-06-19,18:00,Group Stage,Group Stage,Group H,Volksparkstadion,Hamburg,Germany,Saudi Arabia,Ukraine,0,4,4,4,Away Win,Ukraine,No,No,0,0,No,0–4
+M-2006-32,2006,2000s,2006-06-19,21:00,Group Stage,Group Stage,Group H,Neckarstadion,Stuttgart,Germany,Spain,Tunisia,3,1,4,2,Home Win,Spain,No,No,0,0,No,3–1
+M-2006-33,2006,2000s,2006-06-20,16:00,Group Stage,Group Stage,Group A,Niedersachsenstadion,Hanover,Germany,Costa Rica,Poland,1,2,3,1,Away Win,Poland,No,No,0,0,No,1–2
+M-2006-34,2006,2000s,2006-06-20,16:00,Group Stage,Group Stage,Group A,Olympiastadion,Berlin,Germany,Ecuador,Germany,0,3,3,3,Away Win,Germany,No,No,0,0,No,0–3
+M-2006-35,2006,2000s,2006-06-20,21:00,Group Stage,Group Stage,Group B,Fritz-Walter-Stadion,Kaiserslautern,Germany,Paraguay,Trinidad and Tobago,2,0,2,2,Home Win,Paraguay,No,No,0,0,No,2–0
+M-2006-36,2006,2000s,2006-06-20,21:00,Group Stage,Group Stage,Group B,RheinEnergieStadion,Cologne,Germany,Sweden,England,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-2006-37,2006,2000s,2006-06-21,16:00,Group Stage,Group Stage,Group D,Zentralstadion,Leipzig,Germany,Iran,Angola,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2006-38,2006,2000s,2006-06-21,16:00,Group Stage,Group Stage,Group D,Arena AufShalke,Gelsenkirchen,Germany,Portugal,Mexico,2,1,3,1,Home Win,Portugal,No,No,0,0,No,2–1
+M-2006-39,2006,2000s,2006-06-21,21:00,Group Stage,Group Stage,Group C,Allianz Arena,Munich,Germany,Ivory Coast,Serbia and Montenegro,3,2,5,1,Home Win,Ivory Coast,No,No,0,0,Yes,3–2
+M-2006-40,2006,2000s,2006-06-21,21:00,Group Stage,Group Stage,Group C,Waldstadion,Frankfurt,Germany,Netherlands,Argentina,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2006-41,2006,2000s,2006-06-22,16:00,Group Stage,Group Stage,Group E,Volksparkstadion,Hamburg,Germany,Czech Republic,Italy,0,2,2,2,Away Win,Italy,No,No,0,0,No,0–2
+M-2006-42,2006,2000s,2006-06-22,16:00,Group Stage,Group Stage,Group E,Frankenstadion,Nuremberg,Germany,Ghana,United States,2,1,3,1,Home Win,Ghana,No,No,0,0,No,2–1
+M-2006-43,2006,2000s,2006-06-22,21:00,Group Stage,Group Stage,Group F,Neckarstadion,Stuttgart,Germany,Croatia,Australia,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-2006-44,2006,2000s,2006-06-22,21:00,Group Stage,Group Stage,Group F,Westfalenstadion,Dortmund,Germany,Japan,Brazil,1,4,5,3,Away Win,Brazil,No,No,0,0,Yes,1–4
+M-2006-45,2006,2000s,2006-06-23,16:00,Group Stage,Group Stage,Group H,Fritz-Walter-Stadion,Kaiserslautern,Germany,Saudi Arabia,Spain,0,1,1,1,Away Win,Spain,No,No,0,0,No,0–1
+M-2006-46,2006,2000s,2006-06-23,16:00,Group Stage,Group Stage,Group H,Olympiastadion,Berlin,Germany,Ukraine,Tunisia,1,0,1,1,Home Win,Ukraine,No,No,0,0,No,1–0
+M-2006-47,2006,2000s,2006-06-23,21:00,Group Stage,Group Stage,Group G,Niedersachsenstadion,Hanover,Germany,Switzerland,South Korea,2,0,2,2,Home Win,Switzerland,No,No,0,0,No,2–0
+M-2006-48,2006,2000s,2006-06-23,21:00,Group Stage,Group Stage,Group G,RheinEnergieStadion,Cologne,Germany,Togo,France,0,2,2,2,Away Win,France,No,No,0,0,No,0–2
+M-2006-49,2006,2000s,2006-06-24,17:00,Round Of 16,Knockout Stage,not applicable,Allianz Arena,Munich,Germany,Germany,Sweden,2,0,2,2,Home Win,Germany,No,No,0,0,No,2–0
+M-2006-50,2006,2000s,2006-06-24,21:00,Round Of 16,Knockout Stage,not applicable,Zentralstadion,Leipzig,Germany,Argentina,Mexico,2,1,3,1,Home Win,Argentina,Yes,No,0,0,No,2–1
+M-2006-51,2006,2000s,2006-06-25,17:00,Round Of 16,Knockout Stage,not applicable,Neckarstadion,Stuttgart,Germany,England,Ecuador,1,0,1,1,Home Win,England,No,No,0,0,No,1–0
+M-2006-52,2006,2000s,2006-06-25,21:00,Round Of 16,Knockout Stage,not applicable,Frankenstadion,Nuremberg,Germany,Portugal,Netherlands,1,0,1,1,Home Win,Portugal,No,No,0,0,No,1–0
+M-2006-53,2006,2000s,2006-06-26,17:00,Round Of 16,Knockout Stage,not applicable,Fritz-Walter-Stadion,Kaiserslautern,Germany,Italy,Australia,1,0,1,1,Home Win,Italy,No,No,0,0,No,1–0
+M-2006-54,2006,2000s,2006-06-26,21:00,Round Of 16,Knockout Stage,not applicable,RheinEnergieStadion,Cologne,Germany,Switzerland,Ukraine,0,0,0,0,Draw,Ukraine,Yes,Yes,0,3,No,0–0
+M-2006-55,2006,2000s,2006-06-27,17:00,Round Of 16,Knockout Stage,not applicable,Westfalenstadion,Dortmund,Germany,Brazil,Ghana,3,0,3,3,Home Win,Brazil,No,No,0,0,No,3–0
+M-2006-56,2006,2000s,2006-06-27,21:00,Round Of 16,Knockout Stage,not applicable,Niedersachsenstadion,Hanover,Germany,Spain,France,1,3,4,2,Away Win,France,No,No,0,0,No,1–3
+M-2006-57,2006,2000s,2006-06-30,17:00,Quarter-Finals,Knockout Stage,not applicable,Olympiastadion,Berlin,Germany,Germany,Argentina,1,1,2,0,Draw,Germany,Yes,Yes,4,2,No,1–1
+M-2006-58,2006,2000s,2006-06-30,21:00,Quarter-Finals,Knockout Stage,not applicable,Volksparkstadion,Hamburg,Germany,Italy,Ukraine,3,0,3,3,Home Win,Italy,No,No,0,0,No,3–0
+M-2006-59,2006,2000s,2006-07-01,17:00,Quarter-Finals,Knockout Stage,not applicable,Arena AufShalke,Gelsenkirchen,Germany,England,Portugal,0,0,0,0,Draw,Portugal,Yes,Yes,1,3,No,0–0
+M-2006-60,2006,2000s,2006-07-01,21:00,Quarter-Finals,Knockout Stage,not applicable,Waldstadion,Frankfurt,Germany,Brazil,France,0,1,1,1,Away Win,France,No,No,0,0,No,0–1
+M-2006-61,2006,2000s,2006-07-04,21:00,Semi-Finals,Knockout Stage,not applicable,Westfalenstadion,Dortmund,Germany,Germany,Italy,0,2,2,2,Away Win,Italy,Yes,No,0,0,No,0–2
+M-2006-62,2006,2000s,2006-07-05,21:00,Semi-Finals,Knockout Stage,not applicable,Allianz Arena,Munich,Germany,Portugal,France,0,1,1,1,Away Win,France,No,No,0,0,No,0–1
+M-2006-63,2006,2000s,2006-07-08,21:00,Third-Place Match,Knockout Stage,not applicable,Neckarstadion,Stuttgart,Germany,Germany,Portugal,3,1,4,2,Home Win,Germany,No,No,0,0,No,3–1
+M-2006-64,2006,2000s,2006-07-09,20:00,Final,Knockout Stage,not applicable,Olympiastadion,Berlin,Germany,Italy,France,1,1,2,0,Draw,Italy,Yes,Yes,5,3,No,1–1
+M-2010-01,2010,2010s,2010-06-11,16:00,Group Stage,Group Stage,Group A,Soccer City,Johannesburg,South Africa,South Africa,Mexico,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2010-02,2010,2010s,2010-06-11,20:30,Group Stage,Group Stage,Group A,Cape Town Stadium,Cape Town,South Africa,Uruguay,France,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2010-03,2010,2010s,2010-06-12,13:30,Group Stage,Group Stage,Group B,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,South Korea,Greece,2,0,2,2,Home Win,South Korea,No,No,0,0,No,2–0
+M-2010-04,2010,2010s,2010-06-12,16:00,Group Stage,Group Stage,Group B,Ellis Park Stadium,Johannesburg,South Africa,Argentina,Nigeria,1,0,1,1,Home Win,Argentina,No,No,0,0,No,1–0
+M-2010-05,2010,2010s,2010-06-12,20:30,Group Stage,Group Stage,Group C,Royal Bafokeng Stadium,Rustenburg,South Africa,England,United States,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2010-06,2010,2010s,2010-06-13,13:30,Group Stage,Group Stage,Group C,Peter Mokaba Stadium,Polokwane,South Africa,Algeria,Slovenia,0,1,1,1,Away Win,Slovenia,No,No,0,0,No,0–1
+M-2010-07,2010,2010s,2010-06-13,16:00,Group Stage,Group Stage,Group D,Loftus Versfeld Stadium,Pretoria,South Africa,Serbia,Ghana,0,1,1,1,Away Win,Ghana,No,No,0,0,No,0–1
+M-2010-08,2010,2010s,2010-06-13,20:30,Group Stage,Group Stage,Group D,Moses Mabhida Stadium,Durban,South Africa,Germany,Australia,4,0,4,4,Home Win,Germany,No,No,0,0,No,4–0
+M-2010-09,2010,2010s,2010-06-14,13:30,Group Stage,Group Stage,Group E,Soccer City,Johannesburg,South Africa,Netherlands,Denmark,2,0,2,2,Home Win,Netherlands,No,No,0,0,No,2–0
+M-2010-10,2010,2010s,2010-06-14,16:00,Group Stage,Group Stage,Group E,Free State Stadium,Bloemfontein,South Africa,Japan,Cameroon,1,0,1,1,Home Win,Japan,No,No,0,0,No,1–0
+M-2010-11,2010,2010s,2010-06-14,20:30,Group Stage,Group Stage,Group F,Cape Town Stadium,Cape Town,South Africa,Italy,Paraguay,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2010-12,2010,2010s,2010-06-15,13:30,Group Stage,Group Stage,Group F,Royal Bafokeng Stadium,Rustenburg,South Africa,New Zealand,Slovakia,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2010-13,2010,2010s,2010-06-15,16:00,Group Stage,Group Stage,Group G,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,Ivory Coast,Portugal,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2010-14,2010,2010s,2010-06-15,20:30,Group Stage,Group Stage,Group G,Ellis Park Stadium,Johannesburg,South Africa,Brazil,North Korea,2,1,3,1,Home Win,Brazil,No,No,0,0,No,2–1
+M-2010-15,2010,2010s,2010-06-16,13:30,Group Stage,Group Stage,Group H,Mbombela Stadium,Nelspruit,South Africa,Honduras,Chile,0,1,1,1,Away Win,Chile,No,No,0,0,No,0–1
+M-2010-16,2010,2010s,2010-06-16,16:00,Group Stage,Group Stage,Group H,Moses Mabhida Stadium,Durban,South Africa,Spain,Switzerland,0,1,1,1,Away Win,Switzerland,No,No,0,0,No,0–1
+M-2010-17,2010,2010s,2010-06-16,20:30,Group Stage,Group Stage,Group A,Loftus Versfeld Stadium,Pretoria,South Africa,South Africa,Uruguay,0,3,3,3,Away Win,Uruguay,No,No,0,0,No,0–3
+M-2010-18,2010,2010s,2010-06-17,13:30,Group Stage,Group Stage,Group B,Soccer City,Johannesburg,South Africa,Argentina,South Korea,4,1,5,3,Home Win,Argentina,No,No,0,0,Yes,4–1
+M-2010-19,2010,2010s,2010-06-17,16:00,Group Stage,Group Stage,Group B,Free State Stadium,Bloemfontein,South Africa,Greece,Nigeria,2,1,3,1,Home Win,Greece,No,No,0,0,No,2–1
+M-2010-20,2010,2010s,2010-06-17,20:30,Group Stage,Group Stage,Group A,Peter Mokaba Stadium,Polokwane,South Africa,France,Mexico,0,2,2,2,Away Win,Mexico,No,No,0,0,No,0–2
+M-2010-21,2010,2010s,2010-06-18,13:30,Group Stage,Group Stage,Group D,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,Germany,Serbia,0,1,1,1,Away Win,Serbia,No,No,0,0,No,0–1
+M-2010-22,2010,2010s,2010-06-18,16:00,Group Stage,Group Stage,Group C,Ellis Park Stadium,Johannesburg,South Africa,Slovenia,United States,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-2010-23,2010,2010s,2010-06-18,20:30,Group Stage,Group Stage,Group C,Cape Town Stadium,Cape Town,South Africa,England,Algeria,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2010-24,2010,2010s,2010-06-19,13:30,Group Stage,Group Stage,Group E,Moses Mabhida Stadium,Durban,South Africa,Netherlands,Japan,1,0,1,1,Home Win,Netherlands,No,No,0,0,No,1–0
+M-2010-25,2010,2010s,2010-06-19,16:00,Group Stage,Group Stage,Group D,Royal Bafokeng Stadium,Rustenburg,South Africa,Ghana,Australia,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2010-26,2010,2010s,2010-06-19,20:30,Group Stage,Group Stage,Group E,Loftus Versfeld Stadium,Pretoria,South Africa,Cameroon,Denmark,1,2,3,1,Away Win,Denmark,No,No,0,0,No,1–2
+M-2010-27,2010,2010s,2010-06-20,13:30,Group Stage,Group Stage,Group F,Free State Stadium,Bloemfontein,South Africa,Slovakia,Paraguay,0,2,2,2,Away Win,Paraguay,No,No,0,0,No,0–2
+M-2010-28,2010,2010s,2010-06-20,16:00,Group Stage,Group Stage,Group F,Mbombela Stadium,Nelspruit,South Africa,Italy,New Zealand,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2010-29,2010,2010s,2010-06-20,20:30,Group Stage,Group Stage,Group G,Soccer City,Johannesburg,South Africa,Brazil,Ivory Coast,3,1,4,2,Home Win,Brazil,No,No,0,0,No,3–1
+M-2010-30,2010,2010s,2010-06-21,13:30,Group Stage,Group Stage,Group G,Cape Town Stadium,Cape Town,South Africa,Portugal,North Korea,7,0,7,7,Home Win,Portugal,No,No,0,0,Yes,7–0
+M-2010-31,2010,2010s,2010-06-21,16:00,Group Stage,Group Stage,Group H,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,Chile,Switzerland,1,0,1,1,Home Win,Chile,No,No,0,0,No,1–0
+M-2010-32,2010,2010s,2010-06-21,20:30,Group Stage,Group Stage,Group H,Ellis Park Stadium,Johannesburg,South Africa,Spain,Honduras,2,0,2,2,Home Win,Spain,No,No,0,0,No,2–0
+M-2010-33,2010,2010s,2010-06-22,16:00,Group Stage,Group Stage,Group A,Free State Stadium,Bloemfontein,South Africa,France,South Africa,1,2,3,1,Away Win,South Africa,No,No,0,0,No,1–2
+M-2010-34,2010,2010s,2010-06-22,16:00,Group Stage,Group Stage,Group A,Royal Bafokeng Stadium,Rustenburg,South Africa,Mexico,Uruguay,0,1,1,1,Away Win,Uruguay,No,No,0,0,No,0–1
+M-2010-35,2010,2010s,2010-06-22,20:30,Group Stage,Group Stage,Group B,Peter Mokaba Stadium,Polokwane,South Africa,Greece,Argentina,0,2,2,2,Away Win,Argentina,No,No,0,0,No,0–2
+M-2010-36,2010,2010s,2010-06-22,20:30,Group Stage,Group Stage,Group B,Moses Mabhida Stadium,Durban,South Africa,Nigeria,South Korea,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-2010-37,2010,2010s,2010-06-23,16:00,Group Stage,Group Stage,Group C,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,Slovenia,England,0,1,1,1,Away Win,England,No,No,0,0,No,0–1
+M-2010-38,2010,2010s,2010-06-23,16:00,Group Stage,Group Stage,Group C,Loftus Versfeld Stadium,Pretoria,South Africa,United States,Algeria,1,0,1,1,Home Win,United States,No,No,0,0,No,1–0
+M-2010-39,2010,2010s,2010-06-23,20:30,Group Stage,Group Stage,Group D,Mbombela Stadium,Nelspruit,South Africa,Australia,Serbia,2,1,3,1,Home Win,Australia,No,No,0,0,No,2–1
+M-2010-40,2010,2010s,2010-06-23,20:30,Group Stage,Group Stage,Group D,Soccer City,Johannesburg,South Africa,Ghana,Germany,0,1,1,1,Away Win,Germany,No,No,0,0,No,0–1
+M-2010-41,2010,2010s,2010-06-24,16:00,Group Stage,Group Stage,Group F,Peter Mokaba Stadium,Polokwane,South Africa,Paraguay,New Zealand,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2010-42,2010,2010s,2010-06-24,16:00,Group Stage,Group Stage,Group F,Ellis Park Stadium,Johannesburg,South Africa,Slovakia,Italy,3,2,5,1,Home Win,Slovakia,No,No,0,0,Yes,3–2
+M-2010-43,2010,2010s,2010-06-24,20:30,Group Stage,Group Stage,Group E,Cape Town Stadium,Cape Town,South Africa,Cameroon,Netherlands,1,2,3,1,Away Win,Netherlands,No,No,0,0,No,1–2
+M-2010-44,2010,2010s,2010-06-24,20:30,Group Stage,Group Stage,Group E,Royal Bafokeng Stadium,Rustenburg,South Africa,Denmark,Japan,1,3,4,2,Away Win,Japan,No,No,0,0,No,1–3
+M-2010-45,2010,2010s,2010-06-25,16:00,Group Stage,Group Stage,Group G,Mbombela Stadium,Nelspruit,South Africa,North Korea,Ivory Coast,0,3,3,3,Away Win,Ivory Coast,No,No,0,0,No,0–3
+M-2010-46,2010,2010s,2010-06-25,16:00,Group Stage,Group Stage,Group G,Moses Mabhida Stadium,Durban,South Africa,Portugal,Brazil,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2010-47,2010,2010s,2010-06-25,20:30,Group Stage,Group Stage,Group H,Loftus Versfeld Stadium,Pretoria,South Africa,Chile,Spain,1,2,3,1,Away Win,Spain,No,No,0,0,No,1–2
+M-2010-48,2010,2010s,2010-06-25,20:30,Group Stage,Group Stage,Group H,Free State Stadium,Bloemfontein,South Africa,Switzerland,Honduras,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2010-49,2010,2010s,2010-06-26,16:00,Round Of 16,Knockout Stage,not applicable,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,Uruguay,South Korea,2,1,3,1,Home Win,Uruguay,No,No,0,0,No,2–1
+M-2010-50,2010,2010s,2010-06-26,20:30,Round Of 16,Knockout Stage,not applicable,Royal Bafokeng Stadium,Rustenburg,South Africa,United States,Ghana,1,2,3,1,Away Win,Ghana,Yes,No,0,0,No,1–2
+M-2010-51,2010,2010s,2010-06-27,16:00,Round Of 16,Knockout Stage,not applicable,Free State Stadium,Bloemfontein,South Africa,Germany,England,4,1,5,3,Home Win,Germany,No,No,0,0,Yes,4–1
+M-2010-52,2010,2010s,2010-06-27,20:30,Round Of 16,Knockout Stage,not applicable,Soccer City,Johannesburg,South Africa,Argentina,Mexico,3,1,4,2,Home Win,Argentina,No,No,0,0,No,3–1
+M-2010-53,2010,2010s,2010-06-28,16:00,Round Of 16,Knockout Stage,not applicable,Moses Mabhida Stadium,Durban,South Africa,Netherlands,Slovakia,2,1,3,1,Home Win,Netherlands,No,No,0,0,No,2–1
+M-2010-54,2010,2010s,2010-06-28,20:30,Round Of 16,Knockout Stage,not applicable,Ellis Park Stadium,Johannesburg,South Africa,Brazil,Chile,3,0,3,3,Home Win,Brazil,No,No,0,0,No,3–0
+M-2010-55,2010,2010s,2010-06-29,16:00,Round Of 16,Knockout Stage,not applicable,Loftus Versfeld Stadium,Pretoria,South Africa,Paraguay,Japan,0,0,0,0,Draw,Paraguay,Yes,Yes,5,3,No,0–0
+M-2010-56,2010,2010s,2010-06-29,20:30,Round Of 16,Knockout Stage,not applicable,Cape Town Stadium,Cape Town,South Africa,Spain,Portugal,1,0,1,1,Home Win,Spain,No,No,0,0,No,1–0
+M-2010-57,2010,2010s,2010-07-02,16:00,Quarter-Finals,Knockout Stage,not applicable,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,Netherlands,Brazil,2,1,3,1,Home Win,Netherlands,No,No,0,0,No,2–1
+M-2010-58,2010,2010s,2010-07-02,20:30,Quarter-Finals,Knockout Stage,not applicable,Soccer City,Johannesburg,South Africa,Uruguay,Ghana,1,1,2,0,Draw,Uruguay,Yes,Yes,4,2,No,1–1
+M-2010-59,2010,2010s,2010-07-03,16:00,Quarter-Finals,Knockout Stage,not applicable,Cape Town Stadium,Cape Town,South Africa,Argentina,Germany,0,4,4,4,Away Win,Germany,No,No,0,0,No,0–4
+M-2010-60,2010,2010s,2010-07-03,20:30,Quarter-Finals,Knockout Stage,not applicable,Ellis Park Stadium,Johannesburg,South Africa,Paraguay,Spain,0,1,1,1,Away Win,Spain,No,No,0,0,No,0–1
+M-2010-61,2010,2010s,2010-07-06,20:30,Semi-Finals,Knockout Stage,not applicable,Cape Town Stadium,Cape Town,South Africa,Uruguay,Netherlands,2,3,5,1,Away Win,Netherlands,No,No,0,0,Yes,2–3
+M-2010-62,2010,2010s,2010-07-07,20:30,Semi-Finals,Knockout Stage,not applicable,Moses Mabhida Stadium,Durban,South Africa,Germany,Spain,0,1,1,1,Away Win,Spain,No,No,0,0,No,0–1
+M-2010-63,2010,2010s,2010-07-10,20:30,Third-Place Match,Knockout Stage,not applicable,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,Uruguay,Germany,2,3,5,1,Away Win,Germany,No,No,0,0,Yes,2–3
+M-2010-64,2010,2010s,2010-07-11,20:30,Final,Knockout Stage,not applicable,Soccer City,Johannesburg,South Africa,Netherlands,Spain,0,1,1,1,Away Win,Spain,Yes,No,0,0,No,0–1
+M-2014-01,2014,2010s,2014-06-12,17:00,Group Stage,Group Stage,Group A,Arena Corinthians,São Paulo,Brazil,Brazil,Croatia,3,1,4,2,Home Win,Brazil,No,No,0,0,No,3–1
+M-2014-02,2014,2010s,2014-06-13,13:00,Group Stage,Group Stage,Group A,Arena das Dunas,Natal,Brazil,Mexico,Cameroon,1,0,1,1,Home Win,Mexico,No,No,0,0,No,1–0
+M-2014-03,2014,2010s,2014-06-13,16:00,Group Stage,Group Stage,Group B,Arena Fonte Nova,Salvador,Brazil,Spain,Netherlands,1,5,6,4,Away Win,Netherlands,No,No,0,0,Yes,1–5
+M-2014-04,2014,2010s,2014-06-13,18:00,Group Stage,Group Stage,Group B,Arena Pantanal,Cuiabá,Brazil,Chile,Australia,3,1,4,2,Home Win,Chile,No,No,0,0,No,3–1
+M-2014-05,2014,2010s,2014-06-14,13:00,Group Stage,Group Stage,Group C,Estádio Mineirão,Belo Horizonte,Brazil,Colombia,Greece,3,0,3,3,Home Win,Colombia,No,No,0,0,No,3–0
+M-2014-06,2014,2010s,2014-06-14,16:00,Group Stage,Group Stage,Group D,Estádio Castelão,Fortaleza,Brazil,Uruguay,Costa Rica,1,3,4,2,Away Win,Costa Rica,No,No,0,0,No,1–3
+M-2014-07,2014,2010s,2014-06-14,18:00,Group Stage,Group Stage,Group D,Arena da Amazônia,Manaus,Brazil,England,Italy,1,2,3,1,Away Win,Italy,No,No,0,0,No,1–2
+M-2014-08,2014,2010s,2014-06-14,22:00,Group Stage,Group Stage,Group C,Arena Pernambuco,Recife,Brazil,Ivory Coast,Japan,2,1,3,1,Home Win,Ivory Coast,No,No,0,0,No,2–1
+M-2014-09,2014,2010s,2014-06-15,13:00,Group Stage,Group Stage,Group E,Estádio Nacional,Brasília,Brazil,Switzerland,Ecuador,2,1,3,1,Home Win,Switzerland,No,No,0,0,No,2–1
+M-2014-10,2014,2010s,2014-06-15,16:00,Group Stage,Group Stage,Group E,Estádio Beira-Rio,Porto Alegre,Brazil,France,Honduras,3,0,3,3,Home Win,France,No,No,0,0,No,3–0
+M-2014-11,2014,2010s,2014-06-15,19:00,Group Stage,Group Stage,Group F,Estádio do Maracanã,Rio de Janeiro,Brazil,Argentina,Bosnia and Herzegovina,2,1,3,1,Home Win,Argentina,No,No,0,0,No,2–1
+M-2014-12,2014,2010s,2014-06-16,13:00,Group Stage,Group Stage,Group G,Arena Fonte Nova,Salvador,Brazil,Germany,Portugal,4,0,4,4,Home Win,Germany,No,No,0,0,No,4–0
+M-2014-13,2014,2010s,2014-06-16,16:00,Group Stage,Group Stage,Group F,Arena da Baixada,Curitiba,Brazil,Iran,Nigeria,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2014-14,2014,2010s,2014-06-16,19:00,Group Stage,Group Stage,Group G,Arena das Dunas,Natal,Brazil,Ghana,United States,1,2,3,1,Away Win,United States,No,No,0,0,No,1–2
+M-2014-15,2014,2010s,2014-06-17,13:00,Group Stage,Group Stage,Group H,Estádio Mineirão,Belo Horizonte,Brazil,Belgium,Algeria,2,1,3,1,Home Win,Belgium,No,No,0,0,No,2–1
+M-2014-16,2014,2010s,2014-06-17,16:00,Group Stage,Group Stage,Group A,Estádio Castelão,Fortaleza,Brazil,Brazil,Mexico,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2014-17,2014,2010s,2014-06-17,18:00,Group Stage,Group Stage,Group H,Arena Pantanal,Cuiabá,Brazil,Russia,South Korea,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2014-18,2014,2010s,2014-06-18,13:00,Group Stage,Group Stage,Group B,Estádio Beira-Rio,Porto Alegre,Brazil,Australia,Netherlands,2,3,5,1,Away Win,Netherlands,No,No,0,0,Yes,2–3
+M-2014-19,2014,2010s,2014-06-18,16:00,Group Stage,Group Stage,Group B,Estádio do Maracanã,Rio de Janeiro,Brazil,Spain,Chile,0,2,2,2,Away Win,Chile,No,No,0,0,No,0–2
+M-2014-20,2014,2010s,2014-06-18,18:00,Group Stage,Group Stage,Group A,Arena da Amazônia,Manaus,Brazil,Cameroon,Croatia,0,4,4,4,Away Win,Croatia,No,No,0,0,No,0–4
+M-2014-21,2014,2010s,2014-06-19,13:00,Group Stage,Group Stage,Group C,Estádio Nacional,Brasília,Brazil,Colombia,Ivory Coast,2,1,3,1,Home Win,Colombia,No,No,0,0,No,2–1
+M-2014-22,2014,2010s,2014-06-19,16:00,Group Stage,Group Stage,Group D,Arena Corinthians,São Paulo,Brazil,Uruguay,England,2,1,3,1,Home Win,Uruguay,No,No,0,0,No,2–1
+M-2014-23,2014,2010s,2014-06-19,19:00,Group Stage,Group Stage,Group C,Arena das Dunas,Natal,Brazil,Japan,Greece,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2014-24,2014,2010s,2014-06-20,13:00,Group Stage,Group Stage,Group D,Arena Pernambuco,Recife,Brazil,Italy,Costa Rica,0,1,1,1,Away Win,Costa Rica,No,No,0,0,No,0–1
+M-2014-25,2014,2010s,2014-06-20,16:00,Group Stage,Group Stage,Group E,Arena Fonte Nova,Salvador,Brazil,Switzerland,France,2,5,7,3,Away Win,France,No,No,0,0,Yes,2–5
+M-2014-26,2014,2010s,2014-06-20,19:00,Group Stage,Group Stage,Group E,Arena da Baixada,Curitiba,Brazil,Honduras,Ecuador,1,2,3,1,Away Win,Ecuador,No,No,0,0,No,1–2
+M-2014-27,2014,2010s,2014-06-21,13:00,Group Stage,Group Stage,Group F,Estádio Mineirão,Belo Horizonte,Brazil,Argentina,Iran,1,0,1,1,Home Win,Argentina,No,No,0,0,No,1–0
+M-2014-28,2014,2010s,2014-06-21,16:00,Group Stage,Group Stage,Group G,Estádio Castelão,Fortaleza,Brazil,Germany,Ghana,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-2014-29,2014,2010s,2014-06-21,18:00,Group Stage,Group Stage,Group F,Arena Pantanal,Cuiabá,Brazil,Nigeria,Bosnia and Herzegovina,1,0,1,1,Home Win,Nigeria,No,No,0,0,No,1–0
+M-2014-30,2014,2010s,2014-06-22,13:00,Group Stage,Group Stage,Group H,Estádio do Maracanã,Rio de Janeiro,Brazil,Belgium,Russia,1,0,1,1,Home Win,Belgium,No,No,0,0,No,1–0
+M-2014-31,2014,2010s,2014-06-22,16:00,Group Stage,Group Stage,Group H,Estádio Beira-Rio,Porto Alegre,Brazil,South Korea,Algeria,2,4,6,2,Away Win,Algeria,No,No,0,0,Yes,2–4
+M-2014-32,2014,2010s,2014-06-22,18:00,Group Stage,Group Stage,Group G,Arena da Amazônia,Manaus,Brazil,United States,Portugal,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-2014-33,2014,2010s,2014-06-23,13:00,Group Stage,Group Stage,Group B,Arena da Baixada,Curitiba,Brazil,Australia,Spain,0,3,3,3,Away Win,Spain,No,No,0,0,No,0–3
+M-2014-34,2014,2010s,2014-06-23,13:00,Group Stage,Group Stage,Group B,Arena Corinthians,São Paulo,Brazil,Netherlands,Chile,2,0,2,2,Home Win,Netherlands,No,No,0,0,No,2–0
+M-2014-35,2014,2010s,2014-06-23,17:00,Group Stage,Group Stage,Group A,Estádio Nacional,Brasília,Brazil,Cameroon,Brazil,1,4,5,3,Away Win,Brazil,No,No,0,0,Yes,1–4
+M-2014-36,2014,2010s,2014-06-23,17:00,Group Stage,Group Stage,Group A,Arena Pernambuco,Recife,Brazil,Croatia,Mexico,1,3,4,2,Away Win,Mexico,No,No,0,0,No,1–3
+M-2014-37,2014,2010s,2014-06-24,13:00,Group Stage,Group Stage,Group D,Estádio Mineirão,Belo Horizonte,Brazil,Costa Rica,England,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2014-38,2014,2010s,2014-06-24,13:00,Group Stage,Group Stage,Group D,Arena das Dunas,Natal,Brazil,Italy,Uruguay,0,1,1,1,Away Win,Uruguay,No,No,0,0,No,0–1
+M-2014-39,2014,2010s,2014-06-24,16:00,Group Stage,Group Stage,Group C,Arena Pantanal,Cuiabá,Brazil,Japan,Colombia,1,4,5,3,Away Win,Colombia,No,No,0,0,Yes,1–4
+M-2014-40,2014,2010s,2014-06-24,17:00,Group Stage,Group Stage,Group C,Estádio Castelão,Fortaleza,Brazil,Greece,Ivory Coast,2,1,3,1,Home Win,Greece,No,No,0,0,No,2–1
+M-2014-41,2014,2010s,2014-06-25,13:00,Group Stage,Group Stage,Group F,Arena Fonte Nova,Salvador,Brazil,Bosnia and Herzegovina,Iran,3,1,4,2,Home Win,Bosnia and Herzegovina,No,No,0,0,No,3–1
+M-2014-42,2014,2010s,2014-06-25,13:00,Group Stage,Group Stage,Group F,Estádio Beira-Rio,Porto Alegre,Brazil,Nigeria,Argentina,2,3,5,1,Away Win,Argentina,No,No,0,0,Yes,2–3
+M-2014-43,2014,2010s,2014-06-25,16:00,Group Stage,Group Stage,Group E,Arena da Amazônia,Manaus,Brazil,Honduras,Switzerland,0,3,3,3,Away Win,Switzerland,No,No,0,0,No,0–3
+M-2014-44,2014,2010s,2014-06-25,17:00,Group Stage,Group Stage,Group E,Estádio do Maracanã,Rio de Janeiro,Brazil,Ecuador,France,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2014-45,2014,2010s,2014-06-26,13:00,Group Stage,Group Stage,Group G,Estádio Nacional,Brasília,Brazil,Portugal,Ghana,2,1,3,1,Home Win,Portugal,No,No,0,0,No,2–1
+M-2014-46,2014,2010s,2014-06-26,13:00,Group Stage,Group Stage,Group G,Arena Pernambuco,Recife,Brazil,United States,Germany,0,1,1,1,Away Win,Germany,No,No,0,0,No,0–1
+M-2014-47,2014,2010s,2014-06-26,17:00,Group Stage,Group Stage,Group H,Arena da Baixada,Curitiba,Brazil,Algeria,Russia,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2014-48,2014,2010s,2014-06-26,17:00,Group Stage,Group Stage,Group H,Arena Corinthians,São Paulo,Brazil,South Korea,Belgium,0,1,1,1,Away Win,Belgium,No,No,0,0,No,0–1
+M-2014-49,2014,2010s,2014-06-28,13:00,Round Of 16,Knockout Stage,not applicable,Estádio Mineirão,Belo Horizonte,Brazil,Brazil,Chile,1,1,2,0,Draw,Brazil,Yes,Yes,3,2,No,1–1
+M-2014-50,2014,2010s,2014-06-28,17:00,Round Of 16,Knockout Stage,not applicable,Estádio do Maracanã,Rio de Janeiro,Brazil,Colombia,Uruguay,2,0,2,2,Home Win,Colombia,No,No,0,0,No,2–0
+M-2014-51,2014,2010s,2014-06-29,13:00,Round Of 16,Knockout Stage,not applicable,Estádio Castelão,Fortaleza,Brazil,Netherlands,Mexico,2,1,3,1,Home Win,Netherlands,No,No,0,0,No,2–1
+M-2014-52,2014,2010s,2014-06-29,17:00,Round Of 16,Knockout Stage,not applicable,Arena Pernambuco,Recife,Brazil,Costa Rica,Greece,1,1,2,0,Draw,Costa Rica,Yes,Yes,5,3,No,1–1
+M-2014-53,2014,2010s,2014-06-30,13:00,Round Of 16,Knockout Stage,not applicable,Estádio Nacional,Brasília,Brazil,France,Nigeria,2,0,2,2,Home Win,France,No,No,0,0,No,2–0
+M-2014-54,2014,2010s,2014-06-30,17:00,Round Of 16,Knockout Stage,not applicable,Estádio Beira-Rio,Porto Alegre,Brazil,Germany,Algeria,2,1,3,1,Home Win,Germany,Yes,No,0,0,No,2–1
+M-2014-55,2014,2010s,2014-07-01,13:00,Round Of 16,Knockout Stage,not applicable,Arena Corinthians,São Paulo,Brazil,Argentina,Switzerland,1,0,1,1,Home Win,Argentina,Yes,No,0,0,No,1–0
+M-2014-56,2014,2010s,2014-07-01,17:00,Round Of 16,Knockout Stage,not applicable,Arena Fonte Nova,Salvador,Brazil,Belgium,United States,2,1,3,1,Home Win,Belgium,Yes,No,0,0,No,2–1
+M-2014-57,2014,2010s,2014-07-04,13:00,Quarter-Finals,Knockout Stage,not applicable,Estádio do Maracanã,Rio de Janeiro,Brazil,France,Germany,0,1,1,1,Away Win,Germany,No,No,0,0,No,0–1
+M-2014-58,2014,2010s,2014-07-04,17:00,Quarter-Finals,Knockout Stage,not applicable,Estádio Castelão,Fortaleza,Brazil,Brazil,Colombia,2,1,3,1,Home Win,Brazil,No,No,0,0,No,2–1
+M-2014-59,2014,2010s,2014-07-05,13:00,Quarter-Finals,Knockout Stage,not applicable,Estádio Nacional,Brasília,Brazil,Argentina,Belgium,1,0,1,1,Home Win,Argentina,No,No,0,0,No,1–0
+M-2014-60,2014,2010s,2014-07-05,17:00,Quarter-Finals,Knockout Stage,not applicable,Arena Fonte Nova,Salvador,Brazil,Netherlands,Costa Rica,0,0,0,0,Draw,Netherlands,Yes,Yes,4,3,No,0–0
+M-2014-61,2014,2010s,2014-07-08,17:00,Semi-Finals,Knockout Stage,not applicable,Estádio Mineirão,Belo Horizonte,Brazil,Brazil,Germany,1,7,8,6,Away Win,Germany,No,No,0,0,Yes,1–7
+M-2014-62,2014,2010s,2014-07-09,17:00,Semi-Finals,Knockout Stage,not applicable,Arena Corinthians,São Paulo,Brazil,Netherlands,Argentina,0,0,0,0,Draw,Argentina,Yes,Yes,2,4,No,0–0
+M-2014-63,2014,2010s,2014-07-12,17:00,Third-Place Match,Knockout Stage,not applicable,Estádio Nacional,Brasília,Brazil,Brazil,Netherlands,0,3,3,3,Away Win,Netherlands,No,No,0,0,No,0–3
+M-2014-64,2014,2010s,2014-07-13,16:00,Final,Knockout Stage,not applicable,Estádio do Maracanã,Rio de Janeiro,Brazil,Germany,Argentina,1,0,1,1,Home Win,Germany,Yes,No,0,0,No,1–0
+M-2018-01,2018,2010s,2018-06-14,18:00,Group Stage,Group Stage,Group A,Luzhniki Stadium,Moscow,Russia,Russia,Saudi Arabia,5,0,5,5,Home Win,Russia,No,No,0,0,Yes,5–0
+M-2018-02,2018,2010s,2018-06-15,17:00,Group Stage,Group Stage,Group A,Central Stadium,Yekaterinburg,Russia,Egypt,Uruguay,0,1,1,1,Away Win,Uruguay,No,No,0,0,No,0–1
+M-2018-03,2018,2010s,2018-06-15,18:00,Group Stage,Group Stage,Group B,Krestovsky Stadium,Saint Petersburg,Russia,Morocco,Iran,0,1,1,1,Away Win,Iran,No,No,0,0,No,0–1
+M-2018-04,2018,2010s,2018-06-15,21:00,Group Stage,Group Stage,Group B,Fisht Olympic Stadium,Sochi,Russia,Portugal,Spain,3,3,6,0,Draw,Draw,No,No,0,0,Yes,3–3
+M-2018-05,2018,2010s,2018-06-16,13:00,Group Stage,Group Stage,Group C,Kazan Arena,Kazan,Russia,France,Australia,2,1,3,1,Home Win,France,No,No,0,0,No,2–1
+M-2018-06,2018,2010s,2018-06-16,16:00,Group Stage,Group Stage,Group D,Otkritie Arena,Moscow,Russia,Argentina,Iceland,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2018-07,2018,2010s,2018-06-16,19:00,Group Stage,Group Stage,Group C,Mordovia Arena,Saransk,Russia,Peru,Denmark,0,1,1,1,Away Win,Denmark,No,No,0,0,No,0–1
+M-2018-08,2018,2010s,2018-06-16,21:00,Group Stage,Group Stage,Group D,Kaliningrad Stadium,Kaliningrad,Russia,Croatia,Nigeria,2,0,2,2,Home Win,Croatia,No,No,0,0,No,2–0
+M-2018-09,2018,2010s,2018-06-17,16:00,Group Stage,Group Stage,Group E,Samara Arena,Samara,Russia,Costa Rica,Serbia,0,1,1,1,Away Win,Serbia,No,No,0,0,No,0–1
+M-2018-10,2018,2010s,2018-06-17,18:00,Group Stage,Group Stage,Group F,Luzhniki Stadium,Moscow,Russia,Germany,Mexico,0,1,1,1,Away Win,Mexico,No,No,0,0,No,0–1
+M-2018-11,2018,2010s,2018-06-17,21:00,Group Stage,Group Stage,Group E,Rostov Arena,Rostov-on-Don,Russia,Brazil,Switzerland,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2018-12,2018,2010s,2018-06-18,15:00,Group Stage,Group Stage,Group F,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,Sweden,South Korea,1,0,1,1,Home Win,Sweden,No,No,0,0,No,1–0
+M-2018-13,2018,2010s,2018-06-18,18:00,Group Stage,Group Stage,Group G,Fisht Olympic Stadium,Sochi,Russia,Belgium,Panama,3,0,3,3,Home Win,Belgium,No,No,0,0,No,3–0
+M-2018-14,2018,2010s,2018-06-18,21:00,Group Stage,Group Stage,Group G,Volgograd Arena,Volgograd,Russia,Tunisia,England,1,2,3,1,Away Win,England,No,No,0,0,No,1–2
+M-2018-15,2018,2010s,2018-06-19,15:00,Group Stage,Group Stage,Group H,Mordovia Arena,Saransk,Russia,Colombia,Japan,1,2,3,1,Away Win,Japan,No,No,0,0,No,1–2
+M-2018-16,2018,2010s,2018-06-19,18:00,Group Stage,Group Stage,Group H,Otkritie Arena,Moscow,Russia,Poland,Senegal,1,2,3,1,Away Win,Senegal,No,No,0,0,No,1–2
+M-2018-17,2018,2010s,2018-06-19,21:00,Group Stage,Group Stage,Group A,Krestovsky Stadium,Saint Petersburg,Russia,Russia,Egypt,3,1,4,2,Home Win,Russia,No,No,0,0,No,3–1
+M-2018-18,2018,2010s,2018-06-20,15:00,Group Stage,Group Stage,Group B,Luzhniki Stadium,Moscow,Russia,Portugal,Morocco,1,0,1,1,Home Win,Portugal,No,No,0,0,No,1–0
+M-2018-19,2018,2010s,2018-06-20,18:00,Group Stage,Group Stage,Group A,Rostov Arena,Rostov-on-Don,Russia,Uruguay,Saudi Arabia,1,0,1,1,Home Win,Uruguay,No,No,0,0,No,1–0
+M-2018-20,2018,2010s,2018-06-20,21:00,Group Stage,Group Stage,Group B,Kazan Arena,Kazan,Russia,Iran,Spain,0,1,1,1,Away Win,Spain,No,No,0,0,No,0–1
+M-2018-21,2018,2010s,2018-06-21,16:00,Group Stage,Group Stage,Group C,Samara Arena,Samara,Russia,Denmark,Australia,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2018-22,2018,2010s,2018-06-21,20:00,Group Stage,Group Stage,Group C,Central Stadium,Yekaterinburg,Russia,France,Peru,1,0,1,1,Home Win,France,No,No,0,0,No,1–0
+M-2018-23,2018,2010s,2018-06-21,21:00,Group Stage,Group Stage,Group D,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,Argentina,Croatia,0,3,3,3,Away Win,Croatia,No,No,0,0,No,0–3
+M-2018-24,2018,2010s,2018-06-22,15:00,Group Stage,Group Stage,Group E,Krestovsky Stadium,Saint Petersburg,Russia,Brazil,Costa Rica,2,0,2,2,Home Win,Brazil,No,No,0,0,No,2–0
+M-2018-25,2018,2010s,2018-06-22,18:00,Group Stage,Group Stage,Group D,Volgograd Arena,Volgograd,Russia,Nigeria,Iceland,2,0,2,2,Home Win,Nigeria,No,No,0,0,No,2–0
+M-2018-26,2018,2010s,2018-06-22,20:00,Group Stage,Group Stage,Group E,Kaliningrad Stadium,Kaliningrad,Russia,Serbia,Switzerland,1,2,3,1,Away Win,Switzerland,No,No,0,0,No,1–2
+M-2018-27,2018,2010s,2018-06-23,15:00,Group Stage,Group Stage,Group G,Otkritie Arena,Moscow,Russia,Belgium,Tunisia,5,2,7,3,Home Win,Belgium,No,No,0,0,Yes,5–2
+M-2018-28,2018,2010s,2018-06-23,18:00,Group Stage,Group Stage,Group F,Rostov Arena,Rostov-on-Don,Russia,South Korea,Mexico,1,2,3,1,Away Win,Mexico,No,No,0,0,No,1–2
+M-2018-29,2018,2010s,2018-06-23,21:00,Group Stage,Group Stage,Group F,Fisht Olympic Stadium,Sochi,Russia,Germany,Sweden,2,1,3,1,Home Win,Germany,No,No,0,0,No,2–1
+M-2018-30,2018,2010s,2018-06-24,15:00,Group Stage,Group Stage,Group G,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,England,Panama,6,1,7,5,Home Win,England,No,No,0,0,Yes,6–1
+M-2018-31,2018,2010s,2018-06-24,20:00,Group Stage,Group Stage,Group H,Central Stadium,Yekaterinburg,Russia,Japan,Senegal,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-2018-32,2018,2010s,2018-06-24,21:00,Group Stage,Group Stage,Group H,Kazan Arena,Kazan,Russia,Poland,Colombia,0,3,3,3,Away Win,Colombia,No,No,0,0,No,0–3
+M-2018-33,2018,2010s,2018-06-25,17:00,Group Stage,Group Stage,Group A,Volgograd Arena,Volgograd,Russia,Saudi Arabia,Egypt,2,1,3,1,Home Win,Saudi Arabia,No,No,0,0,No,2–1
+M-2018-34,2018,2010s,2018-06-25,18:00,Group Stage,Group Stage,Group A,Samara Arena,Samara,Russia,Uruguay,Russia,3,0,3,3,Home Win,Uruguay,No,No,0,0,No,3–0
+M-2018-35,2018,2010s,2018-06-25,20:00,Group Stage,Group Stage,Group B,Kaliningrad Stadium,Kaliningrad,Russia,Spain,Morocco,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-2018-36,2018,2010s,2018-06-25,21:00,Group Stage,Group Stage,Group B,Mordovia Arena,Saransk,Russia,Iran,Portugal,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2018-37,2018,2010s,2018-06-26,17:00,Group Stage,Group Stage,Group C,Fisht Olympic Stadium,Sochi,Russia,Australia,Peru,0,2,2,2,Away Win,Peru,No,No,0,0,No,0–2
+M-2018-38,2018,2010s,2018-06-26,17:00,Group Stage,Group Stage,Group C,Luzhniki Stadium,Moscow,Russia,Denmark,France,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2018-39,2018,2010s,2018-06-26,21:00,Group Stage,Group Stage,Group D,Rostov Arena,Rostov-on-Don,Russia,Iceland,Croatia,1,2,3,1,Away Win,Croatia,No,No,0,0,No,1–2
+M-2018-40,2018,2010s,2018-06-26,21:00,Group Stage,Group Stage,Group D,Krestovsky Stadium,Saint Petersburg,Russia,Nigeria,Argentina,1,2,3,1,Away Win,Argentina,No,No,0,0,No,1–2
+M-2018-41,2018,2010s,2018-06-27,17:00,Group Stage,Group Stage,Group F,Kazan Arena,Kazan,Russia,South Korea,Germany,2,0,2,2,Home Win,South Korea,No,No,0,0,No,2–0
+M-2018-42,2018,2010s,2018-06-27,19:00,Group Stage,Group Stage,Group F,Central Stadium,Yekaterinburg,Russia,Mexico,Sweden,0,3,3,3,Away Win,Sweden,No,No,0,0,No,0–3
+M-2018-43,2018,2010s,2018-06-27,21:00,Group Stage,Group Stage,Group E,Otkritie Arena,Moscow,Russia,Serbia,Brazil,0,2,2,2,Away Win,Brazil,No,No,0,0,No,0–2
+M-2018-44,2018,2010s,2018-06-27,21:00,Group Stage,Group Stage,Group E,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,Switzerland,Costa Rica,2,2,4,0,Draw,Draw,No,No,0,0,No,2–2
+M-2018-45,2018,2010s,2018-06-28,17:00,Group Stage,Group Stage,Group H,Volgograd Arena,Volgograd,Russia,Japan,Poland,0,1,1,1,Away Win,Poland,No,No,0,0,No,0–1
+M-2018-46,2018,2010s,2018-06-28,18:00,Group Stage,Group Stage,Group H,Samara Arena,Samara,Russia,Senegal,Colombia,0,1,1,1,Away Win,Colombia,No,No,0,0,No,0–1
+M-2018-47,2018,2010s,2018-06-28,20:00,Group Stage,Group Stage,Group G,Kaliningrad Stadium,Kaliningrad,Russia,England,Belgium,0,1,1,1,Away Win,Belgium,No,No,0,0,No,0–1
+M-2018-48,2018,2010s,2018-06-28,21:00,Group Stage,Group Stage,Group G,Mordovia Arena,Saransk,Russia,Panama,Tunisia,1,2,3,1,Away Win,Tunisia,No,No,0,0,No,1–2
+M-2018-49,2018,2010s,2018-06-30,17:00,Round Of 16,Knockout Stage,not applicable,Kazan Arena,Kazan,Russia,France,Argentina,4,3,7,1,Home Win,France,No,No,0,0,Yes,4–3
+M-2018-50,2018,2010s,2018-06-30,21:00,Round Of 16,Knockout Stage,not applicable,Fisht Olympic Stadium,Sochi,Russia,Uruguay,Portugal,2,1,3,1,Home Win,Uruguay,No,No,0,0,No,2–1
+M-2018-51,2018,2010s,2018-07-01,17:00,Round Of 16,Knockout Stage,not applicable,Luzhniki Stadium,Moscow,Russia,Spain,Russia,1,1,2,0,Draw,Russia,Yes,Yes,3,4,No,1–1
+M-2018-52,2018,2010s,2018-07-01,21:00,Round Of 16,Knockout Stage,not applicable,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,Croatia,Denmark,1,1,2,0,Draw,Croatia,Yes,Yes,3,2,No,1–1
+M-2018-53,2018,2010s,2018-07-02,18:00,Round Of 16,Knockout Stage,not applicable,Samara Arena,Samara,Russia,Brazil,Mexico,2,0,2,2,Home Win,Brazil,No,No,0,0,No,2–0
+M-2018-54,2018,2010s,2018-07-02,21:00,Round Of 16,Knockout Stage,not applicable,Rostov Arena,Rostov-on-Don,Russia,Belgium,Japan,3,2,5,1,Home Win,Belgium,No,No,0,0,Yes,3–2
+M-2018-55,2018,2010s,2018-07-03,17:00,Round Of 16,Knockout Stage,not applicable,Krestovsky Stadium,Saint Petersburg,Russia,Sweden,Switzerland,1,0,1,1,Home Win,Sweden,No,No,0,0,No,1–0
+M-2018-56,2018,2010s,2018-07-03,21:00,Round Of 16,Knockout Stage,not applicable,Otkritie Arena,Moscow,Russia,Colombia,England,1,1,2,0,Draw,England,Yes,Yes,3,4,No,1–1
+M-2018-57,2018,2010s,2018-07-06,17:00,Quarter-Finals,Knockout Stage,not applicable,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,Uruguay,France,0,2,2,2,Away Win,France,No,No,0,0,No,0–2
+M-2018-58,2018,2010s,2018-07-06,21:00,Quarter-Finals,Knockout Stage,not applicable,Kazan Arena,Kazan,Russia,Brazil,Belgium,1,2,3,1,Away Win,Belgium,No,No,0,0,No,1–2
+M-2018-59,2018,2010s,2018-07-07,18:00,Quarter-Finals,Knockout Stage,not applicable,Samara Arena,Samara,Russia,Sweden,England,0,2,2,2,Away Win,England,No,No,0,0,No,0–2
+M-2018-60,2018,2010s,2018-07-07,21:00,Quarter-Finals,Knockout Stage,not applicable,Fisht Olympic Stadium,Sochi,Russia,Russia,Croatia,2,2,4,0,Draw,Croatia,Yes,Yes,3,4,No,2–2
+M-2018-61,2018,2010s,2018-07-10,21:00,Semi-Finals,Knockout Stage,not applicable,Krestovsky Stadium,Saint Petersburg,Russia,France,Belgium,1,0,1,1,Home Win,France,No,No,0,0,No,1–0
+M-2018-62,2018,2010s,2018-07-11,21:00,Semi-Finals,Knockout Stage,not applicable,Luzhniki Stadium,Moscow,Russia,Croatia,England,2,1,3,1,Home Win,Croatia,Yes,No,0,0,No,2–1
+M-2018-63,2018,2010s,2018-07-14,17:00,Third-Place Match,Knockout Stage,not applicable,Krestovsky Stadium,Saint Petersburg,Russia,Belgium,England,2,0,2,2,Home Win,Belgium,No,No,0,0,No,2–0
+M-2018-64,2018,2010s,2018-07-15,18:00,Final,Knockout Stage,not applicable,Luzhniki Stadium,Moscow,Russia,France,Croatia,4,2,6,2,Home Win,France,No,No,0,0,Yes,4–2
+M-2022-01,2022,2020s,2022-11-20,19:00,Group Stage,Group Stage,Group A,Al Bayt Stadium,Al Khor,Qatar,Qatar,Ecuador,0,2,2,2,Away Win,Ecuador,No,No,0,0,No,0–2
+M-2022-02,2022,2020s,2022-11-21,16:00,Group Stage,Group Stage,Group B,Khalifa International Stadium,Al Rayyan,Qatar,England,Iran,6,2,8,4,Home Win,England,No,No,0,0,Yes,6–2
+M-2022-03,2022,2020s,2022-11-21,19:00,Group Stage,Group Stage,Group A,Al Thumama Stadium,Doha,Qatar,Senegal,Netherlands,0,2,2,2,Away Win,Netherlands,No,No,0,0,No,0–2
+M-2022-04,2022,2020s,2022-11-21,22:00,Group Stage,Group Stage,Group B,Ahmad bin Ali Stadium,Al Rayyan,Qatar,United States,Wales,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2022-05,2022,2020s,2022-11-22,13:00,Group Stage,Group Stage,Group C,Lusail Stadium,Lusail,Qatar,Argentina,Saudi Arabia,1,2,3,1,Away Win,Saudi Arabia,No,No,0,0,No,1–2
+M-2022-06,2022,2020s,2022-11-22,16:00,Group Stage,Group Stage,Group D,Education City Stadium,Al Rayyan,Qatar,Denmark,Tunisia,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2022-07,2022,2020s,2022-11-22,19:00,Group Stage,Group Stage,Group C,Stadium 974,Doha,Qatar,Mexico,Poland,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2022-08,2022,2020s,2022-11-22,22:00,Group Stage,Group Stage,Group D,Al Janoub Stadium,Al Wakrah,Qatar,France,Australia,4,1,5,3,Home Win,France,No,No,0,0,Yes,4–1
+M-2022-09,2022,2020s,2022-11-23,13:00,Group Stage,Group Stage,Group F,Al Bayt Stadium,Al Khor,Qatar,Morocco,Croatia,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2022-10,2022,2020s,2022-11-23,16:00,Group Stage,Group Stage,Group E,Khalifa International Stadium,Al Rayyan,Qatar,Germany,Japan,1,2,3,1,Away Win,Japan,No,No,0,0,No,1–2
+M-2022-11,2022,2020s,2022-11-23,19:00,Group Stage,Group Stage,Group E,Al Thumama Stadium,Doha,Qatar,Spain,Costa Rica,7,0,7,7,Home Win,Spain,No,No,0,0,Yes,7–0
+M-2022-12,2022,2020s,2022-11-23,22:00,Group Stage,Group Stage,Group F,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Belgium,Canada,1,0,1,1,Home Win,Belgium,No,No,0,0,No,1–0
+M-2022-13,2022,2020s,2022-11-24,13:00,Group Stage,Group Stage,Group G,Al Janoub Stadium,Al Wakrah,Qatar,Switzerland,Cameroon,1,0,1,1,Home Win,Switzerland,No,No,0,0,No,1–0
+M-2022-14,2022,2020s,2022-11-24,16:00,Group Stage,Group Stage,Group H,Education City Stadium,Al Rayyan,Qatar,Uruguay,South Korea,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2022-15,2022,2020s,2022-11-24,19:00,Group Stage,Group Stage,Group H,Stadium 974,Doha,Qatar,Portugal,Ghana,3,2,5,1,Home Win,Portugal,No,No,0,0,Yes,3–2
+M-2022-16,2022,2020s,2022-11-24,22:00,Group Stage,Group Stage,Group G,Lusail Stadium,Lusail,Qatar,Brazil,Serbia,2,0,2,2,Home Win,Brazil,No,No,0,0,No,2–0
+M-2022-17,2022,2020s,2022-11-25,13:00,Group Stage,Group Stage,Group B,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Wales,Iran,0,2,2,2,Away Win,Iran,No,No,0,0,No,0–2
+M-2022-18,2022,2020s,2022-11-25,16:00,Group Stage,Group Stage,Group A,Al Thumama Stadium,Doha,Qatar,Qatar,Senegal,1,3,4,2,Away Win,Senegal,No,No,0,0,No,1–3
+M-2022-19,2022,2020s,2022-11-25,19:00,Group Stage,Group Stage,Group A,Khalifa International Stadium,Al Rayyan,Qatar,Netherlands,Ecuador,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2022-20,2022,2020s,2022-11-25,22:00,Group Stage,Group Stage,Group B,Al Bayt Stadium,Al Khor,Qatar,England,United States,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2022-21,2022,2020s,2022-11-26,13:00,Group Stage,Group Stage,Group D,Al Janoub Stadium,Al Wakrah,Qatar,Tunisia,Australia,0,1,1,1,Away Win,Australia,No,No,0,0,No,0–1
+M-2022-22,2022,2020s,2022-11-26,16:00,Group Stage,Group Stage,Group C,Education City Stadium,Al Rayyan,Qatar,Poland,Saudi Arabia,2,0,2,2,Home Win,Poland,No,No,0,0,No,2–0
+M-2022-23,2022,2020s,2022-11-26,19:00,Group Stage,Group Stage,Group D,Stadium 974,Doha,Qatar,France,Denmark,2,1,3,1,Home Win,France,No,No,0,0,No,2–1
+M-2022-24,2022,2020s,2022-11-26,22:00,Group Stage,Group Stage,Group C,Lusail Stadium,Lusail,Qatar,Argentina,Mexico,2,0,2,2,Home Win,Argentina,No,No,0,0,No,2–0
+M-2022-25,2022,2020s,2022-11-27,13:00,Group Stage,Group Stage,Group E,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Japan,Costa Rica,0,1,1,1,Away Win,Costa Rica,No,No,0,0,No,0–1
+M-2022-26,2022,2020s,2022-11-27,16:00,Group Stage,Group Stage,Group F,Al Thumama Stadium,Doha,Qatar,Belgium,Morocco,0,2,2,2,Away Win,Morocco,No,No,0,0,No,0–2
+M-2022-27,2022,2020s,2022-11-27,19:00,Group Stage,Group Stage,Group F,Khalifa International Stadium,Al Rayyan,Qatar,Croatia,Canada,4,1,5,3,Home Win,Croatia,No,No,0,0,Yes,4–1
+M-2022-28,2022,2020s,2022-11-27,22:00,Group Stage,Group Stage,Group E,Al Bayt Stadium,Al Khor,Qatar,Spain,Germany,1,1,2,0,Draw,Draw,No,No,0,0,No,1–1
+M-2022-29,2022,2020s,2022-11-28,13:00,Group Stage,Group Stage,Group G,Al Janoub Stadium,Al Wakrah,Qatar,Cameroon,Serbia,3,3,6,0,Draw,Draw,No,No,0,0,Yes,3–3
+M-2022-30,2022,2020s,2022-11-28,16:00,Group Stage,Group Stage,Group H,Education City Stadium,Al Rayyan,Qatar,South Korea,Ghana,2,3,5,1,Away Win,Ghana,No,No,0,0,Yes,2–3
+M-2022-31,2022,2020s,2022-11-28,19:00,Group Stage,Group Stage,Group G,Stadium 974,Doha,Qatar,Brazil,Switzerland,1,0,1,1,Home Win,Brazil,No,No,0,0,No,1–0
+M-2022-32,2022,2020s,2022-11-28,22:00,Group Stage,Group Stage,Group H,Lusail Stadium,Lusail,Qatar,Portugal,Uruguay,2,0,2,2,Home Win,Portugal,No,No,0,0,No,2–0
+M-2022-33,2022,2020s,2022-11-29,18:00,Group Stage,Group Stage,Group A,Khalifa International Stadium,Al Rayyan,Qatar,Ecuador,Senegal,1,2,3,1,Away Win,Senegal,No,No,0,0,No,1–2
+M-2022-34,2022,2020s,2022-11-29,18:00,Group Stage,Group Stage,Group A,Al Bayt Stadium,Al Khor,Qatar,Netherlands,Qatar,2,0,2,2,Home Win,Netherlands,No,No,0,0,No,2–0
+M-2022-35,2022,2020s,2022-11-29,22:00,Group Stage,Group Stage,Group B,Al Thumama Stadium,Doha,Qatar,Iran,United States,0,1,1,1,Away Win,United States,No,No,0,0,No,0–1
+M-2022-36,2022,2020s,2022-11-29,22:00,Group Stage,Group Stage,Group B,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Wales,England,0,3,3,3,Away Win,England,No,No,0,0,No,0–3
+M-2022-37,2022,2020s,2022-11-30,18:00,Group Stage,Group Stage,Group D,Al Janoub Stadium,Al Wakrah,Qatar,Australia,Denmark,1,0,1,1,Home Win,Australia,No,No,0,0,No,1–0
+M-2022-38,2022,2020s,2022-11-30,18:00,Group Stage,Group Stage,Group D,Education City Stadium,Al Rayyan,Qatar,Tunisia,France,1,0,1,1,Home Win,Tunisia,No,No,0,0,No,1–0
+M-2022-39,2022,2020s,2022-11-30,22:00,Group Stage,Group Stage,Group C,Stadium 974,Doha,Qatar,Poland,Argentina,0,2,2,2,Away Win,Argentina,No,No,0,0,No,0–2
+M-2022-40,2022,2020s,2022-11-30,22:00,Group Stage,Group Stage,Group C,Lusail Stadium,Lusail,Qatar,Saudi Arabia,Mexico,1,2,3,1,Away Win,Mexico,No,No,0,0,No,1–2
+M-2022-41,2022,2020s,2022-12-01,18:00,Group Stage,Group Stage,Group F,Al Thumama Stadium,Doha,Qatar,Canada,Morocco,1,2,3,1,Away Win,Morocco,No,No,0,0,No,1–2
+M-2022-42,2022,2020s,2022-12-01,18:00,Group Stage,Group Stage,Group F,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Croatia,Belgium,0,0,0,0,Draw,Draw,No,No,0,0,No,0–0
+M-2022-43,2022,2020s,2022-12-01,22:00,Group Stage,Group Stage,Group E,Al Bayt Stadium,Al Khor,Qatar,Costa Rica,Germany,2,4,6,2,Away Win,Germany,No,No,0,0,Yes,2–4
+M-2022-44,2022,2020s,2022-12-01,22:00,Group Stage,Group Stage,Group E,Khalifa International Stadium,Al Rayyan,Qatar,Japan,Spain,2,1,3,1,Home Win,Japan,No,No,0,0,No,2–1
+M-2022-45,2022,2020s,2022-12-02,18:00,Group Stage,Group Stage,Group H,Al Janoub Stadium,Al Wakrah,Qatar,Ghana,Uruguay,0,2,2,2,Away Win,Uruguay,No,No,0,0,No,0–2
+M-2022-46,2022,2020s,2022-12-02,18:00,Group Stage,Group Stage,Group H,Education City Stadium,Al Rayyan,Qatar,South Korea,Portugal,2,1,3,1,Home Win,South Korea,No,No,0,0,No,2–1
+M-2022-47,2022,2020s,2022-12-02,22:00,Group Stage,Group Stage,Group G,Lusail Stadium,Lusail,Qatar,Cameroon,Brazil,1,0,1,1,Home Win,Cameroon,No,No,0,0,No,1–0
+M-2022-48,2022,2020s,2022-12-02,22:00,Group Stage,Group Stage,Group G,Stadium 974,Doha,Qatar,Serbia,Switzerland,2,3,5,1,Away Win,Switzerland,No,No,0,0,Yes,2–3
+M-2022-49,2022,2020s,2022-12-03,18:00,Round Of 16,Knockout Stage,not applicable,Khalifa International Stadium,Al Rayyan,Qatar,Netherlands,United States,3,1,4,2,Home Win,Netherlands,No,No,0,0,No,3–1
+M-2022-50,2022,2020s,2022-12-03,22:00,Round Of 16,Knockout Stage,not applicable,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Argentina,Australia,2,1,3,1,Home Win,Argentina,No,No,0,0,No,2–1
+M-2022-51,2022,2020s,2022-12-04,18:00,Round Of 16,Knockout Stage,not applicable,Al Thumama Stadium,Doha,Qatar,France,Poland,3,1,4,2,Home Win,France,No,No,0,0,No,3–1
+M-2022-52,2022,2020s,2022-12-04,22:00,Round Of 16,Knockout Stage,not applicable,Al Bayt Stadium,Al Khor,Qatar,England,Senegal,3,0,3,3,Home Win,England,No,No,0,0,No,3–0
+M-2022-53,2022,2020s,2022-12-05,18:00,Round Of 16,Knockout Stage,not applicable,Al Janoub Stadium,Al Wakrah,Qatar,Japan,Croatia,1,1,2,0,Draw,Croatia,Yes,Yes,1,3,No,1–1
+M-2022-54,2022,2020s,2022-12-05,22:00,Round Of 16,Knockout Stage,not applicable,Stadium 974,Doha,Qatar,Brazil,South Korea,4,1,5,3,Home Win,Brazil,No,No,0,0,Yes,4–1
+M-2022-55,2022,2020s,2022-12-06,18:00,Round Of 16,Knockout Stage,not applicable,Education City Stadium,Al Rayyan,Qatar,Morocco,Spain,0,0,0,0,Draw,Morocco,Yes,Yes,3,0,No,0–0
+M-2022-56,2022,2020s,2022-12-06,22:00,Round Of 16,Knockout Stage,not applicable,Lusail Stadium,Lusail,Qatar,Portugal,Switzerland,6,1,7,5,Home Win,Portugal,No,No,0,0,Yes,6–1
+M-2022-57,2022,2020s,2022-12-09,18:00,Quarter-Finals,Knockout Stage,not applicable,Education City Stadium,Al Rayyan,Qatar,Croatia,Brazil,1,1,2,0,Draw,Croatia,Yes,Yes,4,2,No,1–1
+M-2022-58,2022,2020s,2022-12-09,22:00,Quarter-Finals,Knockout Stage,not applicable,Lusail Stadium,Lusail,Qatar,Netherlands,Argentina,2,2,4,0,Draw,Argentina,Yes,Yes,3,4,No,2–2
+M-2022-59,2022,2020s,2022-12-10,18:00,Quarter-Finals,Knockout Stage,not applicable,Al Thumama Stadium,Doha,Qatar,Morocco,Portugal,1,0,1,1,Home Win,Morocco,No,No,0,0,No,1–0
+M-2022-60,2022,2020s,2022-12-10,22:00,Quarter-Finals,Knockout Stage,not applicable,Al Bayt Stadium,Al Khor,Qatar,England,France,1,2,3,1,Away Win,France,No,No,0,0,No,1–2
+M-2022-61,2022,2020s,2022-12-13,22:00,Semi-Finals,Knockout Stage,not applicable,Lusail Stadium,Lusail,Qatar,Argentina,Croatia,3,0,3,3,Home Win,Argentina,No,No,0,0,No,3–0
+M-2022-62,2022,2020s,2022-12-14,22:00,Semi-Finals,Knockout Stage,not applicable,Al Bayt Stadium,Al Khor,Qatar,France,Morocco,2,0,2,2,Home Win,France,No,No,0,0,No,2–0
+M-2022-63,2022,2020s,2022-12-17,18:00,Third-Place Match,Knockout Stage,not applicable,Khalifa International Stadium,Al Rayyan,Qatar,Croatia,Morocco,2,1,3,1,Home Win,Croatia,No,No,0,0,No,2–1
+M-2022-64,2022,2020s,2022-12-18,18:00,Final,Knockout Stage,not applicable,Lusail Stadium,Lusail,Qatar,Argentina,France,3,3,6,0,Draw,Argentina,Yes,Yes,4,2,Yes,3–3
